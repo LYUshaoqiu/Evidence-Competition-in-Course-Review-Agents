@@ -1,0 +1,13 @@
+This project stems from a real-world problem encountered in my personal project: students increasingly rely on online course evaluations when selecting courses, and they are also increasingly willing to use LLM models to refine or replace evaluations when writing comments on social media.
+
+At this point, the large-scale language model is deeply involved in two aspects:
+
+1. The large-scale language model intervenes during data generation.
+
+2. Students often use LLM when searching for relevant course reviews. The large-scale language model also intervenes in the data output.
+
+This unconscious behavior gradually creates background noise. More and more comments with genuine emotions and evaluations are smoothed by the language model. They appear very accurate, but often fall into an average impression.
+
+However, when students ask AI about a course, they don't want an average impression, but rather a few specific but important real-world experiences, such as exams being much harder than sample questions, feedback being too late, or grading criteria being vague—low-frequency risks.
+
+Generative AI reduces the cost of comment pollution, and the aforementioned background noise can also be used as an attack method. Attackers can mass-produce synthetic comments with mild tones, seemingly neutral, and without obvious violations. Individually, these comments may not appear to be spam, but they add low-evidence-density content at the aggregate level, drowning out genuine risk evidence during retrieval and summarization. This project therefore investigates Synthetic Signal Dilution Attack in course evaluation agents: it is not traditional review manipulation, RAG poisoning, or prompt injection, but rather a data integrity attack targeting the external course evaluation environment. The project will construct a controlled course evaluation dataset, simulate various synthetic review contamination methods, and evaluate whether the agent misses key course risks as a result.
