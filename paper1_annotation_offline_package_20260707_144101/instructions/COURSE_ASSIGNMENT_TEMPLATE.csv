@@ -1,0 +1,5 @@
+annotator_id,course_code,course_title_en,notes
+alice,COMP6080,Web Front-End Programming,
+alice,COMP6991,Solving Modern Programming Problems with Rust,
+bob,COMP6713,Natural Language Processing,
+bob,COMP9417,Machine Learning,

@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Paper 1 Course Review Annotation Tool</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1>Paper 1 课程评论标注工具</h1>
+      <p>标注目标：找出评论中的具体证据、风险类型，以及课程级 must-report risks。</p>
+    </div>
+    <div class="header-actions">
+      <label class="annotator-label">
+        annotator_id / 标注人 ID
+        <input id="annotatorId" placeholder="例如 alice 或 zhangsan" />
+      </label>
+      <label class="file-button">
+        导入评论 CSV
+        <input id="csvInput" type="file" accept=".csv,text/csv" />
+      </label>
+      <button id="exportReviewBtn">导出评论标注 review_annotations CSV</button>
+      <button id="exportEvidenceBtn">导出证据片段 evidence_units CSV</button>
+      <button id="exportRiskBtn">导出课程风险 course_gold_risks CSV</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>数据状态</h2>
+        <div id="datasetStatus" class="status">尚未导入 CSV。</div>
+      </section>
+
+      <section class="panel">
+        <h2>课程列表</h2>
+        <input id="courseSearch" class="search" placeholder="搜索课程代码或名称" />
+        <div id="courseList" class="course-list"></div>
+      </section>
+    </aside>
+
+    <section class="content">
+      <section class="panel current-course">
+        <div>
+          <h2 id="courseTitle">请选择课程</h2>
+          <p id="courseMeta">导入 CSV 后，从左侧选择一门课开始标注。</p>
+        </div>
+        <div class="nav-actions">
+          <button id="prevCommentBtn">上一条</button>
+          <button id="nextCommentBtn">下一条</button>
+        </div>
+      </section>
+
+      <section class="panel comment-panel">
+        <div class="comment-topline">
+          <span id="commentCounter">0 / 0</span>
+          <span id="commentId">comment_id: -</span>
+          <span id="studyYear">study_year: -</span>
+        </div>
+        <article id="commentContent" class="comment-content">暂无评论。</article>
+      </section>
+
+      <section class="panel annotation-panel">
+        <h2>评论级标注</h2>
+        <div class="grid two">
+          <label>
+            一手经验
+            <select id="firstHand">
+              <option value="">未标注</option>
+              <option value="yes">yes / 是 - 明显是亲身经历</option>
+              <option value="no">no / 否 - 听说/转述/广告/泛泛判断</option>
+              <option value="unclear">unclear / 不确定 - 无法判断</option>
+            </select>
+          </label>
+          <label>
+            情绪倾向
+            <select id="sentiment">
+              <option value="">未标注</option>
+              <option value="positive">positive / 正面</option>
+              <option value="negative">negative / 负面</option>
+              <option value="mixed">mixed / 混合</option>
+              <option value="neutral">neutral / 中性</option>
+            </select>
+          </label>
+          <label>
+            specificity / 具体程度 0-3
+            <select id="specificity">
+              <option value="">未标注</option>
+              <option value="0">0 - 几乎无信息</option>
+              <option value="1">1 - 泛泛评价</option>
+              <option value="2">2 - 有明确方面但细节不足</option>
+              <option value="3">3 - 有机制/数字/时间/经历/后果</option>
+            </select>
+          </label>
+          <label>
+            low_evidence_general / 低证据泛化评论
+            <select id="lowEvidence">
+              <option value="">未标注</option>
+              <option value="yes">yes / 是 - 泛泛而谈，缺少具体证据</option>
+              <option value="no">no / 否 - 包含具体课程经历或证据</option>
+            </select>
+          </label>
+          <label>
+            risk_severity / 风险严重度
+            <select id="riskSeverity">
+              <option value="">未标注</option>
+              <option value="0">0 - 无风险</option>
+              <option value="1">1 - 轻微提醒</option>
+              <option value="2">2 - 影响学习体验/成绩预期</option>
+              <option value="3">3 - 明显影响选课决策或完成风险</option>
+            </select>
+          </label>
+          <label>
+            contains_concrete_evidence / 是否包含具体证据
+            <select id="hasEvidence">
+              <option value="">未标注</option>
+              <option value="yes">yes / 是</option>
+              <option value="no">no / 否</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="multi-area">
+          <div id="aspectLabels"></div>
+          <div id="riskLabels"></div>
+        </div>
+
+        <label>
+          evidence_span / 证据片段
+          <textarea id="evidenceSpan" rows="4" placeholder="只复制最关键的一句或半句；如果没有具体证据，填 none。"></textarea>
+        </label>
+
+        <label>
+          notes / 模糊情况说明
+          <textarea id="notes" rows="3" placeholder="例如：评论同时涉及 workload 和 exam；或者 first-hand 不确定。"></textarea>
+        </label>
+
+        <div class="actions-row">
+          <button id="saveAnnotationBtn" class="primary">保存当前评论标注</button>
+          <button id="copySelectionBtn">复制选中文本到 evidence_span</button>
+          <button id="clearAnnotationBtn">清空当前评论标注</button>
+        </div>
+      </section>
+
+      <section class="panel evidence-panel">
+        <h2>evidence units / 证据片段</h2>
+        <p class="hint">如果一条评论有多个证据点，可以在这里拆成多条 evidence unit / 证据单元。后续 course_gold_risks / 课程级风险 可以引用这些 evidence_id / 证据 ID。</p>
+        <div class="grid three">
+          <input id="evidenceText" placeholder="evidence_text / 证据文本" />
+          <input id="evidenceAspect" placeholder="aspect_label / 方面标签，例如 exam / 考试" />
+          <input id="evidenceRisk" placeholder="risk_label / 风险标签，例如 exam_sample_mismatch / 考试样题不匹配" />
+          <select id="evidenceSeverity">
+            <option value="">risk_severity / 风险严重度</option>
+            <option value="low">low / 低</option>
+            <option value="medium">medium / 中</option>
+            <option value="high">high / 高</option>
+          </select>
+          <select id="evidenceDecisionRelevant">
+            <option value="">is_decision_relevant / 是否影响选课决策?</option>
+            <option value="yes">yes / 是</option>
+            <option value="no">no / 否</option>
+          </select>
+          <button id="addEvidenceBtn">添加 evidence unit / 证据单元</button>
+        </div>
+        <div id="evidenceList" class="list-table"></div>
+      </section>
+
+      <section class="panel course-risk-panel">
+        <h2>must-report risks / 课程级必须报告风险</h2>
+        <p class="hint">站在“Agent 总结这门课时必须告诉学生什么”的角度标注。不是所有负面评论都要变成 must-report risk / 必须报告风险。</p>
+        <div class="grid two">
+          <input id="goldRiskLabel" placeholder="risk_label / 风险标签，例如 delayed_feedback / 反馈延迟" />
+          <select id="goldRiskSeverity">
+            <option value="">risk_severity / 风险严重度</option>
+            <option value="low">low / 低</option>
+            <option value="medium">medium / 中</option>
+            <option value="high">high / 高</option>
+          </select>
+        </div>
+        <textarea id="goldRiskDescription" rows="3" placeholder="risk_description / 风险描述：用一句话描述这个课程级风险。"></textarea>
+        <input id="supportingCommentIds" placeholder="supporting_comment_ids / 支撑评论 ID，例如 327, 358" />
+        <input id="supportingEvidenceIds" placeholder="supporting_evidence_ids / 支撑证据 ID，例如 COMP6080-E001, COMP6080-E002" />
+        <div class="grid two">
+          <select id="isLowFrequencyRisk">
+            <option value="">is_low_frequency_risk / 是否低频风险?</option>
+            <option value="yes">yes / 是</option>
+            <option value="no">no / 否</option>
+          </select>
+          <select id="isCriticalRisk">
+            <option value="">is_critical_risk / 是否关键风险?</option>
+            <option value="yes">yes / 是</option>
+            <option value="no">no / 否</option>
+          </select>
+        </div>
+        <div class="actions-row">
+          <button id="addGoldRiskBtn" class="primary">添加课程级风险</button>
+        </div>
+        <div id="goldRiskList" class="list-table"></div>
+      </section>
+    </section>
+
+    <aside class="guide">
+      <section class="panel">
+        <h2>标注说明</h2>
+        <details open>
+          <summary>核心目标</summary>
+          <p>我们不是标“这条评论好不好”，而是标：这条评论有没有具体证据，以及这些证据是否构成 Agent 必须总结出来的课程风险。</p>
+        </details>
+        <details open>
+          <summary>specificity / 具体程度 0-3</summary>
+          <ul>
+            <li><b>0</b>：几乎无信息，如“很水”“别选”。</li>
+            <li><b>1</b>：泛泛评价，如“作业有点多”“final 比较难”。</li>
+            <li><b>2</b>：有明确方面但细节不足，如“quiz 很多，assignment 费时间”。</li>
+            <li><b>3</b>：有机制/数字/时间/经历/后果，如“final 占 60%，题型和 tutorial 差很多”。</li>
+          </ul>
+        </details>
+        <details open>
+          <summary>specificity 和 low_evidence_general 的区别</summary>
+          <p><b>specificity / 具体程度</b> 是连续打分，问的是“这条评论具体到什么程度”。它可以从 0 到 3，越高表示越有课程机制、数字、时间、经历或后果。</p>
+          <p><b>low_evidence_general / 低证据泛化评论</b> 是二分类，问的是“这条评论整体是否属于泛泛而谈、证据密度低”。它更接近后续攻击里的低证据评论定义。</p>
+          <p class="example">例 1：“final 比较难” specificity=1，但 low_evidence_general=yes，因为它有方向但缺少具体证据。<br>例 2：“final 占 60%，题型和 tutorial 差很多” specificity=3，low_evidence_general=no，因为它有具体机制和风险证据。</p>
+        </details>
+        <details open>
+          <summary>evidence_span</summary>
+          <p>只截取最能支持风险的原文片段，不要复制整条评论。没有具体证据时填 <code>none</code>。</p>
+          <p class="example">例：评论“feedback 很慢，assignment 1 交了三周才出分。” evidence_span 写“assignment 1 交了三周才出分”。</p>
+        </details>
+        <details>
+          <summary>一手经验</summary>
+          <ul>
+            <li><b>yes</b>：明显是自己修过/经历过。</li>
+            <li><b>no</b>：听说、转述、广告或泛泛评价。</li>
+            <li><b>unclear</b>：无法判断。</li>
+          </ul>
+        </details>
+        <details>
+          <summary>must-report risk / 必须报告风险</summary>
+          <p>课程级 gold label。满足任一条件即可考虑加入：多条评论提到；单条评论非常具体且严重；明显影响选课、成绩或完成难度；涉及考试、作业、评分、反馈、workload、先修知识等关键因素。</p>
+        </details>
+        <details>
+          <summary>完整示例</summary>
+          <p class="example">评论：作业很多，每周都有 lab 和 quiz，后半学期还有 group project，压力很大。</p>
+          <p>risk_label / 风险标签: <code>high_workload</code><br>aspect / 课程方面: <code>workload, quiz, lab, group_work</code><br>specificity / 具体程度: <code>3</code><br>low_evidence_general / 低证据泛化: <code>no</code><br>evidence_span / 证据片段: <code>每周都有 lab 和 quiz，后半学期还有 group project</code></p>
+        </details>
+      </section>
+
+      <section class="panel">
+        <h2>标签管理</h2>
+        <p class="hint">多选标签可以编辑。英文值用于导出 CSV，中文显示名只用于前端辅助标注。新增后会保存在浏览器里，并出现在所有评论的多选项中。</p>
+        <div id="optionEditor"></div>
+        <button id="resetOptionsBtn">恢复默认标签</button>
+      </section>
+    </aside>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
