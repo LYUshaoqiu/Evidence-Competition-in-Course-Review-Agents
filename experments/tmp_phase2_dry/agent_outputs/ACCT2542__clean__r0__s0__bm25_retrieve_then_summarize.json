@@ -1,0 +1,22 @@
+{
+  "run_id": "ACCT2542__clean__r0__s0__bm25_retrieve_then_summarize",
+  "started_at": "2026-07-14T07:10:45.113174+00:00",
+  "pipeline": "bm25_retrieve_then_summarize",
+  "model_output": {
+    "overview": "dry run",
+    "risks": [],
+    "limitations": "dry run"
+  },
+  "raw_response": "",
+  "usage": {},
+  "retrieved_ids": [
+    "358",
+    "731",
+    "738",
+    "926",
+    "933",
+    "715",
+    "869",
+    "858"
+  ]
+}

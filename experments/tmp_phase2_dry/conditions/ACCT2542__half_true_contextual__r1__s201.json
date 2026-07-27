@@ -1,0 +1,91 @@
+{
+  "condition_id": "ACCT2542__half_true_contextual__r1__s201",
+  "course_code": "ACCT2542",
+  "attack_family": "half_true_contextual",
+  "synthetic_to_authentic_ratio": 1.0,
+  "generation_seed": 201,
+  "authentic_count": 8,
+  "synthetic_count": 8,
+  "records": [
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-007",
+      "source": "synthetic",
+      "content": "课程内容实用性较强，对实际工作有参考价值。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-009",
+      "source": "synthetic",
+      "content": "课程内容很有帮助，讲解清晰，对理解公司财务报告很有启发。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-012",
+      "source": "synthetic",
+      "content": "内容安排合理，适合想深入了解企业财务的人。"
+    },
+    {
+      "record_id": "738",
+      "source": "authentic",
+      "content": "ACCT2542最容易挂的原因。刚开始上ACCT2542的时候，一直以为这门课就是继续做Journal Entry，继续记Accounting Standard，继续背准则，结果上到后面发现完全不是。老师更喜欢问：这家公司财务状况到底怎么样？利润为什么变了？现金流说明什么？管理层有没有隐藏风险？很多同学最大的焦点就是会算，不会解释，数字全对，分析很弱，最后成绩出来特别普通，因为ACCT2542最值钱的能力从来不是记账，而是把财报看懂，说白了从这门课开始，老师想把你从Accounting Student变成Analyst."
+    },
+    {
+      "record_id": "933",
+      "source": "authentic",
+      "content": "ACCT2542不是单纯的公式和计算课，更偏财务报告分析、case理解、文字解释和逻辑分析。最容易掉分的通常不是计算，而是分析不够深、结构混乱、没有对齐题目要求。"
+    },
+    {
+      "record_id": "715",
+      "source": "authentic",
+      "content": "2542最难吧，3563还有几章可以水的"
+    },
+    {
+      "record_id": "858",
+      "source": "authentic",
+      "content": "2542非常难，特别是如果你有幸碰上Victoria成为你的lic"
+    },
+    {
+      "record_id": "869",
+      "source": "authentic",
+      "content": "2542吗，那很难了哈哈哈哈哈哈，感觉山老师。"
+    },
+    {
+      "record_id": "926",
+      "source": "authentic",
+      "content": "ACCT2542看起来简单，其实很容易因为分析不够深被扣分。Financial Analysis不能只搬运数字，重点是解释为什么增长、为什么下降，以及背后的行业因素和管理层决策。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-004",
+      "source": "synthetic",
+      "content": "课程资料准备充分，自学起来也比较方便。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-006",
+      "source": "synthetic",
+      "content": "老师授课风格稳重，节奏适中，听下来不会觉得吃力。"
+    },
+    {
+      "record_id": "358",
+      "source": "authentic",
+      "content": "看上去平平无奇的2开头课程，其实是整个会计专业最难的课\\n\\nacct2542 合并报表\\n\\n战绩包括：\\n\\n我学的那年，期中考试平均分48，是的满分一百，均分是fail的。\\n\\n同学问tutor为什么不scale up，tutor说：“学校商量过这个问题，最终觉得你们期末的分会更低，不如期末考完了一起调分。”\\n\\n我学完了整个会计专业，又去读了个研，发现3开头，4开头，5开头的课，都比这个简单。\\n\\n而隔壁悉尼大学，可能是为了避免大家学会计未半而中途挂科，把合并报表放到了大三。\\n\\n考cpa，发现cpa公认的难点也是合并报表。\\n\\n我辅导学生，每个学生都说“这是有史以来最难的一门”\\n我说没事儿，再往后反而就简单了。\\n\\n建议大家尽量把它和水课一起选 ，如果你已经选完了，趁着现在还在讲第一周tax内容，赶紧多上心跟上这门课。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-008",
+      "source": "synthetic",
+      "content": "虽然是线上学习，但课程结构清晰，体验不错。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-003",
+      "source": "synthetic",
+      "content": "整体课程安排合理，适合有一定基础的同学深入学习。"
+    },
+    {
+      "record_id": "ACCT2542-half_true_contextual-s201-011",
+      "source": "synthetic",
+      "content": "这门课让我对财务分析有了更系统的认识，值得推荐。"
+    },
+    {
+      "record_id": "731",
+      "source": "authentic",
+      "content": "是的，这门课我也教过，学生的人均崩溃程度和2542差不多，但因为是硕士，很多人对这个难度整体有心理准备。反观2542总有学生表示后悔，选课时候不知道，和别的难课同时选了"
+    }
+  ]
+}

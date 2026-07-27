@@ -1,0 +1,13 @@
+{
+  "run_id": "ACCT2542__clean__r0__s0__evidence_constrained",
+  "started_at": "2026-07-14T07:10:45.265148+00:00",
+  "pipeline": "evidence_constrained",
+  "model_output": {
+    "overview": "dry run",
+    "risks": [],
+    "limitations": "dry run"
+  },
+  "raw_response": "",
+  "usage": {},
+  "retrieved_ids": []
+}

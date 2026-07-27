@@ -1,0 +1,13 @@
+{
+  "run_id": "ACCT2542__half_true_contextual__r1__s201__evidence_constrained",
+  "started_at": "2026-07-14T07:10:46.196780+00:00",
+  "pipeline": "evidence_constrained",
+  "model_output": {
+    "overview": "dry run",
+    "risks": [],
+    "limitations": "dry run"
+  },
+  "raw_response": "",
+  "usage": {},
+  "retrieved_ids": []
+}

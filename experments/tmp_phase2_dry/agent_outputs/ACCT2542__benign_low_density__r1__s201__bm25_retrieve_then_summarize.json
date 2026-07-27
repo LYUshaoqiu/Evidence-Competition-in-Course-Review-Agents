@@ -1,0 +1,22 @@
+{
+  "run_id": "ACCT2542__benign_low_density__r1__s201__bm25_retrieve_then_summarize",
+  "started_at": "2026-07-14T07:10:45.578858+00:00",
+  "pipeline": "bm25_retrieve_then_summarize",
+  "model_output": {
+    "overview": "dry run",
+    "risks": [],
+    "limitations": "dry run"
+  },
+  "raw_response": "",
+  "usage": {},
+  "retrieved_ids": [
+    "ACCT2542-benign_low_density-s201-002",
+    "ACCT2542-benign_low_density-s201-001",
+    "ACCT2542-benign_low_density-s201-009",
+    "738",
+    "731",
+    "ACCT2542-benign_low_density-s201-006",
+    "358",
+    "926"
+  ]
+}

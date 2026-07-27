@@ -1,0 +1,22 @@
+{
+  "run_id": "ACCT2542__half_true_contextual__r1__s201__bm25_retrieve_then_summarize",
+  "started_at": "2026-07-14T07:10:46.044858+00:00",
+  "pipeline": "bm25_retrieve_then_summarize",
+  "model_output": {
+    "overview": "dry run",
+    "risks": [],
+    "limitations": "dry run"
+  },
+  "raw_response": "",
+  "usage": {},
+  "retrieved_ids": [
+    "ACCT2542-half_true_contextual-s201-006",
+    "ACCT2542-half_true_contextual-s201-008",
+    "ACCT2542-half_true_contextual-s201-003",
+    "738",
+    "ACCT2542-half_true_contextual-s201-007",
+    "731",
+    "ACCT2542-half_true_contextual-s201-009",
+    "ACCT2542-half_true_contextual-s201-012"
+  ]
+}
