@@ -1,0 +1,73 @@
+﻿Paper 1 离线协作标注说明
+
+一、你收到的压缩包里有什么
+
+annotation_tool/
+  index.html
+  app.js
+  styles.css
+  README.txt
+
+data/
+  selected_38_courses_ge8_comments_20260706.csv
+
+instructions/
+  OFFLINE_COLLAB_INSTRUCTIONS.txt
+  COURSE_ASSIGNMENT_TEMPLATE.csv
+
+二、如何开始标注
+
+1. 解压整个 zip。
+2. 双击打开 annotation_tool/index.html。
+3. 在右上角填写 annotator_id / 标注人 ID。
+   示例：alice、bob、zhangsan。
+4. 点击“导入评论 CSV”。
+5. 选择 data/selected_38_courses_ge8_comments_20260706.csv。
+6. 只标自己被分配到的课程。
+
+三、标注什么
+
+评论级标注回答：
+这条评论有没有具体证据？它在说什么风险？
+
+课程级 must-report risks 回答：
+如果 Agent 总结这门课，哪些风险必须告诉学生？
+
+四、最低必填项
+
+评论级最低必填：
+- first_hand_experience / 一手经验
+- contains_concrete_evidence / 是否包含具体证据
+- specificity_0_3 / 具体程度
+- low_evidence_general / 低证据泛化评论
+- risk_labels / 风险标签
+- sentiment / 情绪倾向
+- evidence_span / 证据片段
+
+课程级最低必填：
+- risk_label / 风险标签
+- risk_description / 风险描述
+- risk_severity / 风险严重度
+- supporting_comment_ids / 支撑评论 ID
+- is_low_frequency_risk / 是否低频风险
+- is_critical_risk / 是否关键风险
+
+五、导出和回传
+
+每天结束前，至少导出一次三份 CSV：
+
+1. review_annotations_<annotator_id>.csv
+2. evidence_units_<annotator_id>.csv
+3. course_gold_risks_<annotator_id>.csv
+
+把这三份 CSV 发回给项目负责人。
+
+六、重要注意事项
+
+- 标注结果保存在当前浏览器的 localStorage 中。
+- 不要清浏览器缓存。
+- 不要换浏览器继续同一批标注，除非你已经导出备份。
+- 每标完一门课建议导出一次备份。
+- 不确定的地方写 notes，不要随便发明新规则。
+- 不要随便改英文标签。如果需要新标签，先和负责人确认。
+- 可以编辑标签的中文显示名；英文值会进入最终 CSV。
