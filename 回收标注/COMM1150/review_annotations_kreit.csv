@@ -1,0 +1,28 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+kreit,COMP3311,Database Systems,17,,,,,,,,,,,2026-07-07T10:55:29.938Z
+kreit,COMP6713,Natural Language Processing,32,,,,,,,,,,,2026-07-07T10:06:38.743Z
+kreit,COMP6080,Web Front-End Programming,33,,,,,,,,,,,2026-07-07T10:05:00.007Z
+kreit,GSOE9820,Engineering Project Management,60,yes,no,2,yes,project;workload;group_work;course_organization;teaching_quality,poor_organization;weak_teaching;insufficient_support;group_work_risk,2,negative,none,评论同时涉及work load以及个人情绪，但没有具体情况说明,2026-07-07T10:45:57.877Z
+kreit,GSOE9820,Engineering Project Management,62,yes,no,2,yes,exam;project;group_work,unclear_marking;group_work_risk,2,neutral,平时作业分占得高,平时作业如何安排，分数占比几何未能指明,2026-07-07T10:45:59.061Z
+kreit,GSOE9820,Engineering Project Management,64,yes,no,2,no,exam;project;marking;group_work;course_organization;career_relevance,high_workload;content_too_shallow,3,neutral,它明显更偏协作、流程和交付,没有明确说明具体任务安排,2026-07-07T10:51:09.819Z
+kreit,COMP6991,Solving Modern Programming Problems with Rust,123,,,,,,,,,,,2026-07-07T10:05:01.687Z
+kreit,COMP6713,Natural Language Processing,169,,,,,,,,,,,2026-07-07T10:05:07.719Z
+kreit,GSOE9820,Engineering Project Management,172,yes,no,0,yes,assessment;project;feedback;group_work,unclear_marking,3,negative,none,评论情绪化明显，为吐槽贴,2026-07-07T10:48:22.932Z
+kreit,GSOE9820,Engineering Project Management,174,unclear,no,1,yes,assessment;assignment;quiz;workload,none,1,mixed,不写代码的课都简单,仅说明课程中所使用的工具,2026-07-07T10:48:21.797Z
+kreit,GSOE9820,Engineering Project Management,176,yes,no,0,yes,exam;project,unclear_marking;group_work_risk,1,mixed,none,,2026-07-07T10:48:20.709Z
+kreit,GSOE9820,Engineering Project Management,178,yes,no,0,yes,,,0,positive,水课，必选,一手资料不确定,2026-07-07T10:48:14.236Z
+kreit,GSOE9820,Engineering Project Management,325,yes,no,1,yes,marking;workload,content_too_shallow,0,positive,好在事少,一手资料不确定,2026-07-07T10:48:13.500Z
+kreit,COMP3311,Database Systems,391,,,,,,,,,,,2026-07-07T10:55:33.946Z
+kreit,GSOE9820,Engineering Project Management,601,yes,yes,3,no,project;feedback;lecture;group_work;career_relevance,group_work_risk,2,neutral,整体来说不难，但确实觉得有点浪费时间,评论同时涉及职业相关性、讲座、给分情况,2026-07-07T10:48:10.636Z
+kreit,COMM1150,Global Business Environments,830,yes,no,1,yes,marking;tutor,unclear_marking,2,negative,none,无证据,2026-07-07T11:06:10.704Z
+kreit,COMM1150,Global Business Environments,837,yes,no,0,yes,marking;other,unclear_marking,0,positive,none,first-hand不确定,2026-07-07T11:06:11.503Z
+kreit,COMM1150,Global Business Environments,842,yes,no,1,yes,marking;tutor,unclear_marking;harsh_grading,1,negative,none,未说明原因,2026-07-07T11:16:44.180Z
+kreit,COMM1150,Global Business Environments,848,yes,yes,2,yes,marking;tutor,unclear_marking;team_presentation,1,positive,participation给分大方但团队演讲给分一般般,评论主观性强,2026-07-07T11:16:44.565Z
+kreit,COMM1150,Global Business Environments,854,yes,yes,3,no,marking;tutor,unclear_marking,2,mixed,participation 确实大方一些，但最后视频作业给分很一般,得分因素不明确,2026-07-07T11:18:42.652Z
+kreit,COMM1150,Global Business Environments,861,yes,no,2,yes,marking;tutor;participation,unclear_marking;insufficient_support,2,mixed,我本来Lincoln的participation有8/10 但后面好像反而低了,未能明确分数降低原因,2026-07-07T11:21:07.932Z
+kreit,COMM1150,Global Business Environments,865,yes,no,2,yes,marking;tutor,unclear_marking;team_presentation,1,negative,none,细节不足,2026-07-07T11:22:11.443Z
+kreit,COMM1150,Global Business Environments,902,yes,yes,3,no,exam;marking;lecture,exam_sample_mismatch;none,2,neutral,复习来源不只是lecture slides，也包括pre-learning、tutorial、readings和videos,复习来源繁多,2026-07-07T11:26:31.474Z
+kreit,COMM1150,Global Business Environments,941,yes,yes,3,no,assessment;marking;workload,none,2,neutral,COMM1150的assessment包括tutorial participation、Lenses and Levers Report、quiz和group sustainability presentation。,none,2026-07-07T11:28:26.762Z
+kreit,COMM1150,Global Business Environments,1196,yes,no,2,yes,assessment,none;other,2,neutral,课程现在严查AI率,,2026-07-07T11:30:04.929Z
+kreit,GSOE9820,Engineering Project Management,1197,unclear,no,0,yes,assessment;marking;support,group_work_risk,0,neutral,选个好的小组感觉就可以了,泛泛而谈，无数据支撑,2026-07-07T10:47:57.861Z
+kreit,GSOE9820,Engineering Project Management,1208,yes,yes,3,no,assessment;exam;assignment;group_work,group_work_risk;positive_evidence,1,positive,考试线开卷考试，有往年的题库可以参考。平时作业大部分是小组形式，只要小组队员不摆还是很有可能拿高分的。,同时涉及考试和平时作业,2026-07-07T10:47:50.748Z

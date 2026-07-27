@@ -1,0 +1,11 @@
+﻿annotator_id,course_code,comment_id,evidence_id,evidence_text,aspect_label,risk_label,risk_severity,is_decision_relevant
+kreit,GSOE9820,62,GSOE9820-E001,project 比考试重要多了,,,medium,no
+kreit,GSOE9820,60,GSOE9820-E002,这课纯看组员,小组合作多,,medium,yes
+kreit,GSOE9820,64,GSOE9820-E003,指望它像普通技术课那样靠自己刷题解决，那可能会失望,考试,,high,yes
+kreit,GSOE9820,601,GSOE9820-E004,lecture说实话有点闷,lecture,lecture,low,no
+kreit,GSOE9820,601,GSOE9820-E005,workshop也就是走个流程,project,,low,yes
+kreit,GSOE9820,1208,GSOE9820-E006,平时作业大部分是小组形式,小组作业,,medium,yes
+kreit,COMM1150,848,COMM1150-E001,Feliks是个上课很有意思的老头,tutor,,medium,yes
+kreit,COMM1150,861,COMM1150-E002,本来Lincoln的participation有8/10,得分标准,得分标准不明确,high,yes
+kreit,COMM1150,941,COMM1150-E003,COMM1150的assessment包括tutorial participation、Lenses and Levers Report、quiz和group sustainability presentation。,marking,,medium,yes
+kreit,COMP1521,344,COMP1521-E001,对于只有comp1511的编程背景来说第六周之后是有点吃力的,课程难度,,high,yes

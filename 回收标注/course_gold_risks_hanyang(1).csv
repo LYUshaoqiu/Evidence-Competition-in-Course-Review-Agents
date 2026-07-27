@@ -1,0 +1,10 @@
+﻿annotator_id,course_code,course_title_en,gold_risk_id,risk_label,risk_description,risk_severity,supporting_comment_ids,supporting_evidence_ids,support_count,is_low_frequency_risk,is_critical_risk
+hanyang,COMP9727,Recommender Systems,COMP9727-R001,assignment,assignment 工作量大难度比较高,medium,990，361，211,,3,no,yes
+hanyang,COMP9511,Human Computer Interaction,COMP9511-R002,high workload,平时作业多，有一个personal assignment和一个gourp work，final都是选择题,low,364，366，363，273，219， 217，215,,7,yes,no
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,COMP9334-R001,考试难度高,平时分好拿，但是考试比较难,medium,1100，955，456，455，290,,5,yes,no
+hanyang,COMP9311,Database Systems,COMP9311-R001,考试难度,平时课程内容和作业比较简单，但是考试有难度，时间紧张,medium,1005，288，63,,3,,
+hanyang,COMM1190,"Data, Insights and Decisions",COMM1190-R001,assessment submit rule，weak_teaching,assessment比较有难度细节比较多，课程设计不合理,medium,733，740，818，824，920,,5,no,yes
+hanyang,CDEV3500,Future Leader Lab,CDEV3500-R001,none,一门多大学联办课程，比较好拿分,low,1101，1084，1076，973，956,,5,yes,no
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,ACCT2542-R001,content_too_hard,课程整体内容难且需要大量的理解与分析,high,933，926，869，858，738，731，715，358,,8,no,yes
+hanyang,MATH5836,Data and Machine Learning,MATH5836-R001,"double_pass, group_work_risk, prerequisite_knowledge",有double pass，两个group work，有weekly lab，对前置基础有一定要求,medium,116，120，118，506，507，1053，1147,,7,yes,no
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,GSOE9011-R001,"unclear_marking, harsh_grading",总体课程比较简单，但是marking很大程度上收到tutor的影响,low,999，318，295,,3,,

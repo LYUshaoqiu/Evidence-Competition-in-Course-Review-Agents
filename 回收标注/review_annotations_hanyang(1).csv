@@ -1,0 +1,76 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+hanyang,COMP6080,Web Front-End Programming,33,,,,,,,,,,,2026-07-09T02:04:49.259Z
+hanyang,COMP9311,Database Systems,58,no,no,0,yes,assessment,,0,neutral,none,没有具体信息,2026-07-09T03:31:44.049Z
+hanyang,COMP9311,Database Systems,61,yes,no,0,yes,assessment,,0,neutral,none,没有具体信息,2026-07-08T09:25:31.225Z
+hanyang,COMP9311,Database Systems,63,yes,yes,2,no,assessment;exam,考试难度,1,neutral,final 就开始拐弯,一手信息，平时内容不算难，考试比较难,2026-07-08T09:25:27.810Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,66,yes,yes,3,no,assessment;project;feedback;group_work,high_workload,1,mixed,老师给feedback是挺多，组队的话还要协调进度,一手信息，总体描述了课程assessment的情况和感受,2026-07-09T06:41:20.307Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,77,yes,no,1,yes,workload,content_too_hard,2,negative,是那种写着写着会崩溃的,一手信息，描述了学习过程中的感受,2026-07-09T06:40:48.635Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,79,yes,yes,3,no,assessment;assignment;marking;workload;lecturer,high_workload,2,neutral,从proposal到final report再到presentation，一路没停过。老师改得很细,一手信息，描述了assessment设置，老师给分情况,2026-07-09T06:40:44.078Z
+hanyang,MATH5836,Data and Machine Learning,116,yes,no,2,yes,exam,double_pass_or_hurdle,2,negative,double pass真的烦,一手信息，有double pass,2026-07-09T06:17:14.109Z
+hanyang,MATH5836,Data and Machine Learning,118,yes,no,1,yes,prerequisite;lecturer,positive_evidence,1,positive,老师讲课还可以,一手信息，老师可以但是前置基础要牢,2026-07-09T06:17:32.099Z
+hanyang,MATH5836,Data and Machine Learning,120,yes,no,2,yes,assessment;prerequisite,Prerequisite Knowledge,1,neutral,这门课不算特别难，基础一般的话，会感觉有点吃力,一手信息，关于课程的整体感受,2026-07-09T06:17:32.375Z
+hanyang,COMP9727,Recommender Systems,209,yes,yes,2,no,project,high_workload,2,negative,project,涉及project,2026-07-09T03:31:46.795Z
+hanyang,COMP9727,Recommender Systems,211,yes,yes,3,no,project,high_workload,2,neutral,project占比很高，每一部分都要自己设计和实现，不是那种给你现成框架填空的。debug能搞很久,一手信息涉及project的具体经历体验,2026-07-08T07:25:09.307Z
+hanyang,COMP9727,Recommender Systems,213,yes,no,1,yes,,,1,positive,难虽然难，但有意义,一手信息但是泛泛而谈,2026-07-08T07:25:09.443Z
+hanyang,COMP9511,Human Computer Interaction,215,yes,no,1,yes,assignment;workload,high_workload,1,negative,每周都有东西要交,一手信息但是太泛了,2026-07-09T03:31:44.704Z
+hanyang,COMP9511,Human Computer Interaction,217,yes,yes,2,no,assignment;workload,high_workload,2,negative,"assignment很多而且很碎,每周都有小作业",一手信息，作业多,2026-07-08T08:14:09.956Z
+hanyang,COMP9511,Human Computer Interaction,219,yes,yes,2,no,assignment;workload,high_workload,1,negative,作业是真的多，一周一个小任务,一手信息，high work load,2026-07-08T08:14:10.079Z
+hanyang,COMP9311,Database Systems,272,yes,yes,3,no,assessment;exam;assignment;project,,0,positive,平时认真做还是比较好拿分，final题型很固定,一手信息，平时分数比较好拿，考试好好复习可以那高分,2026-07-08T09:25:20.745Z
+hanyang,COMP9511,Human Computer Interaction,273,yes,yes,3,no,assessment;exam;assignment;project;marking;workload;group_work,positive_evidence,1,positive,每周都有小作业，ass2团队合作用figma做东西，期末:一定要刷一下往年真题,一手信息，描述了整个课程的分数结构和可能的难点,2026-07-08T08:14:10.212Z
+hanyang,COMP9311,Database Systems,288,yes,yes,2,no,assessment;exam;assignment;tutor,考试难度,1,neutral,final的题型固定，但不好拿分,一手信息，教学内容简单，但是考试比较有难度,2026-07-08T09:25:11.195Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,290,yes,yes,3,no,assessment;exam,考试难度,2,mixed,平时分给分非常友好，想过很容易的课，但是刷高分要平时好好学,一手消息，平时分不难拿，考试比较有难度,2026-07-09T03:31:44.385Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,295,yes,no,2,yes,marking;group_work,harsh_grading,2,negative,8338的必修课，给分感觉一般,一手信息，小组作业可能存在给分严格的情况,2026-07-09T06:40:39.833Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,318,yes,yes,3,no,assessment;assignment;quiz;marking;group_work;tutor,unclear_marking;group_work_risk;tutor 评分波动,1,neutral,不卡dn和hd的课，不用真的去刷每个视频，把 quiz 刷满分，在 Forum 提一个问题即可，助教TA们给分波动大，标准不一致,一手信息，描述了课程的总体情况，tutor marking可能存在主观,2026-07-09T06:40:32.526Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,339,yes,yes,3,no,assignment;quiz,none,2,mixed,每周的quiz可无限次做，每周在论坛发言记一分，前期有个提交cv的作业10分，小组是填问卷老师分配的，proposal和最终一个video,一手信息，有weekly quiz，assignment，group work，无final,2026-07-09T06:40:22.262Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,358,yes,yes,3,no,exam,content_too_hard;考试难度,2,neutral,整个会计专业最难的课，期中考试平均分48,一手信息，考试难度高，内容难,2026-07-09T03:59:47.808Z
+hanyang,COMP9727,Recommender Systems,360,yes,no,2,yes,marking,harsh_grading,2,positive,最好避开中国女生那个tutor，她打分真正学习了ww的精髓,一手信息关于一个tutor,2026-07-08T07:25:09.571Z
+hanyang,COMP9727,Recommender Systems,361,yes,yes,3,no,assessment;assignment;project;workload,high_workload,2,neutral,asst 30%，design 20%，project 30%，report 20%,一手信息，涉及整一门课的整体分数架构,2026-07-08T07:25:09.716Z
+hanyang,COMP9727,Recommender Systems,362,yes,no,1,yes,career_relevance,positive_evidence,1,positive,搜广推项目，大厂的很多业务都有搜广推,一手信息关于职业规划的方向,2026-07-08T07:25:09.856Z
+hanyang,COMP9511,Human Computer Interaction,363,yes,yes,2,no,assessment;exam;assignment;marking;workload;resource_quality;tutor,double_pass_or_hurdle;tutor 评分波动,1,positive,作业稍微多点，double pass也不用担心，每个tutor不一样，有的给分好，有的不好，期末肯定稳过,一手信息，有具体学习感受但没有更多的结构上的细节,2026-07-08T08:14:10.355Z
+hanyang,COMP9511,Human Computer Interaction,364,yes,yes,3,no,assessment;exam;assignment;workload;group_work;tutor,high_workload;tutor 评分波动,1,mixed,平时分给分挺低的，每周都有小作业，final全是选择题,一手信息涉及作业量和tutor评分和考试形式,2026-07-08T08:14:10.491Z
+hanyang,COMP9511,Human Computer Interaction,365,yes,yes,2,no,exam,,1,neutral,期末改为线下考试，增加dp(final≥50%),关于考试的一手信息,2026-07-08T08:14:10.639Z
+hanyang,COMP9511,Human Computer Interaction,366,yes,yes,3,no,assessment;assignment;project;workload,high_workload,1,neutral,没有代码，3-4人组队，weeky作业(才占比10%)很多,一手信息涉及gourp work，weekly work很多,2026-07-08T08:14:44.206Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,455,yes,yes,3,no,assessment;exam,考试难度,1,neutral,平时分50基本可以拿满，考试题在有限时间内可以说非常变态,一手信息，平时分好拿，但是考试难,2026-07-08T08:46:55.682Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,456,yes,yes,3,no,assessment;exam,考试难度,1,mixed,想pass确实很稳，想HD就不太推荐,一手信息，平时分好拿，但是考试难,2026-07-08T08:46:49.164Z
+hanyang,MATH5836,Data and Machine Learning,506,yes,yes,3,no,assessment;exam;assignment;lecturer,none,1,positive,期末考难但开卷考原题，所有材料开放，平时分给的满满，还允许ai写，有dp，有考勤,一手信息，对于课程总体描述，包括课程细节，给分情况，和final情况,2026-07-09T06:17:39.678Z
+hanyang,MATH5836,Data and Machine Learning,507,yes,yes,3,no,assessment;exam;quiz;lab;group_work;course_organization,poor_organization;group_work_risk,2,negative,每周lab算出勤，两个组队作业，期末55%+dp（好像出事后取消了）,一手信息，课程的总体assessment情况和感受，final可能没有组织好,2026-07-09T06:17:57.209Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,597,yes,yes,3,no,assessment;exam,positive_evidence,1,positive,没有double pass，final 题型变化不大，整体来说workload适中，想要pass或者拿高分都不太难,一手信息，平时分好拿考试也不算很难,2026-07-08T08:46:42.239Z
+hanyang,COMP9311,Database Systems,603,yes,no,1,yes,assessment;exam;assignment,,1,neutral,作业纯codex，期末把sample exam自己做完，最后70飘过,一手信息，平时的作业和课程内容相对简单，考试有一定难度,2026-07-08T09:25:04.917Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,715,yes,no,0,yes,assessment,content_too_hard,2,neutral,2542最难吧,一手信息，课程内容难,2026-07-09T03:59:47.926Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,731,yes,no,1,yes,assessment,content_too_hard,2,neutral,学生的人均崩溃程度和2542差不多,一手信息，可能是tutor或补习老师,2026-07-09T03:59:48.062Z
+hanyang,COMM1190,"Data, Insights and Decisions",733,yes,yes,3,no,assessment details,debug,1,neutral,转换成numeric格式，大小写错误，没有library需要的数据包，检查方法,一手信息，关于这门课assessment需要注意的细节,2026-07-09T03:31:43.746Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,738,yes,yes,2,no,assessment;course format,content_too_hard,2,neutral,ACCT2542最容易挂的原因,一手信息，课程难度高,2026-07-09T03:59:48.199Z
+hanyang,COMM1190,"Data, Insights and Decisions",740,yes,yes,3,no,assessment;assignment;project;group_work,group_work_risk;content_too_hard,2,negative,A1（30%）- 个人战（Week 5 Due），A2（25%）- 组队坑（Week 8 Due）,"一手信息，描述了Ass1,Ass2的情况",2026-07-09T03:13:37.592Z
+hanyang,COMM1190,"Data, Insights and Decisions",812,yes,no,2,yes,quiz,,1,neutral,quiz上好像写了可以看lecture notes,一手信息，有关于quiz的描述但是不清晰,2026-07-09T03:13:43.898Z
+hanyang,COMM1190,"Data, Insights and Decisions",818,yes,no,1,yes,course_organization;teaching_quality,poor_organization;weak_teaching,1,negative,课程设计的不好,一手信息，会课程设计和老师的主观感受,2026-07-09T03:14:56.880Z
+hanyang,COMM1190,"Data, Insights and Decisions",824,yes,no,1,yes,tutorial;teaching_quality,poor_organization;weak_teaching,2,negative,lecture和tutorial都断层的,一手信息，lecture和tutorial似乎没有很好的衔接,2026-07-09T03:16:49.423Z
+hanyang,COMM1190,"Data, Insights and Decisions",831,yes,yes,2,no,assessment;exam;assignment;project;marking,,2,neutral,boc必修，第一个individual repo，group work，online exam,一手信息，关于整体考核的感受并附上了自己的成绩和经验,2026-07-09T03:16:28.611Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,858,yes,no,1,yes,lecturer,content_too_hard,2,negative,2542非常难,一手信息，课程内容难,2026-07-09T03:59:48.340Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,869,yes,no,1,yes,lecturer,content_too_hard,2,negative,那很难了,内容不清晰，疑似发疯，课程难度高,2026-07-09T03:59:48.473Z
+hanyang,COMM1190,"Data, Insights and Decisions",911,yes,yes,2,no,quiz,content_too_hard,1,negative,R coding quiz偏实操,一手信息，关于quiz的感受和注意事项,2026-07-09T03:16:27.452Z
+hanyang,COMM1190,"Data, Insights and Decisions",920,yes,yes,2,no,quiz,assessment submit rule,1,neutral,注意R代码提交、文件格式和迟交处罚,一手信息，关于quiz提交的注意事项,2026-07-09T03:16:25.998Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,926,yes,yes,2,no,course format,content_too_hard,2,neutral,容易因为分析不够深被扣分,一手信息，描述了上这门课的心得,2026-07-09T03:59:48.608Z
+hanyang,ACCT2542,Corporate Financial Reporting and Analysis,933,yes,yes,2,no,course format,content_too_hard,2,neutral,最容易掉分的通常不是计算，而是分析不够深、结构混乱、没有对齐题目要求,一手信息，这门课的难点更可能集中在理解非必须上,2026-07-09T03:59:56.138Z
+hanyang,CDEV3500,Future Leader Lab,947,yes,yes,2,no,assessment;workload,high_workload,1,neutral,intensive mode，从早九上到晚五，连续上两周,一手信息，关于这门课的上课体验和课程结构,2026-07-09T03:31:43.389Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,955,yes,yes,2,no,exam,考试难度,1,neutral,平时分给分非常友好，但期末回吞卷比较明显,一手信息，平时分好拿，但是考试比较难,2026-07-08T08:46:39.865Z
+hanyang,CDEV3500,Future Leader Lab,956,yes,no,1,yes,marking;lecturer,positive_evidence,1,positive,Eitan和Lucy都是很好的老师,一手信息，关于这门课老师的评价,2026-07-09T03:31:35.514Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,963,yes,no,0,yes,assessment,,0,neutral,none,只有考试分数,2026-07-08T08:46:29.929Z
+hanyang,CDEV3500,Future Leader Lab,965,yes,no,1,yes,course format,strange accent,1,neutral,理解有奇怪口音的英,一手信息，关于课程的主观感受,2026-07-09T03:31:35.641Z
+hanyang,CDEV3500,Future Leader Lab,973,yes,no,1,yes,marking,positive_evidence,1,positive,很好的学分甚至booster的课,一手信息，关于课程的主观感受,2026-07-09T03:31:35.783Z
+hanyang,COMP9727,Recommender Systems,981,yes,no,1,yes,exam;assignment;marking,,2,mixed,平时分给得挺高，但是期末比较难,一手信息只有总体感觉没有细节,2026-07-08T07:25:09.998Z
+hanyang,COMP9727,Recommender Systems,990,yes,yes,3,no,assignment;project;workload,high_workload,2,neutral,Ass1 30%,ass1的详细内容,2026-07-08T07:27:56.810Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,999,yes,no,2,yes,tutor,unclear_marking;harsh_grading,1,mixed,不过遇到严格的tutor那也就只能这样了,一手信息，可能存在tutor主观评分标准不一致的情况,2026-07-09T06:40:21.315Z
+hanyang,COMP9311,Database Systems,1005,yes,yes,2,no,assessment;exam;assignment,考试难度,1,neutral,2个Assignment和1个Project基本也不会花很久，期末题量是真的大啊完全写不完,一手信息，平时作业难度不高，但是考试有难度,2026-07-08T09:25:01.113Z
+hanyang,MATH5836,Data and Machine Learning,1032,unclear,no,1,yes,lecturer,none,1,neutral,老师好像经常换,不清楚信息来源，但是可能存在老师调整的情况,2026-07-09T06:17:59.246Z
+hanyang,MATH5836,Data and Machine Learning,1041,unclear,no,1,yes,lecturer,none,0,neutral,这学期换成sarat moka了,不确定是否为亲身经历,2026-07-09T06:18:00.182Z
+hanyang,MATH5836,Data and Machine Learning,1053,yes,yes,2,no,exam,none,1,neutral,期末是两小时上机考试，有选择题、论述题和编程题。,一手信息，描述final考试形式,2026-07-09T06:18:08.010Z
+hanyang,CDEV3500,Future Leader Lab,1076,yes,no,1,yes,course format,positive_evidence,0,positive,两周混六个学分，赚麻了,一手信息，概述课程结构和主观感受,2026-07-09T03:31:35.926Z
+hanyang,CDEV3500,Future Leader Lab,1084,yes,yes,2,no,assessment;marking,none,1,mixed,还是essay和pre；给分还是好一些,"一手信息，简述了assessment的方式(essay, pre), 非分不错",2026-07-09T03:31:36.066Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,1091,yes,no,0,yes,assessment,none,0,positive,allin八股也飘过,有用信息少，估计是整体考核方式比较固定,2026-07-08T08:46:28.571Z
+hanyang,CDEV3500,Future Leader Lab,1092,yes,no,2,yes,administration;course format,none,1,neutral,需要学生提前在新南WIL官网上提交申请并且通过面试才可以enroll,一手信息，描述了课程的申请方式,2026-07-09T03:31:36.209Z
+hanyang,COMP9334,Capacity Planning of Computer Systems and Networks,1100,yes,no,1,yes,exam,考试难度,1,neutral,对知识概念理解了的话，选择题不难，死记硬背不太行,对考试的感受和评价,2026-07-08T08:46:24.266Z
+hanyang,CDEV3500,Future Leader Lab,1101,no,no,1,yes,administration;course format,,0,positive,给分还不错，不发奖学金,非一手信息,2026-07-09T03:31:37.895Z
+hanyang,COMP9311,Database Systems,1107,yes,yes,2,no,assessment;exam,,1,neutral,总分至少50,一手信息，介绍了pass规则,2026-07-08T09:24:52.721Z
+hanyang,MATH5836,Data and Machine Learning,1147,yes,yes,2,no,marking;lab,double_pass_or_hurdle;none,2,neutral,通过标准总分需要至少50，final至少28分，并且7/9的lab出勤是强制性的,一手信息，描述了final的分数情况(可能有double pass)，点名两个必须参加的lab,2026-07-09T06:18:20.752Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,1154,yes,yes,3,no,assessment,double_pass_or_hurdle,1,neutral,总分至少50，需要参加或完成至少80%的学习活动和作业,一手信息，可能是double pass的情况,2026-07-09T06:40:15.768Z
+hanyang,GSOE9011,Engineering Postgraduate Coursework Research Skills,1193,yes,no,1,yes,group_work,none,0,positive,几乎不怎么需要花时间，只要你的小组队员们都相对比较给力，我觉得80分以上是非常轻松的。,一手信息，有小组合作内容,2026-07-09T06:40:15.045Z

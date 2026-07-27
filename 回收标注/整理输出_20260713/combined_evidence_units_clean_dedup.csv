@@ -1,0 +1,226 @@
+﻿annotator_id,course_code,comment_id,evidence_id,evidence_text,aspect_label,risk_label,risk_severity,is_decision_relevant,_source_file,_source_encoding,_source_row
+FY liu,COMP4920,12,COMP4920-E001,COMP4920 是一门偏职业素养与技术伦理的课程，重点不在编程实现，而在于讨论计算机专业中的伦理判断、责任意识以及技术应用带来的社会影响。,career_relevance / 职业相关性,,medium,yes,evidence_units_FY_liu (2)(1).csv,utf-8-sig,2
+FY liu,COMP4920,12,COMP4920-E002,这门课的特点是思辨性强、写作和论证要求比较高，比较适合已经学过多门技术课、希望从“如何做系统”进一步思考“为什么这样做、这样做是否负责”的学生。它的价值不在于提升编码能力，而在于帮助学生建立更完整的专业视角。,assessment / 考核整体,,medium,yes,evidence_units_FY_liu (2)(1).csv,utf-8-sig,3
+hanyang,COMP9727,209,COMP9727-E001,比想象中折磨,project根本不是“随便做做”那种,,,yes,evidence_units_hanyang(1).csv,utf-8-sig,2
+hanyang,COMP9727,211,COMP9727-E002,project占比很高，不是那种给你现成框架填空的。debug能搞很久,project,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,3
+hanyang,COMP9727,213,COMP9727-E003,难虽然难，但有意义,,,medium,,evidence_units_hanyang(1).csv,utf-8-sig,4
+hanyang,COMP9727,360,COMP9727-E004,没有期末能选的,没有期末能选的,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,5
+hanyang,COMP9727,361,COMP9727-E005,asst 30%，design 20%，project 30%，report 20%,课程的分数架构,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,6
+hanyang,COMP9727,362,COMP9727-E006,搜广推项目，值得做的，大厂的很多业务都有搜广推,职业相关性,,low,yes,evidence_units_hanyang(1).csv,utf-8-sig,7
+hanyang,COMP9727,981,COMP9727-E007,平时分给得挺高，但是期末比较难,期末比较难,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,8
+hanyang,COMP9727,990,COMP9727-E008,Ass1 30%，4000本书的数据,project,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,9
+hanyang,COMP9511,215,COMP9511-E001,每周都有东西要交,作业量,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,10
+hanyang,COMP9511,217,COMP9511-E002,"assignment很多而且很碎,每周都有小作业",作业,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,11
+hanyang,COMP9511,219,COMP9511-E003,作业是真的多，一周一个小任务,high workload,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,12
+hanyang,COMP9511,273,COMP9511-E004,每周都有小作业，ass2团队合作用figma做东西，期末:一定要刷一下往年真题,exam，assignment，group work,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,13
+hanyang,COMP9511,363,COMP9511-E005,作业稍微多点，double pass也不用担心，期末肯定稳过,exam， assessment,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,14
+hanyang,COMP9511,364,COMP9511-E006,平时分给分挺低的，每周都有小作业，final全是选择题,workload，exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,15
+hanyang,COMP9511,365,COMP9511-E007,期末改为线下考试，增加dp(final≥50%),exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,16
+hanyang,COMP9511,366,COMP9511-E008,没有代码，3-4人组队，weeky作业(才占比10%)很多,"group work, weekly work",,low,no,evidence_units_hanyang(1).csv,utf-8-sig,17
+hanyang,COMP9334,290,COMP9334-E001,平时分给分非常友好，想过很容易的课，但是刷高分要平时好好学,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,18
+hanyang,COMP9334,455,COMP9334-E002,平时分50基本可以拿满，考试题在有限时间内可以说非常变态,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,19
+hanyang,COMP9334,456,COMP9334-E003,想pass确实很稳，想HD就不太推荐,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,20
+hanyang,COMP9334,597,COMP9334-E004,没有double pass，final 题型变化不大，整体来说workload适中，想要pass或者拿高分都不太难,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,21
+hanyang,COMP9334,955,COMP9334-E005,平时分给分非常友好，但期末回吞卷比较明显,exam,,,no,evidence_units_hanyang(1).csv,utf-8-sig,22
+hanyang,COMP9334,963,COMP9334-E006,none,none,,,,evidence_units_hanyang(1).csv,utf-8-sig,23
+hanyang,COMP9334,1091,COMP9334-E007,allin八股也飘过,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,24
+hanyang,COMP9334,1100,COMP9334-E008,对知识概念理解了的话，选择题不难，死记硬背不太行,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,25
+hanyang,COMP9311,58,COMP9311-E001,none,none,,,,evidence_units_hanyang(1).csv,utf-8-sig,26
+hanyang,COMP9311,61,COMP9311-E002,none,none,,,,evidence_units_hanyang(1).csv,utf-8-sig,27
+hanyang,COMP9311,63,COMP9311-E003,final 就开始拐弯,exam,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,28
+hanyang,COMP9311,272,COMP9311-E004,平时认真做还是比较好拿分，final题型很固定,exam，assignment,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,29
+hanyang,COMP9311,288,COMP9311-E005,final的题型固定，但不好拿分,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,30
+hanyang,COMP9311,603,COMP9311-E006,作业纯codex，期末把sample exam自己做完，最后70飘过,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,31
+hanyang,COMP9311,1005,COMP9311-E007,2个Assignment和1个Project基本也不会花很久，期末题量是真的大啊完全写不完,exam，assignment,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,32
+hanyang,COMP9311,1107,COMP9311-E008,总分至少50,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,33
+hanyang,COMM1190,733,COMM1190-E001,转换成numeric格式，大小写错误，没有library需要的数据包，检查方法,assessment,,,,evidence_units_hanyang(1).csv,utf-8-sig,34
+hanyang,COMM1190,740,COMM1190-E002,A1（30%）- 个人战（Week 5 Due），A2（25%）- 组队坑（Week 8 Due）,assignment,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,35
+hanyang,COMM1190,812,COMM1190-E003,quiz上好像写了可以看lecture notes,quiz,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,36
+hanyang,COMM1190,824,COMM1190-E005,lecture和tutorial都断层的,course design,,medium,yes,evidence_units_hanyang(1).csv,utf-8-sig,37
+hanyang,COMM1190,818,COMM1190-E005,课程设计的不好,course design,,medium,yes,evidence_units_hanyang(1).csv,utf-8-sig,38
+hanyang,COMM1190,831,COMM1190-E006,boc必修，第一个individual repo，group work，online exam,assignment，exam,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,39
+hanyang,COMM1190,911,COMM1190-E007,R coding quiz偏实操,quiz,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,40
+hanyang,COMM1190,920,COMM1190-E008,注意R代码提交、文件格式和迟交处罚,quiz,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,41
+hanyang,CDEV3500,947,CDEV3500-E001,intensive mode，从早九上到晚五，连续上两周,课程结构,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,42
+hanyang,CDEV3500,956,CDEV3500-E002,Eitan和Lucy都是很好的老师,lecturer,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,43
+hanyang,CDEV3500,965,CDEV3500-E003,理解有奇怪口音的英,course structure,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,44
+hanyang,CDEV3500,973,CDEV3500-E005,两周混六个学分，赚麻了,course structure,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,45
+hanyang,CDEV3500,1076,CDEV3500-E005,两周混六个学分，赚麻了,course structure,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,46
+hanyang,CDEV3500,1084,CDEV3500-E006,还是essay和pre；给分还是好一些,assessment structure，marking,,low,,evidence_units_hanyang(1).csv,utf-8-sig,47
+hanyang,CDEV3500,1092,CDEV3500-E007,需要学生提前在新南WIL官网上提交申请并且通过面试才可以enroll,course structure，apply method,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,48
+hanyang,CDEV3500,1101,CDEV3500-E008,给分还不错，不发奖学金，非一手信息,course apply,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,49
+hanyang,ACCT2542,358,ACCT2542-E001,整个会计专业最难的课，期中考试平均分48,exam,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,50
+hanyang,ACCT2542,715,ACCT2542-E002,2542最难吧,content_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,51
+hanyang,ACCT2542,731,ACCT2542-E003,学生的人均崩溃程度和2542差不多,content_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,52
+hanyang,ACCT2542,738,ACCT2542-E004,ACCT2542最容易挂的原因,content_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,53
+hanyang,ACCT2542,858,ACCT2542-E005,2542非常难,conten_too_hard,,high,,evidence_units_hanyang(1).csv,utf-8-sig,54
+hanyang,ACCT2542,869,ACCT2542-E006,那很难了,content_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,55
+hanyang,ACCT2542,926,ACCT2542-E007,容易因为分析不够深被扣分,conten_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,56
+hanyang,ACCT2542,933,ACCT2542-E008,最容易掉分的通常不是计算，而是分析不够深、结构混乱、没有对齐题目要求,content_too_hard,,high,yes,evidence_units_hanyang(1).csv,utf-8-sig,57
+hanyang,MATH5836,116,MATH5836-E001,double pass真的烦,exam,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,58
+hanyang,MATH5836,118,MATH5836-E002,老师讲课还可以,lecturer,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,59
+hanyang,MATH5836,120,MATH5836-E003,这门课不算特别难，基础一般的话，会感觉有点吃力,course structure,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,60
+hanyang,MATH5836,506,MATH5836-E004,期末考难但开卷考原题，所有材料开放，平时分给的满满，还允许ai写，有dp，有考勤,assessment，exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,61
+hanyang,MATH5836,507,MATH5836-E005,每周lab算出勤，两个组队作业，期末55%+dp（好像出事后取消了）,quiz，lab，group work，final,,medium,yes,evidence_units_hanyang(1).csv,utf-8-sig,62
+hanyang,MATH5836,1032,MATH5836-E006,老师好像经常换,lecturer,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,63
+hanyang,MATH5836,1041,MATH5836-E007,这学期换成sarat moka了,lecturer‘,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,64
+hanyang,MATH5836,1053,MATH5836-E008,期末是两小时上机考试，有选择题、论述题和编程题。,exam,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,65
+hanyang,MATH5836,1147,MATH5836-E009,通过标准总分需要至少50，final至少28分，并且7/9的lab出勤是强制性的,exam，lab,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,66
+hanyang,GSOE9011,66,GSOE9011-E001,老师给feedback是挺多，组队的话还要协调进度,assessment，group work,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,67
+hanyang,GSOE9011,77,GSOE9011-E002,是那种写着写着会崩溃的,assessment,,medium,,evidence_units_hanyang(1).csv,utf-8-sig,68
+hanyang,GSOE9011,79,GSOE9011-E003,从proposal到final report再到presentation，一路没停过。老师改得很细,assessment,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,69
+hanyang,GSOE9011,295,GSOE9011-E004,给分感觉一般,assessment，proposal,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,70
+hanyang,GSOE9011,318,GSOE9011-E005,不卡dn和hd的课，不用真的去刷每个视频，把 quiz 刷满分，在 Forum 提一个问题即可，助教TA们给分波动大，标准不一致,assessment,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,71
+hanyang,GSOE9011,339,GSOE9011-E006,每周的quiz可无限次做，每周在论坛发言记一分，前期有个提交cv的作业10分，小组是填问卷老师分配的，proposal和最终一个video,assessment,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,72
+hanyang,GSOE9011,999,GSOE9011-E007,不过遇到严格的tutor那也就只能这样了,marking,,medium,no,evidence_units_hanyang(1).csv,utf-8-sig,73
+hanyang,GSOE9011,1154,GSOE9011-E008,总分至少50，需要参加或完成至少80%的学习活动和作业,double pass,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,74
+hanyang,GSOE9011,1193,GSOE9011-E009,几乎不怎么需要花时间，只要你的小组队员们都相对比较给力，我觉得80分以上是非常轻松的。,group work,,low,no,evidence_units_hanyang(1).csv,utf-8-sig,75
+Yuanhang Yan,COMP2521,233,COMP2521-E001,评论者自述“这门课我挂了两回，整整两回”，表明课程存在导致同一学生多次挂科的情况。,课程难度 / Course Difficulty,高挂科率 / High Failure Rate,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,2
+Yuanhang Yan,COMP2521,233,COMP2521-E002,“见证了无数对计算机充满幻想的同学在这门课上折戟沉沙。要么转专业跑路，要么转学校跑路。” 反映课程难度或教学方式导致大量学生学业受挫、转专业甚至转学。,学生流失 / Student Attrition,学生转专业/转学风险 / Student Dropout/Transfer Risk,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,3
+Yuanhang Yan,COMP2521,233,COMP2521-E003,“原来在新南一起上计算机不及格的同学，到了悉大却都hd了。” 横向对比表明相同水平学生在其他高校（悉尼大学）能获高分，暗示本课程考核标准或难度显著高于同类院校。,考核标准 / Assessment Standard,考核标准过严 / Excessively Strict Grading Compared to Peer Institutions,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,4
+Yuanhang Yan,COMP2521,326,COMP2521-E004,由于期中临时更换讲师，导致学生跟不上节奏，graph 和 tree 部分掌握不佳。,教学连续性 / Teaching Continuity,中途更换讲师 / Mid-term Lecturer Change,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,5
+Yuanhang Yan,COMP2521,384,COMP2521-E005,评论提及讲师 Ashesh 在讲解经典递归二叉树时“能把自己绕晕”，暗示讲师授课逻辑可能不清晰，容易导致学生困惑。,教学质量 / Teaching Quality,讲师讲解不清 / Lecturer's Unclear Explanation,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,6
+Yuanhang Yan,COMP2521,421,COMP2521-E006,评论者指出由于首次 COVID 学期，课程的授课和行政管理受到干扰，导致课程体验不佳。,课程管理 / Course Administration,授课与行政受外部因素干扰 / Delivery & Admin Disrupted by External Factors,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,7
+Yuanhang Yan,COMP2521,523,COMP2521-E007,课程使用C语言教学，知识量和编程量较大，整体学习难度高。,课程使用C语言教学，知识量和编程量较大，整体学习难度高。,高学习难度与重编程负担 / High Difficulty & Heavy Programming Load,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,8
+Yuanhang Yan,COMP2521,523,COMP2521-E008,期末考试题量大，且设有三道障碍：总分不低于18分，理论部分和实践部分各自须达到25%以上。,考核要求 / Assessment Requirements,期末考试多重通过障碍 / Multiple Final Exam Hurdles,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,9
+Yuanhang Yan,COMP2521,524,COMP2521-E009,本学期期末考试难度显著高于往年试题，学生反映比做过的任何一套往年题都难，尤其是理论题耗时且需大量文字解释。,考试难度 / Exam Difficulty,期末考试难度波动大 / High Exam Difficulty Fluctuation,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,10
+Yuanhang Yan,COMP2521,1025,COMP2521-E010,课程挂科率高，被学生视为难以跨越的大山。,课程通过率 / Course Pass Rate,高挂科率 / High Failure Rate,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,11
+Yuanhang Yan,COMP2521,1025,COMP2521-E011,线下现场编写代码难度极大，即使是平时作业满分的学生也感到困难。,考核形式 / Assessment Format,线下编程考试难度过高 / Excessively Difficult In-person Coding Exam,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,12
+Yuanhang Yan,COMP2521,1042,COMP2521-E012,作业2（Ass2）难度显著高于作业1，且截止日期靠近第10周，与其他课程任务堆积，学生若拖延则难以完成，甚至可能导致挂科。,作业难度与时间管理 / Assignment Difficulty & Time Management,高难度作业叠加DDL冲突 / High-Difficulty Assignment with DDL Conflicts,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,13
+Yuanhang Yan,COMP2521,1110,COMP2521-E013,课程使用C语言，知识量和编程量大，整体学习负担较重。,课程负担 / Course Load,高知识量与编程量 / Heavy Content & Coding Load,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,14
+Yuanhang Yan,COMP2521,1110,COMP2521-E014,作业要求持续提交，部分作业权重高达25%，对时间管理和稳定性要求高。,作业设计 / Assignment Design,高权重持续提交作业 / High-Weight Continuous Assignment Submission,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,15
+Yuanhang Yan,COMP2521,1110,COMP2521-E015,若基础不扎实，实现和调试将耗费大量时间，暗示课程对先修知识要求较高。,前置知识要求 / Prerequisite Knowledge,前置基础薄弱导致耗时 / Weak Prerequisites Leading to Time Sink,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,16
+Yuanhang Yan,COMP2511,142,COMP2511-E001,程整体难度高，后续 project 难度远超学生之前本科阶段所写项目，导致适应困难。,项目难度 / Project Difficulty,项目难度跳升 / Sharp Increase in Project Difficulty,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,17
+Yuanhang Yan,COMP2511,144,COMP2511-E002,课程不仅编程难，还要求对理论内容（如设计模式）十分熟练，学习负担重。,理论要求 / Theory Requirements,高理论熟练度要求 / High Theory Proficiency Required,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,18
+Yuanhang Yan,COMP2511,144,COMP2511-E003,项目成绩严重依赖队友质量，队友不给力可能导致项目失败。,团队协作 / Team Collaboration,依赖队友导致成绩风险 / Risk of Teammate-Dependent Performance,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,19
+Yuanhang Yan,COMP2511,301,COMP2511-E004,课程不进行分数调分（scaling），即使平时成绩高也可能挂科，导致多人不及格。,评分政策 / Scaling Policy,无调分致高平时分仍挂科 / No Scaling Leading to Failures Despite High Pre-Exam Marks,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,20
+Yuanhang Yan,COMP2511,301,COMP2511-E005,考试时长为3小时，但试卷量巨大，实际需要5小时才能完成，无人能做完。,考试设计 / Exam Design,考试时间严重不足 / Severely Insufficient Exam Time,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,21
+Yuanhang Yan,COMP2511,301,COMP2511-E006,大量学生因挂科和不调分而抱怨，认为评分和结果极不公平。,考核公平性 / Assessment Fairness,大规模挂科与强烈不公感 / Mass Failures & Strong Perceived Unfairness,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,22
+Yuanhang Yan,COMP2511,389,COMP2511-E007,讲师 Ashesh 口音较重，导致学生理解困难，影响学习体验。,讲师表达 / Lecturer Delivery,讲师口音影响理解 / Lecturer's Accent Affects Comprehension,low,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,23
+Yuanhang Yan,COMP2511,389,COMP2511-E008,作业评分主观性强，学生感到评价不透明或不公正,评分公平性 / Grading Fairness,作业评分主观性高 / Subjective Assignment Grading,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,24
+Yuanhang Yan,COMP2511,418,COMP2511-E009,课程行政管理混乱，影响学习体验和课程顺利进行。,课程管理 / Course Administration,行政管理混乱 / Chaotic Administration,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,25
+Yuanhang Yan,COMP2511,418,COMP2511-E010,作业要求极高，超出一般预期，给学生带来巨大压力,作业难度 / Assignment Difficulty,作业要求过高 / Excessively Demanding Assignment,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,26
+Yuanhang Yan,COMP2511,418,COMP2511-E011,课程内容在给定时间内难以完成，时间安排不合理。,内容与时间匹配 / Content-Time Mismatch,内容量超出时间负荷 / Unreasonable Content Volume for Given Time,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,27
+Yuanhang Yan,COMP2511,418,COMP2511-E012,完全在线学习进一步恶化了课程体验。,授课模式 / Delivery Mode,授课模式 / Delivery Mode,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,28
+Yuanhang Yan,COMP2511,419,COMP2511-E013,课程整体压力远大于收获，学生感到更多是焦虑而非成长。,学习体验 / Learning Experience,高压力低收获感 / High Stress & Low Sense of Reward,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,29
+Yuanhang Yan,COMP2511,419,COMP2511-E014,作业犹如在极端压力下编写游戏，压迫感极强。,作业压力 / Assignment Pressure,作业极端时间/难度压力 / Extreme Assignment Pressure,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,30
+Yuanhang Yan,COMP2511,419,COMP2511-E015,评估过程令人不愉快，影响体验。,评估体验 / Assessment Experience,评估过程体验欠佳 / Unpleasant Assessment Experience,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,31
+Yuanhang Yan,COMP2511,419,COMP2511-E016,课程仅为通关而修，不建议抱有享受学习的期待。,课程推荐度 / Course Recommendation,"缺乏乐趣，仅宜功利性修读 / Lacks Enjoyment, Only for Utility",low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,32
+Yuanhang Yan,COMP2511,519,COMP2511-E017,课程对 Java 编程能力要求高，前置基础薄弱可能难以跟上。,前置技能要求 / Prerequisite Skills,对Java能力高要求 / High Java Proficiency Required,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,33
+Yuanhang Yan,COMP2511,522,COMP2511-E018,课程工作量极大，相当于1.5门普通课程的量，远超正常负荷。,课程负担 / Course Workload,工作量过大 / Excessive Workload,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,34
+Yuanhang Yan,COMP2511,616,COMP2511-E019,作业隐藏测试用例极其严苛，代码正常运行也难拿高分，大部分人成绩中等。,作业评分标准 / Assignment Grading Criteria,藏测试严苛致高分困难 / Strict Hidden Tests Make High Scores Difficult,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,35
+Yuanhang Yan,COMP2511,616,COMP2511-E020,期末卷面必须考到40分以上（Double Pass），不然平时分再高也得挂,考核门槛 / Assessment Hurdle,期末双重通过门槛 / Final Exam Double Pass Hurdle,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,36
+Yuanhang Yan,COMP2511,616,COMP2511-E021,期末考试题量极大，多数学生无法完成全部题目，必须战略性取舍,考试时间与题量 / Exam Time & Volume,题量过大难完成 / Excessive Exam Volume Leads to Incompletion,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,37
+Yuanhang Yan,COMP2511,616,COMP2511-E022,课程默认学生已熟练掌握Java，课堂上不会补充基础，若前置能力不足极易跟不上。,前置知识预期 / Prerequisite Expectation,前置知识预期 / Prerequisite Expectation,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,38
+Yuanhang Yan,COMP2511,1102,COMP2511-E023,作业隐藏测试严苛且代码细节繁琐，需反复打磨，过程折磨。,作业评分与细节 / Assignment Grading & Detail,隐藏测试严苛与细节繁琐 / Strict Hidden Tests & Tedious Code Details,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,39
+Yuanhang Yan,COMP2511,1102,COMP2511-E024,课程对 Java 编程和软件设计能力要求较高，基础不足的学生易感困难。,前置技能 / Prerequisite Skills,高Java与设计能力要求 / High Java & Design Proficiency Required,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,40
+Yuanhang Yan,COMP1511,11,COMP1511-E001,课程节奏紧凑（9周+flex），零基础学生在中后期可能感到较大压力，存在跟不上进度的风险。,学习进度与基础要求 / Learning Pace & Foundation Requirement,零基础学生中后期吃力 / Zero-Basis Students Struggle in Later Stages,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,41
+Yuanhang Yan,COMP1511,11,COMP1511-E002,进入数组、指针、链表等主题后，许多学生开始感觉吃力，若平时缺乏动手练习极易掉队。,内容难度爬升 / Content Difficulty Spike,内容难度爬升 / Content Difficulty Spike,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,42
+Yuanhang Yan,COMP1511,11,COMP1511-E003,期末考试设有40%的最低正确率通过门槛（hurdle），且部分题目涉及后期课程的超纲内容，对普通学生形成额外挑战。,考核门槛与超纲 / Exam Hurdle & Out-of-Scope Content,考试双重障碍（hurdle + 超纲题）/ Exam Hurdle with Advanced Topics,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,43
+Yuanhang Yan,COMP1511,27,COMP1511-E004,作业无法靠临时突击完成，临时抱佛脚只能完成约80%，需要持续投入时间和精力才能通过。,作业要求 / Assignment Requirements,作业要求 / Assignment Requirements,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,44
+Yuanhang Yan,COMP1511,27,COMP1511-E005,获得HD高分需要大量时间投入，尤其在作业上，对追求高分的学生构成额外负担。,高分难度 / High Distinction Difficulty,HD需额外大量时间投入 / HD Requires Significant Extra Time Investment,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,45
+Yuanhang Yan,COMP1511,36,COMP1511-E006,课程教学曲线不平滑，难度起伏像过山车，学习过程倍感头痛，对编程小白是“当头棒喝”。,课程教学曲线不平滑，难度起伏像过山车，学习过程倍感头痛，对编程小白是“当头棒喝”。,教学曲线陡峭不平滑 / Uneven & Steep Learning Curve,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,46
+Yuanhang Yan,COMP1511,36,COMP1511-E007,课程作为第一道分水岭，导致大量跟随潮流或信心不足的学生放弃计算机专业，退课率高且产生学费损失。,学生流失 / Student Attrition,高退课/转专业率与学费损失 / High Dropout/Transfer Rate & Tuition,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,47
+Yuanhang Yan,COMP1511,267,COMP1511-E008,课程进度极快，9周内从Hello World推进到双链表，零基础学生感到非常痛苦，难以跟上。,课程进度 / Course Pace,进度过快致零基础学生痛苦 / Excessively Fast Pace for Beginners,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,48
+Yuanhang Yan,COMP1511,267,COMP1511-E009,零基础学生若想在学期中跟上进度，必须在假期提前预习，否则容易掉队。,前置准备 / Prerequisite Preparation,必须假期预习才能跟上 / Vacation Pre-study Required to Keep Up,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,49
+Yuanhang Yan,COMP1511,283,COMP1511-E010,课程对没有任何编程基础的学生难度较高甚至很高，可能带来较大初始挫折感。,入门难度 / Entry Difficulty,零基础学生面临较高入门难度 / High Entry Barrier for Complete Beginners,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,50
+Yuanhang Yan,COMP1511,413,COMP1511-E011,零基础学生学习 C 语言会感到基础内容尖锐且不宽容，这门课不适合作为拉高平均分（WAM）的课程，可能影响整体成绩。,成绩影响 / Grade Impact,不适合作为刷分课 / Not a WAM Booster,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,51
+Yuanhang Yan,COMP1511,614,COMP1511-E012,课程使用 MOSS 查重系统，AI 生成的代码若被判定违规，直接零分且无申诉机会，对学术诚信要求极为严格。,学术诚信与查重 / Academic Integrity & Plagiarism Detection,AI 查重零分且不可申诉 / Zero Score for AI-Detected Code with No Appeal,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,52
+Yuanhang Yan,COMP1511,614,COMP1511-E013,代码风格占作业总分的20%，容易被忽视而严重失分，但却是最易拿分的部分。,评分标准 / Grading Rubric,忽略代码风格易失分 / Easy Marks Lost by Neglecting Code Style,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,53
+Yuanhang Yan,COMP1511,614,COMP1511-E014,期末考试为纯手写代码，无 IDE 辅助，极大考验脱离自动补全和调试工具后的编程基本功。,考试形式 / Exam Format,无 IDE 手写代码挑战 / No IDE Handwritten Code Challenge,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,54
+Yuanhang Yan,COMP1511,614,COMP1511-E015,考试中 Debug 题对边界条件和空指针检查极为敏感，即使逻辑正确，遗漏一处 NULL 检查也会失分。,考试评分严格度 / Exam Grading Strictness,边界条件与空指针检查严格 / Strict Boundary & NULL Check Requirements,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,55
+Yuanhang Yan,COMP1511,1109,COMP1511-E016,代码风格（style）和测试细节需要认真对待，否则容易在这两部分失分。,评分细节 / Grading Details,风格与测试细节易失分 / Easy Marks Lost on Style & Test Details,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,56
+Yuanhang Yan,COMP9517,138,COMP9517-E001,课程虽整体简单，但组队时需要谨慎选择队友，否则可能因队友问题影响项目进展或成绩。,团队协作 / Team Collaboration,队友质量影响项目成果 / Teammate Quality Affects Project Outcome,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,57
+Yuanhang Yan,COMP9517,342,COMP9517-E002,期末考试曾实行选择题答错倒扣总分的机制，引发学生强烈不满，可能影响最终成绩的公平性。,考核机制 / Assessment Mechanism,选择题答错倒扣分 / Negative Marking for Wrong Multiple-Choice Answers,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,58
+Yuanhang Yan,COMP9517,989,COMP9517-E003,两人小组完成项目代码部分压力很大，暗示任务量可能对两人组队构成挑战。,代码部分2个人做，确实压力很大,小组项目两人负担重 / Heavy Workload for Two-Person Group Project,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,59
+Yuanhang Yan,COMP9517,1146,COMP9517-E004,课程近期新增双重通过（double pass）要求，不能再依赖以往作为“水课”的经验，挂科风险上升。,考核门槛 / Assessment Hurdle,新增双重通过门槛 / Newly Added Double Pass Requirement,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,60
+Yuanhang Yan,COMP6771,190,COMP6771-E001,课程被描述为“C++地狱”，表明难度极高，可能给多数学生带来巨大痛苦。,课程难度 / Course Difficulty,极高难度 / Extremely High Difficulty,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,61
+Yuanhang Yan,COMP6771,190,COMP6771-E002,课程设有双重通过（double pass）要求，学生不敢掉以轻心，挂科风险高。,考核要求 / Assessment Requirement,双重通过门槛 / Double Pass Hurdle,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,62
+Yuanhang Yan,COMP6771,308,COMP6771-E003,期末考试要求线下手写完成两个大型编程题目，难度极大，对学生构成严峻挑战。,考试形式与难度 / Exam Format & Difficulty,期末线下手写大型编程题 / Offline Handwritten Large-Scale Coding,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,63
+Yuanhang Yan,COMP6771,308,COMP6771-E004,曾因讲师更替导致题库被误用作样题，造成考试抄袭事故，反映出题管理与教师交接存在漏洞。,考试管理 / Exam Administration,题库管理失误致考试公平性受损 / Exam Bank Mismanagement Compromising Fairness,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,64
+Yuanhang Yan,COMP6771,571,COMP6771-E005,课程作业量较大，第一个作业约500行代码，后续作业达1000行左右，对时间投入要求高,作业工作量 / Assignment Workload,作业代码量庞大 / Large Assignment Code Volume,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,65
+Yuanhang Yan,COMP6771,571,COMP6771-E006,助教对代码格式评分极为严格，格式问题可能导致不必要扣分。,评分严格度 / Grading Strictness,代码格式评分严格 / Strict Code Style Grading,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,66
+Yuanhang Yan,COMP6771,571,COMP6771-E007,学生需要自行编写测试验证代码，增加了额外学习负担和技术难度,作业要求 / Assignment Requirements,需自写测试代码 / Self-Written Test Code Required,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,67
+Yuanhang Yan,COMP6771,571,COMP6771-E008,考试中编译错误代码直接零分，即使逻辑正确也无分，对编译细节要求极高。,考试评分规则 / Exam Grading Rule,编译错误直接零分 / Compilation Error Results in Zero Marks,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,68
+Yuanhang Yan,COMP6771,993,COMP6771-E009,没有 C 语言基础或完全零基础转码的学生不适合选修此课，前置门槛高，否则难以跟上。,前置知识要求 / Prerequisite Knowledge,"高前置门槛，零基础不友好 / High Entry Barrier, Not Beginner-Friendly",medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,69
+Yuanhang Yan,COMP6771,1011,COMP6771-E010,讲师 Hayden 英语口音或表达费劲，叠加 C++ 本身高难度，显著增加学习障碍和心理压力。,讲师表达与语言障碍 / Lecturer Delivery & Language Barrier,讲师英语费劲加剧学习困难 / Lecturer's English Difficulty Amplifies Learning Challenges,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,70
+Yuanhang Yan,COMP6771,1011,COMP6771-E011,课程内容并非从基础讲起，除第一节课外全程聚焦 C++ 高级特性，课件本身难度高、不易懂，与“上课简单作业难”的常见抱怨不同，本身上课内容就极难消化。,教学内容难度 / Content Difficulty,全程高难度内容无循序渐进 / Entirely High-Level Content Without Scaffolding,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,71
+Yuanhang Yan,COMP6771,1011,COMP6771-E012,考试考察极其底层的实现细节（如 vtable），超出通常“理解原理即可”的预期，复习范围难以把控,考试范围与深度 / Exam Scope & Depth,考试涉及底层实现细节 / Exam Tests Low-Level Implementation Details,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,72
+Yuanhang Yan,COMP6771,1011,COMP6771-E013,助教扣分非常严厉，动辄扣掉十余分，对作业成绩影响大。,评分严格度 / Grading Strictness,助教扣分严厉 / Strict Tutor Grading,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,73
+Yuanhang Yan,COMP6771,1011,COMP6771-E014,每周练习题（Exercise）是掌握课程的核心，但不计分也不强制提交，自主学习能力要求高，学生容易忽视而导致基础不牢。,学习资源与自主性 / Learning Resources & Self-Discipline,核心练习不计分易被忽视 / Crucial Ungraded Exercises Easily Overlooked,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,74
+Yuanhang Yan,COMP6771,1011,COMP6771-E015,评论者认为这是唯一一门担心会挂科的课，反映课程给即便是有些微基础的学生也带来极高的挂科焦虑,课程通过焦虑 / Pass Anxiety,高挂科恐惧 / High Fear of Failure,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,75
+Yuanhang Yan,COMP6771,1020,COMP6771-E016,考试设有hurdle，最初要求取得50%分数才能通过，后调整为约30%即可，但通过门槛规则存在不确定性，可能变动。,考核门槛 / Assessment Hurdle,通过门槛规则变动 / Unstable Pass Hurdle Policy,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,76
+Yuanhang Yan,COMP6771,1020,COMP6771-E017,考试允许携带一页PDF，但要求该资料必须公开访问，为考前组队和作弊提供了条件，严重损害考试公平性,考试诚信与公平 / Exam Integrity & Fairness,公开资料政策助长组队作弊 / Public Cheat-Sheet Policy Enables Collusion,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,77
+Yuanhang Yan,COMP6771,1020,COMP6771-E018,估计半数以上学生期末考试的两道大题均未做出，题目难度极高或题量与时间严重不匹配。,考试难度 / Exam Difficulty,高比例学生大题空白 / High Proportion of Students Failing Major Exam Questions,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,78
+Yuanhang Yan,COMP6771,1028,COMP6771-E019,考试仅占总分30%却设有极高hurdle，门槛设置不合理，挂科风险集中爆发。,考核门槛 / Assessment Hurdle,低权重考试却设高hurdle / High Hurdle on Low-Weight Exam,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,79
+Yuanhang Yan,COMP6771,1028,COMP6771-E020,课件看似简单，但考试简答题要求对现代C++有深层理解，仅靠课件远不足以应对，必须额外钻研练习和样题才能勉强应对。,考试深度与课件差距 / Exam Depth vs Lecture Content Gap,考试远超课件深度 / Exam Far Exceeds Lecture Content Depth,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,80
+Yuanhang Yan,COMP6771,1028,COMP6771-E021,考试两道编程题时间分配极度紧张，做完第一题后第二题仅剩半小时，最终只拿到个位数分数。,考试时间分配 / Exam Time Allocation,编程题时间严重不足 / Severely Insufficient Time for Coding,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,81
+Yuanhang Yan,COMP6771,1028,COMP6771-E022,作业使用AI辅助被严格扣分，作业2和3仅得80多分，扣分力度大。,学术诚信与AI使用 / Academic Integrity & AI Usage,AI辅助被严格扣分 / Strict Penalty for AI-Assisted Work,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,82
+Yuanhang Yan,COMP6443,141,COMP6443-E001,课程报告数量过多，导致学生感到疲惫和压力。,作业负担 / Assignment Load,报告工作量过大 / Excessive Report Workload,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,83
+Yuanhang Yan,COMP6443,143,COMP6443-E002,课程作业大量为写作类任务，技术难度不高但数量庞大，导致学生负担过重。,作业负担 / Assignment Load,报告/写作类作业量过大 / Excessive Report/Writing Workload,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,84
+Yuanhang Yan,COMP6443,145,COMP6443-E003,课程不适合想轻松拿分的学生，拿分难度较高、投入产出比不理想,得分难度 / Scoring Difficulty,不易拿高分 / Not an Easy High-Score Course,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,85
+Yuanhang Yan,COMP6443,156,COMP6443-E004,学生持续面临密集的flag类任务挑战，感受到被追赶的压力。,任务频率与压力 / Task Frequency & Pressure,高频flag任务带来持续压力 / High-Frequency Flag Tasks Cause Continuous Pressure,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,86
+Yuanhang Yan,COMP6443,158,COMP6443-E005,课程工作量不低，报告和挑战任务非常耗时，前期若跟不上进度，后期会陷入困境，学习曲线持续承压。,作业负担与学习连续性 / Workload & Learning Continuity,高耗时的报告与挑战任务易导致进度落后 / Time-Consuming Reports & Challenges Leading to Falling Behind,low,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,87
+Yuanhang Yan,COMP6443,1058,COMP6443-E006,作业量巨大，大量时间被消耗。,作业负担 / Assignment Load,作业量巨大 / Huge Assignment Workload,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,88
+Yuanhang Yan,COMP6443,1058,COMP6443-E007,对于不熟悉Web漏洞的学生，课程内容会感到比较困难。,前置知识要求 / Prerequisite Knowledge,对Web漏洞背景要求较高 / Requires Prior Web Vulnerability Knowledge,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,89
+Yuanhang Yan,COMP6443,1065,COMP6443-E008,小组作业对组员要求高，组员水平直接影响报告质量和最终得分，存在队友依赖风险。,团队依赖 / Team Dependency,组员质量影响成绩 / Teammate Quality Affects Grade,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,90
+Yuanhang Yan,COMP6443,1065,COMP6443-E009,需要摸清每个tutor的评分点，否则即使付出大量努力写出很多内容仍可能得低分，评分标准主观性较强。,评分透明度 / Grading Transparency,评分标准依赖tutor主观偏好 / Subjective Grading Dependent on Tutor Preferences,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,91
+Yuanhang Yan,COMP6443,1080,COMP6443-E010,教授要求比较死板，可能给灵活性较差或难以变通的感觉，增加学生适应难度。,教学风格 / Teaching Style,教授要求死板 / Rigid Instructor Requirements,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,92
+Yuanhang Yan,COMP6443,1080,COMP6443-E011,作业需要选好组员，且最好参加tutor课，暗示团队依赖度较高，且评分细节可能需通过tutor掌握。,团队协作与辅导课 / Team Collaboration & Tutorial Importance,依赖组员与辅导课 / Dependency on Teammates & Tutor Attendance,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,93
+Yuanhang Yan,COMP3411,128,COMP3411-E001,课程内容严重过时，仅涉及20世纪初的AI知识，缺乏现代内容（如Transformer等），学习价值低。,课程内容时效性 / Content Currency,内容陈旧缺乏现代技术 / Outdated Content Missing Modern AI Techniques,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,94
+Yuanhang Yan,COMP3411,128,COMP3411-E002,课程难度高且实用性差，被评价为“又难又没用”，可能让学生付出大量努力却收获甚微。,课程难度与实用性 / Course Difficulty & Practicality,高难度低实用性 / High Difficulty with Low Practical Usefulness,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,95
+Yuanhang Yan,COMP3411,130,COMP3411-E003,课程整体并不轻松，学习过程有一定压力。,课程难度 / Course Difficulty,课程不轻松 / Not an Easy Course,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,96
+Yuanhang Yan,COMP3411,130,COMP3411-E004,课程设有双重通过（double pass）要求，期末考试一旦考砸会直接导致挂科，风险极高。,考核要求 / Assessment Requirements,期末双重通过高风险挂科 / High-Risk Final Double Pass Failure,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,97
+Yuanhang Yan,COMP3411,132,COMP3411-E005,课程内容覆盖面广但深度不足，仅对AI各领域做表面介绍，缺乏深入讲解，学习收获可能有限。,课程内容深度 / Content Depth,内容广而不深 / Broad but Shallow Content,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,98
+Yuanhang Yan,COMP3411,341,COMP3411-E006,课程过去被视为“水课”，但近期难度明显提升，不再能轻松应对，选课时不能依赖旧印象,课程难度变化 / Course Difficulty Change,课程由水变难 / Course Became Significantly Harder,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,99
+Yuanhang Yan,COMP3411,387,COMP3411-E007,课程经过改革后，难度或要求不再像以往那样友好，可能不再适合作为轻松通过的入门课。,课程难度变化 / Course Difficulty Change,课改后难度提升 / Post-Reform Difficulty Increase,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,100
+Yuanhang Yan,COMP3411,439,COMP3411-E008,Prolog 编程语言可能让部分学生感到怪异，尤其对递归还不熟练的学生会造成困惑。,编程语言难度 / Programming Language Difficulty,Prolog 对递归新手不友好 / Prolog Unfriendly for Recursion Beginners,,,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,101
+Yuanhang Yan,COMP3411,561,COMP3411-E009,讲师 ww 讲课水平差，期末考试错题会倒扣分，出题不合理，严重影响成绩公平性与选课决策。,讲师与考核机制 / Lecturer & Assessment Mechanism,特定讲师期末倒扣分 / Negative Marking with Certain Lecturer,,,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,102
+Yuanhang Yan,COMP3411,561,COMP3411-E010,讲师 Alan 的课程作业非常难写，但期末考试简单且题型固定，整体负担与收益并存，学习体验两极分化。,作业难度与考试平衡 / Assignment Difficulty & Exam Balance,Alan作业高难度 / High Assignment Difficulty Under Alan,,,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,103
+Yuanhang Yan,COMP4920,12,COMP4920-E001,课程过程十分痛苦，写作量极大（2篇essay+presentation），对计算机伦理兴趣不强的学生非常折磨，可能严重影响学习体验和动力。,学习体验 / Learning Experience,写作量大且过程痛苦 / Heavy Writing Load & Painful Process,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,104
+Yuanhang Yan,COMP4920,12,COMP4920-E002,若tutor为非计算机背景（如哲学方向），可能在选题指导和评分时提供不准确的引导，并从非计算机视角严苛审视文章，对缺乏逻辑思辨训练的学生尤为折磨。,辅导质量与评分一致性 / Tutoring Quality & Grading Consistency,非计算机背景tutor指导不当致评分严苛 / Non-CS Tutor Leading to Misguided Feedback & Harsh Grading,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,105
+Yuanhang Yan,COMP4920,12,COMP4920-E003,课程给分抠门且极其主观，tutor的个人偏好和能力直接决定分数，如果遇到不合适的tutor则成绩很可能不理想，且学生对此几乎无法控制。,评分公平性 / Grading Fairness,评分高度主观且抠门 / Highly Subjective & Stingy Grading,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,106
+Yuanhang Yan,COMP4920,425,COMP4920-E004,评分有时感觉奇怪且随意，缺乏一致的透明标准，可能影响成绩的公平性和可预期性。,评分标准与公平性 / Grading Standard & Fairness,评分随意且缺乏一致性 / Arbitrary and Inconsistent Marking,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,107
+Yuanhang Yan,COMP4920,425,COMP4920-E005,课程以论文写作为主要评估方式，不喜欢写论文的学生可能不适合该课，会感到不适。,课程形式适配 / Course Format Suitability,课程形式适配 / Course Format Suitability,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,108
+Yuanhang Yan,COMP4920,568,COMP4920-E006,课程改革后，期末考试改为线下手写论文，设有hurdle，要求1小时50分钟内完成约3200词纯英文写作，时间与字数要求极为苛刻，绝大多数学生难以完成，挂科风险极高。,考试形式与要求 / Exam Format & Requirements,线下限时手写论文量过大 / Unreasonably Demanding Handwritten Essay Exam,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,109
+Yuanhang Yan,COMP4920,1136,COMP4920-E007,期末考试为hurdle任务，必须达到competent标准，否则整门课可能不通过，挂科风险集中于这一道关卡,考核门槛 / Assessment Hurdle,期末考试设通过门槛 / Final Exam Hurdle Requirement,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,110
+Yuanhang Yan,COMP9444,137,COMP9444-E001,平时项目（project）难度高，完成困难，给学生带来较大负担。,项目难度 / Project Difficulty,平时项目难度高 / High Difficulty Projects,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,111
+Yuanhang Yan,COMP9444,137,COMP9444-E002,期末考试选择题答错会倒扣分，这种惩罚性机制极易导致成绩大幅下滑，显著增加挂科风险。,考核机制 / Assessment Mechanism,选择题答错倒扣分 / Negative Marking for Multiple-Choice Questions,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,112
+Yuanhang Yan,COMP9444,462,COMP9444-E003,作业反馈和邮件沟通不理想，学生难以获得及时有效的指导，可能影响作业质量和学习效果。,教学支持 / Teaching Support,反馈与沟通差 / Poor Feedback and Communication,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,113
+Yuanhang Yan,ECON1101,297,ECON1101-E001,期末考试题目缺少图表，计算题需自行画图，且数字设计怪异（如需要三位小数），严重拖慢答题速度，增加时间压力。,考试题目设计 / Exam Question Design,题目设计不合理增加耗时 / Unreasonable Question Design Wastes Time,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,114
+Yuanhang Yan,ECON1101,297,ECON1101-E002,题量巨大且高分门槛苛刻：57道题，要获得HD需答对至少40题，每题平均仅2分钟，几乎无法完成，对追求高成绩的学生极不友好。,考试题量与时间压力 / Exam Length & Time Pressure,题量与时间严重不匹配 / Mismatched Question Volume and Time Limit,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,115
+Yuanhang Yan,ECON1101,297,ECON1101-E003,课程转为线下考试后难度与压力显著上升，不再适合作为轻松拿分的自由选修课（FE），选课决策需谨慎。,选课适用性 / Course Suitability,线下考试不适合作为刷分选修 / Not Suitable as a WAM Booster Elective,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,116
+Yuanhang Yan,ECON1101,786,ECON1101-E004,程转为线下考试后难度明显增加，不再“水”，若完全未参加讲座和辅导课，期末准备会非常困难，对依赖自学的学生构成较大风险。,考试难度与出勤要求 / Exam Difficulty & Attendance Dependency,线下考试变难且依赖出勤 / Harder Offline Exam Requiring Lecture/Workshop Attendance,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,117
+Yuanhang Yan,ECON1101,786,ECON1101-E005,PlayEcon 练习题数量多，且不确定是否必须全部完成，导致学生可能浪费大量时间或漏做必需内容，影响复习效率。,练习任务不明确 / Unclear Practice Task Requirements,练习题量多且要求不清 / Excessive and Unclear PlayEcon Exercises,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,118
+Yuanhang Yan,ECON1101,796,ECON1101-E006,课程整体学习难度高，学生强烈不建议选修，反映出普遍性的负面体验。,课程整体难度与推荐度 / Course Difficulty & Recommendation,课程难度高且不推荐 / High Difficulty and Not Recommended,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,119
+Yuanhang Yan,ECON1101,796,ECON1101-E007,期末考试出乎意料地难，且转为线下考试后挑战加剧，可能大幅拉低分数甚至导致挂科。,考试难度与形式变化 / Exam Difficulty & Format Change,线下期末考试高难度 / High Difficulty Offline Final Exam,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,120
+Yuanhang Yan,ECON1101,801,ECON1101-E008,程教学质量差，lecture讲得太慢，无法有效帮助学生掌握知识，建议学生通过YouTube或其他学校视频自学替代。,教学质量 / Teaching Quality,讲座质量差需依赖外部自学 / Poor Lecture Quality Requires External Self-Study,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,121
+Yuanhang Yan,ECON1101,801,ECON1101-E009,网上或DX平台流传的past paper答案可能存在错误，依赖这些资源复习可能导致错误理解，影响考试成绩。,学习资源可靠性 / Learning Resource Reliability,流传答案有误需多方核实 / Unofficial Answers May Be Incorrect,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,122
+Yuanhang Yan,ECON1101,808,ECON1101-E010,期末考试计算题数字设置怪异，容易算到怀疑人生，且部分题目表述有歧义，影响答题准确性和速度，可能导致不必要的失分。,考试题目设计 / Exam Question Design,计算题数字怪异及表述歧义 / Weird Calculation Numbers & Ambiguous Wording,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,123
+Yuanhang Yan,ECON1101,808,ECON1101-E011,学校不提供任何样卷或past paper，但期末考试从题库抽题导致题目高度同质化。学生若不通过非官方渠道获取以往试题，备考将处于明显劣势，存在不公平竞争。,备考资源公平性 / Fairness of Preparation Resources,无官方样卷但依赖题库致不公平 / No Official Past Papers Despite Question Bank Reliance,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,124
+Yuanhang Yan,ECON1101,808,ECON1101-E012,课程负责人员仅三人，导致平时和期末都缺乏有效人工审核与监考。线上纯选择题考试形式下，完全不学习仅靠AI即可拿到85分以上，存在严重的学术诚信漏洞，成绩含金量可能受影响。,考试监考与学术诚信 / Exam Proctoring & Academic Integrity,线上监考缺失易作弊 / Lack of Proctoring Enables AI Cheating,low,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,125
+Yuanhang Yan,COMP9020,41,COMP9020-E001,课程证明题极多，无法轻松混过，需要付出大量时间和精力进行严格的逻辑推理和证明训练，学习负担较重。,课程内容与负担 / Course Content & Workload,大量证明题导致学习负担重 / Heavy Proof-Based Workload,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,126
+Yuanhang Yan,COMP9020,41,COMP9020-E002,期末考试形式不稳定，会发生变化，导致学生难以依靠往年经验针对性备考，增加了挂科的不确定性。,考试形式稳定性 / Exam Format Stability,期末考试形式多变 / Unpredictable Final Exam Format,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,127
+Yuanhang Yan,COMP9020,41,COMP9020-E003,课程体验和难度高度依赖讲师，不同讲师之间差异明显，选错讲师可能导致学习效果和成绩严重受影响。,讲师依赖 / Lecturer Dependency,课程体验与成绩严重依赖讲师 / High Dependency on Lecturer,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,128
+Yuanhang Yan,COMP9020,43,COMP9020-E004,期末考试形式与往年截然不同，从大量证明题突变为30道选择题，学生若按旧经验备考会严重失误，增加挂科不确定性,考试形式稳定性 / Exam Format Stability,考试形式与往年严重不符 / Drastic Exam Format Change from Previous Years,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,129
+Yuanhang Yan,COMP9020,43,COMP9020-E005,选择题答错会倒扣分，惩罚性计分规则极易导致分数大幅缩水甚至挂科，严重影响成绩公平性与安全感。,考核机制 / Assessment Mechanism,选择题答错倒扣分 / Negative Marking for Wrong Multiple-Choice Answers,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,130
+Yuanhang Yan,COMP9020,45,COMP9020-E006,课程体验和考核严重依赖授课老师，不同教授安排差异巨大，选错老师可能导致作业难度、给分标准和整体体验出现明显偏差。,讲师依赖 / Lecturer Dependency,讲师差异显著影响成绩与体验 / Significant Lecturer Impact on Grades & Experience,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,131
+Yuanhang Yan,COMP9020,45,COMP9020-E007,如果离散数学基础较差，会感到课程非常吃力，前置知识不足会直接导致学习困难甚至挂科。,前置知识要求 / Prerequisite Knowledge,离散数学基础不足易导致失败 / Weak Discrete Math Background Leads to Failure,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,132
+Yuanhang Yan,COMP9020,47,COMP9020-E008,每周需完成6至8道证明题，持续的数学证明负担极重，容易让学生感到身心俱疲（“写麻了”），严重影响学习体验和持续投入的动力。,作业负担 / Assignment Workload,每周大量证明题导致负担过重 / Excessive Weekly Proof Assignments,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,133
+Yuanhang Yan,COMP9020,47,COMP9020-E009,课程节奏安排不均，证明题总量看似可控（约120分钟），但后期突然集中堆积，导致短时间内压力陡增，前期若未跟上极易在后期崩溃。,学习节奏 / Learning Pace,后期工作量突增致压力集中 / Sudden Workload Spike in Later Weeks,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,134
+Yuanhang Yan,COMP9020,49,COMP9020-E010,课程要求学生从概念理解上升到严格证明，学习深度和思维方式的转变可能导致大量学生不适应，与“知道概念就行”的预期产生巨大落差。,课程内容难度 / Course Content Difficulty,概念理解与严格证明之间的巨大鸿沟 / Large Gap Between Concept Understanding and Rigorous Proofs,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,135
+Yuanhang Yan,COMP9020,49,COMP9020-E011,程体验极易两极分化：取决于当学期老师安排、作业量和考试形式是否稳定。若遭遇作业量阶段性暴涨或期末考试形式突变，学习过程会变成与题量和考试机制的搏斗，而非知识学习本身。,体验稳定性 / Experience Stability,体验严重依赖老师与考核稳定性 / Experience Heavily Dependent on Lecturer & Assessment Stability,high,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,136
+Yuanhang Yan,COMP9020,49,COMP9020-E012,课程是否适合选修，必须事先查询当学期授课老师和考核形式，若盲目选课可能遭遇极差体验。,选课决策 / Enrolment Decision,不提前调研易遭遇不利安排 / Blind Enrolment Risks Unfavourable Lecturer or Assessment,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,137
+Yuanhang Yan,COMP9020,1215,COMP9020-E013,期中考试时间严重不足，导致大量题目未完成而仅得 20 多分，反映考试存在较大的时间压力或题量/难度设计不合理，可能严重拉低总评分数。,考试时间与题量 / Exam Time & Volume,期中考试时间紧张致低分 / Midterm Time Pressure Leading to Low Score,medium,no,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,138
+Yuanhang Yan,COMP9020,1216,COMP9020-E014,末考试难度或题量极大，学生仅完成不到一半内容，虽然最终分数因 scaling 等可能不算低，但考试过程压力恐怖，存在时间严重不足或题目过难的问题。,考试难度与时间压力 / Exam Difficulty & Time Pressure,期末考试恐怖且难以完成 / Terrifying Final Exam Impossible to Complete,medium,yes,evidence_units_Yuanhang_Yan(2).csv,utf-8-sig,139
+kreit,GSOE9820,62,GSOE9820-E001,project 比考试重要多了,,,medium,no,GSOE9820\evidence_units_kreit.csv,utf-8-sig,2
+kreit,GSOE9820,60,GSOE9820-E002,这课纯看组员,小组合作多,,medium,yes,GSOE9820\evidence_units_kreit.csv,utf-8-sig,3
+kreit,GSOE9820,64,GSOE9820-E003,指望它像普通技术课那样靠自己刷题解决，那可能会失望,考试,,high,yes,GSOE9820\evidence_units_kreit.csv,utf-8-sig,4
+kreit,GSOE9820,601,GSOE9820-E004,lecture说实话有点闷,lecture,lecture,low,no,GSOE9820\evidence_units_kreit.csv,utf-8-sig,5
+kreit,GSOE9820,601,GSOE9820-E005,workshop也就是走个流程,project,,low,yes,GSOE9820\evidence_units_kreit.csv,utf-8-sig,6
+kreit,GSOE9820,1208,GSOE9820-E006,平时作业大部分是小组形式,小组作业,,medium,yes,GSOE9820\evidence_units_kreit.csv,utf-8-sig,7
+kreit,COMM1150,848,COMM1150-E001,Feliks是个上课很有意思的老头,tutor,,medium,yes,COMP3311\evidence_units_kreit.csv,utf-8-sig,8
+kreit,COMM1150,861,COMM1150-E002,本来Lincoln的participation有8/10,得分标准,得分标准不明确,high,yes,COMP3311\evidence_units_kreit.csv,utf-8-sig,9
+kreit,COMM1150,941,COMM1150-E003,COMM1150的assessment包括tutorial participation、Lenses and Levers Report、quiz和group sustainability presentation。,marking,,medium,yes,COMP3311\evidence_units_kreit.csv,utf-8-sig,10
+kreit,COMP1521,344,COMP1521-E001,对于只有comp1511的编程背景来说第六周之后是有点吃力的,课程难度,,high,yes,COMP3311\evidence_units_kreit.csv,utf-8-sig,11
+kreit,COMP3222,1049,COMP3222-E001,他对学生的要求也非常高,难度,,,yes,COMP3311\evidence_units_kreit.csv,utf-8-sig,12

@@ -1,0 +1,9 @@
+﻿annotator_id,course_code,course_title_en,gold_risk_id,risk_label,risk_description,risk_severity,supporting_comment_ids,supporting_evidence_ids,support_count,is_low_frequency_risk,is_critical_risk
+kreit,GSOE9820,Engineering Project Management,GSOE9820-R001,小组作业,project以小组作业为主，占总分比例高,medium,60，62，64，172，176，601，1208,GSOE9820-E006 ，GSOE9820-E003,7,,
+kreit,COMM1150,Global Business Environments,COMM1150-R001,tutor,课程评分及体验受导师影响较大,medium,"830,837,842,848，854,861",,6,,
+kreit,COMM1150,Global Business Environments,COMM1150-R002,考试,课程考点多，且来源广,high,902，941,,2,no,yes
+kreit,COMP1521,Computer Systems Fundamentals,COMP1521-R001,课程衔接,作为基础课程，需要较好的编程背景，课程难度高，且校方的课程衔接存在问题,high,344，512，414，415,,4,no,yes
+kreit,COMP3121,Algorithm Design and Analysis,COMP3121-R001,课程安排,课程对英语口语和基础有要求,low,525,,1,no,yes
+kreit,COMP3121,Algorithm Design and Analysis,COMP3121-R002,难度大,作业量大，重视思维，容易出现回答预期和最后出来的成绩不匹配的情况,high,"1194,1118，525",,3,no,yes
+kreit,COMP3222,Digital Circuits and Systems,COMP3222-R001,难度,必修入门课，对其余课程支持性强，难度不低,medium,1195，1049，555，553,,4,no,yes
+kreit,COMP3311,Database Systems,COMP3311-R001,难度,补考人数众多，通过考试的难度较高,,"1055,558，391",,3,,

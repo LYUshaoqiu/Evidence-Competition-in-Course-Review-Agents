@@ -1,0 +1,35 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,12,yes,yes,3,no,course_organization;teaching_quality,insufficient_support,3,neutral,给分非常抠门和主观，基本就是tutor行基本分数不会太难看，tutor不行基本完蛋。,,2026-07-09T15:31:52.091Z
+FY liu,COMP6080,Web Front-End Programming,33,,,,,,,,,,,2026-07-13T05:38:34.342Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,122,yes,no,1,yes,,,1,neutral,,,2026-07-09T15:31:52.778Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,124,yes,no,1,yes,teaching_quality,,1,neutral,,,2026-07-09T15:31:53.174Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,126,yes,no,2,yes,assignment,,1,positive,,,2026-07-09T15:31:53.529Z
+FY liu,COMP3411,Artificial Intelligence,128,yes,yes,1,no,teaching_quality,weak_teaching,2,negative,最新的像transformer什么的是一概没有的,,2026-07-07T14:36:10.491Z
+FY liu,COMP3411,Artificial Intelligence,130,yes,yes,2,no,exam;marking,harsh_grading,2,mixed,final一炸直接double pass带走,,2026-07-07T14:37:11.660Z
+FY liu,COMP3411,Artificial Intelligence,132,yes,yes,2,no,teaching_quality,weak_teaching;double_pass_or_hurdle,1,negative,"基本把AI里常见的东西都扫一遍,没有深入的讲",,2026-07-07T14:39:28.828Z
+FY liu,COMP9444,Neural Networks and Deep Learning,135,unclear,no,1,yes,marking,,1,positive,,,2026-07-13T05:39:06.932Z
+FY liu,COMP9444,Neural Networks and Deep Learning,137,yes,yes,3,no,exam;project,harsh_grading,2,negative,期末居然还选择答错扣分,,2026-07-13T05:40:01.898Z
+FY liu,COMP9444,Neural Networks and Deep Learning,139,yes,yes,2,no,exam;project,,2,positive,内容像CNN、LSTM这些都有讲，甚至transformer也会提一下。作业是一个个人+小组proj，整体工作量不算大，给分也还可以,,2026-07-13T05:41:06.777Z
+FY liu,COMP9444,Neural Networks and Deep Learning,309,yes,yes,2,no,assessment;project;group_work,,2,neutral,选择一个好的group project题目很重要，选择一个好的group更重要。,,2026-07-13T05:41:45.805Z
+FY liu,COMP9444,Neural Networks and Deep Learning,335,yes,yes,3,no,assessment;project;group_work,,2,neutral,管理>技术，因为本身课程对于学生的要求非常低，只要你调参调结构就行了。而出现低分的情况大多数是因为没有有效的团队协作,,2026-07-13T06:00:21.978Z
+FY liu,COMP9444,Neural Networks and Deep Learning,336,yes,yes,3,no,assessment;tutorial;group_work,,2,positive,group project 30分期末线下闭卷带自己电脑，整体来说不算难，多选/单选，稍微期末复习两三天就够用了,,2026-07-13T06:00:22.178Z
+FY liu,COMP3411,Artificial Intelligence,341,yes,no,2,yes,marking,content_too_hard,2,neutral,,,2026-07-07T14:39:30.712Z
+FY liu,COMP3411,Artificial Intelligence,387,yes,no,2,yes,assignment;teaching_quality,,1,mixed,,,2026-07-07T14:47:44.925Z
+FY liu,COMP9444,Neural Networks and Deep Learning,394,yes,no,2,yes,assessment,,2,positive,,,2026-07-13T06:00:22.363Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,396,yes,no,1,yes,assignment,,0,neutral,,,2026-07-09T15:31:57.380Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,424,yes,yes,1,no,career_relevance,,1,neutral,COMP4920 is not the kind of course most CompSci students are excited to take. It focuses on ethical issues in IT,,2026-07-09T15:33:45.656Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,425,yes,no,2,yes,career_relevance,,2,positive,,,2026-07-09T15:31:56.423Z
+FY liu,COMP3411,Artificial Intelligence,438,yes,no,2,no,assignment,,1,neutral,,,2026-07-07T14:48:35.403Z
+FY liu,COMP3411,Artificial Intelligence,439,yes,no,2,no,teaching_quality,,1,positive,,,2026-07-07T14:55:40.306Z
+FY liu,COMP9444,Neural Networks and Deep Learning,461,yes,yes,2,no,assessment;project;group_work,,2,positive,如果小组作业的tutor要求不是特别严格，拿高分会比较容易。期末原题也比较多，所以备考性价比还可以。,,2026-07-13T06:00:22.537Z
+FY liu,COMP9444,Neural Networks and Deep Learning,462,yes,yes,3,no,project;marking;tutorial;group_work,delayed_feedback,2,negative,COMP9444有5节tutorial要考勤，作业反馈和邮件沟通不太理想，论坛也偏放养,,2026-07-13T06:00:22.730Z
+FY liu,COMP3411,Artificial Intelligence,561,yes,yes,3,no,exam;assignment;marking;teaching_quality,harsh_grading;content_too_hard,3,neutral,建议就上alan和francisco授课学期。避雷ww，讲课水平不行，而且final题错了会倒扣分，出题非常不合理！,,2026-07-07T15:08:26.588Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,567,yes,yes,2,no,assignment,,2,neutral,需要写2篇essay，组队完成项目报告并展示,,2026-07-09T15:31:56.217Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,568,yes,yes,3,no,assessment;exam;assignment,assessment_bunching,3,neutral,小组合作，没有考试。现在final线下纯手搓加hurdle，也不小组合作了，一个小时五十分钟写3200词左右的纯英手写论文,,2026-07-09T15:27:59.617Z
+FY liu,COMP9444,Neural Networks and Deep Learning,1023,yes,no,2,no,,content_too_shallow;low_practical_value,2,mixed,,,2026-07-13T06:00:32.177Z
+FY liu,COMP3411,Artificial Intelligence,1063,yes,yes,3,yes,assessment;assignment,,2,neutral,"26T1总结了下
+第一部分是搞定汉诺塔，需要写个比老师给的更聪明的算法，算算能省多少步，顺便研究一下4根柱子时的数学规律
+第二部分是让机器人在网格里走迷宫，先让它自己搜索，再安排个师傅教它，对比一下有人带和没人带哪个学得快
+最后要把代码和报告整理好提交上去",,2026-07-07T15:09:59.567Z
+FY liu,COMP3411,Artificial Intelligence,1119,yes,yes,2,yes,assignment,,1,neutral,我同学说assignment2比assignment1难度低一点，但整体仍然不算简单，报告里的比较、讨论和证明也要认真写。,,2026-07-07T15:12:39.889Z
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,1136,yes,yes,3,no,assessment;exam,,3,neutral,COMP4920/9920期末是开卷考试，可以带纸质材料，但仍然需要提前总结全学期lecture内容和答题模板。final是hurdle task，必须达到competent相关标准，否则会影响整门课通过。,,2026-07-09T15:27:59.236Z

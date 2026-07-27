@@ -1,0 +1,146 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+Yuanhang Yan,COMP1511,Programming Fundamentals,11,yes,yes,3,no,assessment;exam;assignment;project;quiz;feedback;marking;workload;lecture;tutorial;lab;group_work;course_organization;teaching_quality;resource_quality,none,1,positive,对于变成完全没有一点的同学在学期中后期可能会感觉到一定的压力   一旦进入数组、函数、指针、结构体、链表和较复杂的程序设计，很多同学会开始觉得吃力  至少完成考试内容的40%(hurdle…)，最后倒数第一第二题可能涉及到后期其他课程的内容,,2026-07-07T12:24:49.959Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,12,yes,yes,3,no,assessment;exam;assignment;teaching_quality;resource_quality;Stuff,unclear_marking;weak_teaching;insufficient_support;content_too_hard,3,negative,过程十分痛苦，对于这方面兴趣不强的同学非常折磨    如果tutor是非计算机背景(如哲学方面的)的会更折磨...可能从他们的专业方向和思考方式拷打你的文章   给分非常抠门和主观，基本就是tutor行基本分数不会太难看，tutor不行基本完蛋,,2026-07-08T08:20:24.944Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,15,unclear,no,0,yes,,,0,neutral,none,,2026-07-07T12:24:50.822Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,16,yes,no,0,yes,Nothing,,1,negative,none,,2026-07-07T10:16:13.149Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,18,unclear,yes,3,no,assessment;exam;assignment;project;quiz;course_organization;resource_quality,,1,neutral,none,,2026-07-07T10:16:13.382Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,27,yes,yes,2,no,assessment;exam;assignment;project;teaching_quality,none,1,positive,临时抱佛脚只能完成百分之八十  hd 就需要比较多时间的付出，特别是在 assignments 上面,,2026-07-07T12:24:51.069Z
+Yuanhang Yan,COMP6080,Web Front-End Programming,33,,,,,,,,,,,2026-07-08T06:37:01.813Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,36,yes,no,2,yes,assessment;exam;project;workload,poor_organization;weak_teaching,1,negative,教学曲线也不平滑，跟过山车似的。1511确实是给初级小白的当头棒喝   1511和1521就是第一道分水岭。从某些角度先砍翻单纯跟随计算机大潮的同学，再砍翻一半信心不坚定的。就是多少折损了6学分的学费,,2026-07-07T12:24:51.287Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,41,yes,no,2,yes,assessment;exam,exam_sample_mismatch;unclear_marking,2,mixed,证明题是真的多   final 形式还会变   选之前最好先看看这学期是谁教,,2026-07-08T09:44:20.278Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,43,yes,yes,3,no,assessment;exam;workload;teaching_quality,high_workload;content_too_hard,3,mixed,"最后考试形式有点离谱，30 道选择，和以前那种大量证明题很不一样""   选错还倒扣",,2026-07-08T09:44:20.543Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,45,yes,no,2,yes,assessment;Stuff,harsh_grading;other,2,mixed,这课老师影响非常大，9020 的作业和考核挺看教授安排，不同老师带法差异会比较明显   如果你本身离散数学底子一般就难过了,,2026-07-08T09:45:30.874Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,47,yes,yes,3,no,assessment;course_organization,high_workload;poor_organization,2,negative,每周六到八道证明题，直接把人写麻了   给人的感觉并不是按正常节奏慢慢铺开，而是后面突然压上来,,2026-07-08T09:45:31.303Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,49,yes,yes,2,no,assessment;exam;assignment;marking;workload;teaching_quality,high_workload;content_too_hard,3,mixed,这课会把你从“我知道概念”拽到“你给我认真写证明   如果老师比较稳、作业安排也正常，那这课其实还能接受；但要是碰到作业量一波一波上来，或者 final 又改形式，那体验会很两极分化。有人会觉得...根本不是在学知识，是在和题量还有考试机制搏斗   不是完全不能上，但一定要先查当学期老师和考核,,2026-07-08T09:46:02.895Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,51,yes,no,1,yes,assessment,prerequisite_gap,0,neutral,none,,2026-07-08T09:45:19.881Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,122,yes,no,1,yes,assessment,none,0,positive,none,,2026-07-08T08:19:39.071Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,124,unclear,no,0,yes,assessment,content_too_shallow,0,positive,none,,2026-07-08T08:19:38.927Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,126,yes,no,1,yes,assessment;assignment,,0,positive,none,,2026-07-08T08:19:38.781Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,128,yes,no,1,yes,assessment;lecture;tutorial;teaching_quality;resource_quality,weak_teaching;low_practical_value,1,negative,讲的东西全是20世纪初的东西，最新的像transformer什么的是一概没有的  又难又没用,,2026-07-08T08:04:47.876Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,130,unclear,no,2,yes,assessment;exam;marking,harsh_grading;double_pass_or_hurdle;content_too_hard,2,negative,AI课但不轻松   final一炸直接double pass带走,,2026-07-08T08:06:25.388Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,132,yes,no,2,yes,assessment;assignment;lecture;tutorial;teaching_quality;resource_quality,content_too_shallow;low_practical_value,1,mixed,AI大杂烩...基本把AI里常见的东西都扫一遍，没有深入的讲,,2026-07-08T08:06:51.639Z
+Yuanhang Yan,COMP9517,Computer Vision,134,yes,no,1,yes,assessment;lab;resource_quality,,1,neutral,none,,2026-07-07T12:38:31.426Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,135,unclear,no,1,yes,assessment,,0,neutral,none,,2026-07-08T09:09:57.027Z
+Yuanhang Yan,COMP9517,Computer Vision,136,unclear,no,0,yes,,,0,neutral,none,,2026-07-07T12:38:31.595Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,137,yes,yes,3,yes,assessment;exam;assignment;marking,exam_sample_mismatch;harsh_grading;content_too_hard,3,negative,平时project难搞   期末居然还选择答错扣分,,2026-07-08T09:09:57.187Z
+Yuanhang Yan,COMP9517,Computer Vision,138,yes,no,0,yes,assessment;group_work,,0,neutral,组队要找好队友,,2026-07-07T12:38:31.742Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,139,yes,no,1,yes,assessment;workload;group_work;course_organization;teaching_quality,none,0,positive,none,,2026-07-08T09:09:57.349Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,140,yes,no,1,yes,assessment,,0,positive,none,,2026-07-07T10:40:11.238Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,141,yes,no,1,yes,assessment;assignment;workload,content_too_hard;content_too_much,1,mixed,report太多了，写晕了已经,,2026-07-07T14:23:11.977Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,142,yes,no,1,yes,assessment;assignment,content_too_hard,2,negative,很难，而且后面的project和之前本科写的完全不是一个难度,,2026-07-07T10:40:22.102Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,143,yes,no,2,yes,assignment;workload,Too much work,2,negative,一直在写东西，作业不是难在技术，而是量太大了,,2026-07-07T14:23:22.214Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,144,yes,no,1,yes,assessment;group_work,group_work_risk,1,mixed,不单单coding难，所有理论的东西比如xx模式这些都要熟练 project还吃队友,,2026-07-07T10:40:38.831Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,145,yes,yes,2,yes,assessment;assignment;workload,harsh_grading;Too much work,2,mixed,如果你是想轻松拿分，这门课不太适合,,2026-07-07T14:24:45.181Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,156,yes,no,1,yes,assignment;workload,Too much work,2,negative,天天在被 flag 追着打,,2026-07-07T14:24:45.334Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,158,yes,yes,2,yes,assessment;assignment;workload;resource_quality,content_too_much;Too much work,2,mixed,workload 不算低，report 和 challenge 这类东西很吃时间，前面跟不上后面会很难受。,,2026-07-07T14:24:45.499Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,160,yes,no,0,yes,assessment;other,none;other,0,neutral,none,,2026-07-07T14:24:45.641Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,190,yes,no,1,no,assessment;exam;assignment;marking,harsh_grading;double_pass_or_hurdle;content_too_hard,2,negative,这课就是C++地狱   课程设有双重通过（double pass）要求，学生不敢掉以轻心，挂科风险高。,涉及到double pass,2026-07-07T13:56:34.166Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,192,yes,no,1,yes,feedback,harsh_grading,1,negative,none,,2026-07-07T13:59:19.944Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,233,yes,no,1,yes,assessment;exam;assignment,content_too_hard,2,negative,这门课我挂了两回，整整两回！见证了无数对计算机充满幻想的同学在这门课上折戟沉沙。要么转专业跑路，要么转学校跑路。原来在新南一起上计算机不及格的同学，到了悉大却都hd了。,,2026-07-07T10:20:04.736Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,249,yes,no,,yes,assessment,,1,neutral,none,,2026-07-07T12:24:51.677Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,250,yes,no,0,yes,teaching_quality,,0,neutral,none,,2026-07-07T12:24:51.990Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,267,yes,no,1,yes,assessment;assignment;project;marking,harsh_grading,1,positive,9周时间从hello world到双链表，对0编程基础的同学来说很痛苦    想跟上进度一定要在假期做好预习工作,,2026-07-07T12:24:52.312Z
+Yuanhang Yan,COMP9517,Computer Vision,280,yes,yes,2,no,assessment;exam;assignment;project;quiz;feedback,,1,positive,4个小作业+1个小组大作业+finaldp,,2026-07-07T12:38:31.884Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,283,yes,no,2,yes,assessment;exam;project;tutorial,,1,neutral,难度对于没有任何基础的同学会较高甚至很高,,2026-07-07T12:24:52.648Z
+Yuanhang Yan,ECON1101,Microeconomics 1,297,yes,yes,3,no,assessment;exam,content_too_hard,3,negative,去考场才发现每个题都没有图，有些计算题画图就要耽误半分钟以上，并且给的数字很奇怪有的要三位小数才能算出来   57道题要做对40道题才能到HD每道题只有两分钟的时间写   这门课变线下课真不推荐选为FE了,,2026-07-08T09:24:55.281Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,301,yes,yes,2,no,assessment;exam,exam_sample_mismatch;harsh_grading;content_too_hard,2,negative,Didn’t scale and many failed despite getting high pre mark exam was 3 hrs ... paper was worthy for straight 5 hours,,2026-07-07T10:40:50.811Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,308,yes,yes,3,no,assessment;exam;assignment;project;marking;teaching_quality;support,high_workload;harsh_grading;poor_organization;content_too_hard,1,positive,最后final要离线写两个大的ass级别的题目有点难顶   他不知道之前的老师把他的题库的题拿去当sample exam 导致有人考试直接抄往期sample exam,,2026-07-07T13:59:34.460Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,309,yes,no,1,yes,assessment;group_work,,0,neutral,none,,2026-07-08T09:09:57.486Z
+Yuanhang Yan,COMP9517,Computer Vision,316,yes,no,1,yes,group_work,,0,positive,none,,2026-07-07T12:38:32.033Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,326,yes,no,1,yes,assessment;exam;assignment;Stuff,prerequisite_gap;content_too_hard,1,neutral,“期中临时换了个讲师 没跟上节奏”,,2026-07-07T10:19:16.967Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,335,yes,yes,3,no,assessment;exam;assignment;project,none,0,positive,none,,2026-07-08T09:09:57.639Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,336,yes,yes,3,no,assessment;assignment;tutorial;group_work,none,0,positive,none,,2026-07-08T09:10:21.620Z
+Yuanhang Yan,COMP9517,Computer Vision,337,yes,,,,assessment;exam;assignment;lab,,,positive,none,,2026-07-07T12:38:32.172Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,341,yes,yes,1,yes,assessment,harsh_grading;content_too_hard,1,neutral,当年经典大水课，现在好像要难不少了,,2026-07-08T08:06:24.651Z
+Yuanhang Yan,COMP9517,Computer Vision,342,yes,no,0,yes,assessment;exam,,0,positive,final改革，选择题选错了倒扣总分,,2026-07-07T12:38:32.320Z
+Yuanhang Yan,COMP9517,Computer Vision,343,,,,,,,,,重复评论,,2026-07-07T12:38:32.526Z
+Yuanhang Yan,COMP9517,Computer Vision,356,yes,no,1,yes,assessment,content_too_shallow,0,positive,none,,2026-07-07T12:38:32.718Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,384,yes,no,0,no,career_relevance;Nothing,,0,neutral,经典递归二叉树能把自己绕晕,,2026-07-07T10:19:16.538Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,387,yes,no,1,no,assessment;feedback;teaching_quality;resource_quality,assessment_bunching;content_too_hard;content_too_shallow,1,neutral,课改之后好像不那么友好了🤔,,2026-07-08T08:06:02.420Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,389,yes,no,0,yes,assignment;Stuff,content_too_hard,1,mixed,Ashesh迷人的口音让我的大脑旋转 主观的assignment分数评价更是起飞,,2026-07-07T10:43:10.423Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,394,yes,no,1,yes,assessment;exam;Stuff,none,0,positive,none,,2026-07-08T09:10:21.783Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,396,yes,no,1,yes,assessment;assignment,,0,mixed,none,,2026-07-08T08:19:38.630Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,412,yes,no,2,yes,assessment;exam;assignment;project;quiz;feedback,,1,neutral,none,,2026-07-07T12:24:52.977Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,413,yes,no,1,yes,assessment,,1,positive,I would not treat COMP1511 as a WAM booster. ... learning C made the basics feel sharp and unforgiving,,2026-07-07T12:24:53.374Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,418,yes,no,1,yes,assessment;assignment,harsh_grading;content_too_hard,1,mixed,chaotic administration a very demanding assignment content that often felt unreasonable for the time given Online-only learning made it feel even worse,,2026-07-07T10:44:19.369Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,419,yes,no,1,yes,assessment;assignment,harsh_grading;content_too_hard,1,negative,stressful more than rewarding  The assignment felt like coding a game under extreme pressure the assessments were not pleasant a course I had to get through rather than one I would recommend for enjoyment,,2026-07-07T10:43:00.509Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,420,yes,no,1,yes,assessment;exam;career_relevance,,1,neutral,none,,2026-07-07T10:19:16.347Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,421,yes,no,1,yes,assessment;career_relevance,Covid-19,1,mixed,so delivery and admin were disrupted,,2026-07-07T10:19:16.154Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,424,yes,no,1,yes,assessment;assignment;resource_quality,content_too_shallow,1,negative,none,,2026-07-08T08:19:38.043Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,425,yes,no,1,yes,assessment;assignment;marking;teaching_quality;resource_quality,harsh_grading;weak_teaching,2,mixed,"the marking could still feel strange and arbitrary at times    If you dislike essays, it may not be your thing",,2026-07-08T08:19:37.673Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,438,yes,no,1,yes,assessment;teaching_quality;resource_quality,content_too_shallow,0,positive,none,,2026-07-08T08:05:54.507Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,439,yes,no,1,yes,assessment;prerequisite;teaching_quality;resource_quality,prerequisite_gap;content_too_hard,1,mixed,"""Prolog can feel weird sometimes, especially if you are not comfortable with recursion yet.""",,2026-07-08T08:05:54.266Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,461,yes,no,1,yes,assessment;assignment;tutorial;group_work,none,0,positive,none,,2026-07-08T09:10:21.937Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,462,yes,yes,2,no,assessment;assignment;project;workload;group_work,delayed_feedback;none,2,negative,作业反馈和邮件沟通不太理想,,2026-07-08T09:10:51.919Z
+Yuanhang Yan,COMP9517,Computer Vision,463,yes,no,1,yes,assessment;exam;assignment;group_work,content_too_shallow,0,positive,none,,2026-07-07T12:38:32.877Z
+Yuanhang Yan,COMP9517,Computer Vision,464,yes,no,1,yes,assessment;exam;assignment;marking,,0,positive,none,,2026-07-07T12:38:33.222Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,510,yes,no,1,yes,assessment;exam,,0,neutral,none,,2026-07-07T12:24:53.790Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,519,yes,no,1,yes,assessment;group_work,group_work_risk,1,neutral,对java能力要求高 要组队,,2026-07-07T10:43:00.107Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,520,yes,no,2,yes,assessment;exam;career_relevance,,0,positive,none,,2026-07-07T10:42:59.730Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,521,yes,no,1,yes,assessment;resource_quality,,1,neutral,none,,2026-07-07T10:42:59.336Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,522,yes,no,1,yes,assessment,content_too_much,1,neutral,2511当1.5门课的量,,2026-07-07T10:42:59.008Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,523,yes,no,1,yes,assessment;exam;workload;resource_quality,content_too_hard;content_too_much,1,mixed,"用C语言教学，知识量和编程量较大，很有难度 final题量大，有3个hurdle（final>=18分且理论和实践部分各自达到25%）""",,2026-07-07T10:19:15.949Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,524,yes,no,2,no,assessment;exam;assignment;marking,exam_sample_mismatch;unclear_marking;content_too_hard,1,mixed,本学期期末考试难度显著高于往年试题，学生反映比做过的任何一套往年题都难，尤其是理论题耗时且需大量文字解释。,,2026-07-07T10:19:15.764Z
+Yuanhang Yan,ECON1101,Microeconomics 1,550,yes,no,2,yes,assessment;exam;assignment;project;marking,none,0,positive,none,,2026-07-08T09:24:55.502Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,561,yes,yes,3,no,assessment;marking;course_organization;teaching_quality;resource_quality;Stuff,high_workload;unclear_marking;harsh_grading;content_too_hard,3,negative,避雷ww，讲课水平不行，而且final题错了会倒扣分，出题非常不合理！  Alan作业出的比较变态，很难写！但是期末简单，考题固定,,2026-07-08T08:05:54.064Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,567,yes,no,2,no,assessment;assignment;group_work,,0,neutral,none,,2026-07-08T08:19:19.258Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,568,yes,yes,3,no,assessment;exam;assignment,high_workload;poor_organization;content_too_hard;Too much work,3,negative,final线下纯手搓加hurdle...一个小时五十分钟写3200词左右的纯英手写论文，我不知道有几个人可以做到,,2026-07-08T08:19:19.076Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,571,yes,yes,3,no,assessment;exam;assignment;quiz;feedback;marking;workload;teaching_quality;career_relevance,high_workload;harsh_grading;content_too_hard,1,positive,第一个作业大概500行代码，最后两个作业1000行左右了   tutor扣格式分很严格  要自己写测试测试自己的代码，这点有点难绷   考试中编译错误代码直接零分，即使逻辑正确也无分，对编译细节要求极高。,,2026-07-07T13:59:34.957Z
+Yuanhang Yan,ECON1101,Microeconomics 1,584,yes,no,2,yes,assessment;exam;assignment;quiz;marking,none,0,positive,none,,2026-07-08T09:24:55.762Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,605,yes,no,0,yes,Nothing,,0,positive,none,,2026-07-07T12:24:54.189Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,614,,,,,,Ai Test,,,直接0分处理，没有任何申诉机会   代码风格占据了20%的分数，这部分丢了比做错一道大题还可惜  纯手撸代码，没有IDE帮忙，非常考验基本功  漏掉一个NULL检查都可能丢分,,2026-07-07T12:26:04.613Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,616,yes,yes,3,no,assessment;exam;assignment;quiz;workload;career_relevance,,2,mixed,隐藏测试用例极其变态  期末占总分50%，期末卷面必须考到40分以上（Double Pass），不然平时分再高也得挂 题量极大，很多人根本写不  课程默认学生已熟练掌握Java，课堂上不会补充基础，若前置能力不足极易跟不上。,,2026-07-07T10:42:58.707Z
+Yuanhang Yan,FINS3633,Real Estate Finance,701,yes,no,0,yes,assessment;exam,none,0,neutral,none,,2026-07-08T09:47:10.679Z
+Yuanhang Yan,FINS3633,Real Estate Finance,710,yes,no,2,yes,assessment;exam;assignment,none,0,neutral,none,,2026-07-08T09:48:17.972Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,718,yes,no,1,yes,assessment;exam;assignment,,0,positive,none,,2026-07-07T12:22:22.736Z
+Yuanhang Yan,FINS3633,Real Estate Finance,727,yes,no,3,no,assessment;exam;assignment;project;marking,none,0,positive,none,,2026-07-08T09:57:29.536Z
+Yuanhang Yan,FINS3633,Real Estate Finance,742,unclear,no,0,yes,assessment,none,0,negative,none,,2026-07-08T09:56:41.289Z
+Yuanhang Yan,FINS3633,Real Estate Finance,749,yes,no,2,yes,assessment;exam;assignment,,0,positive,none,,2026-07-08T09:56:40.850Z
+Yuanhang Yan,FINS3633,Real Estate Finance,756,yes,no,1,yes,assessment;exam;assignment;project,none,0,mixed,none,,2026-07-08T09:56:40.436Z
+Yuanhang Yan,FINS3633,Real Estate Finance,763,yes,no,1,yes,assessment,none,0,neutral,none,,2026-07-08T09:56:40.009Z
+Yuanhang Yan,FINS3633,Real Estate Finance,771,unclear,no,0,yes,assessment;exam,none,0,neutral,none,,2026-07-08T09:56:39.567Z
+Yuanhang Yan,ECON1101,Microeconomics 1,786,yes,yes,2,no,assessment;exam;assignment;quiz;marking,none,2,mixed,ECON1101在2026 T1线下考完后感觉不水了。一节lecture和workshop都没去的话，final准备会很难  playecon题很多也不确定是不是都要做,,2026-07-08T09:25:05.311Z
+Yuanhang Yan,ECON1101,Microeconomics 1,796,yes,yes,2,no,assessment;assignment,content_too_hard,3,negative,不好学 千万不要选   final背刺我！🥵超很难 而且变成线下考试了,,2026-07-08T09:25:38.340Z
+Yuanhang Yan,ECON1101,Microeconomics 1,801,yes,yes,3,no,assessment;exam;assignment;project;feedback;marking;workload,none,2,mixed,econ1101的教学质量简直差劲！lecture讲的太慢了，还不如自己去youtube 小破站看看别的学校的教学视频   网上包括dx给的答案有可能是错误的！一定要找小小伙伴discuss一下或者问老师,,2026-07-08T09:26:01.003Z
+Yuanhang Yan,ECON1101,Microeconomics 1,808,yes,yes,3,no,assessment;exam;assignment;project;marking;workload,high_workload;unclear_marking;insufficient_support;content_too_hard,2,neutral,他们有一些计算题的数字真的跟狗啃的一样，自己算出来会怀疑人生，并且他有几道题的表述很差有歧义    final exam是从question bank抽题，导致很多题都高度同质化，虽然他们sample/past paper是一套都不给，但是基本上考试前只要找别人要一两套past paper期末就可以无痛通关   负责人员有三个。这就导致他们平时和final都很难有人工审核/监考。...final纯online而且都是选填，所以这门课就算完全不学纯靠AI也可以拿个85分,,2026-07-08T09:26:57.870Z
+Yuanhang Yan,ECON1101,Microeconomics 1,813,yes,no,1,yes,assessment;exam,none,0,positive,none,,2026-07-08T09:24:07.801Z
+Yuanhang Yan,ECON1101,Microeconomics 1,819,yes,no,0,yes,other,none,0,neutral,none,,2026-07-08T09:24:07.630Z
+Yuanhang Yan,ECON1101,Microeconomics 1,826,yes,no,2,yes,assessment;exam,none,0,positive,none,,2026-07-08T09:24:07.313Z
+Yuanhang Yan,FINS3633,Real Estate Finance,931,yes,no,2,yes,assessment;exam;assignment,none,0,positive,none,,2026-07-08T09:56:39.332Z
+Yuanhang Yan,COMP9517,Computer Vision,980,yes,no,1,yes,assessment;exam;assignment;group_work,,1,positive,none,,2026-07-07T12:38:35.648Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,984,yes,no,1,yes,lecture;career_relevance,none,0,mixed,none,,2026-07-07T13:59:35.126Z
+Yuanhang Yan,COMP9517,Computer Vision,989,yes,yes,1,yes,assessment;exam;assignment;project;quiz;feedback,,0,positive,代码部分2个人做，确实压力很大,,2026-07-07T12:40:06.933Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,993,yes,yes,2,no,assessment;exam;assignment;project;quiz;marking,content_too_hard;positive_evidence,1,positive,没学过c或者是完全转码毫无基础的同学不适合学这个课的,,2026-07-07T13:59:35.284Z
+Yuanhang Yan,COMP9517,Computer Vision,998,yes,no,0,yes,assessment;exam,,0,positive,none,,2026-07-07T12:37:58.754Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1003,yes,yes,2,no,exam;quiz,,1,positive,none,,2026-07-07T13:59:35.452Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1011,yes,yes,3,no,assessment;exam;assignment;project;quiz;feedback;marking;lecture;teaching_quality,unclear_marking;weak_teaching;insufficient_support;content_too_hard,1,mixed,老师是Hyden...上课英语就很费劲，加上C++本来很难。。。这是唯一一门我担心会挂科的课    除了第一次课，那真是一点不基础，看之前有同学说平时上课打螺丝，作业造火箭，一点不认同，上课/课件内容一点不简单/难懂    Dynamic polymorphism，可以用理解原理就行了呗，考试居然真考了vtable   Tutor扣分也非常的厉害，动不动10几分就给扣了   Exercise 每周都有，不算分也不用交，但真是这门课的核心，掌握课程就靠他了   这是唯一一门我担心会挂科的课，其他课从没担心过,,2026-07-07T13:59:35.991Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1020,yes,yes,2,no,assessment;exam;assignment;project;quiz;marking;workload;tutorial;teaching_quality;career_relevance,exam_sample_mismatch;high_workload;poor_organization;insufficient_support;content_too_hard,2,mixed,刚开始说的是要考50%的分才能过，后面也没有按这要求来，好像30%还是多少就算pass     强调PDF须所有人能公开访问，确保公平，WTF，认真的吗？...完全是给了组队作弊的空间。今天打开XHS，真特么有考前组队的   个人估计50%以上的人两题都没做出来,,2026-07-07T14:01:34.847Z
+Yuanhang Yan,COMP9444,Neural Networks and Deep Learning,1023,yes,no,1,yes,assessment;career_relevance,none,0,neutral,none,,2026-07-08T09:09:58.652Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,1025,unclear,no,1,yes,assessment;exam;assignment;quiz,content_too_hard;content_too_much,1,negative,"挂科的人很多🥶🥶 ... 新南的COMP2521已经成为很多同学无法逾越的大山了""平时满分，线下写代码真的是太难了😭😭",,2026-07-07T10:19:15.603Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1028,yes,yes,2,no,assessment;assignment;project;quiz;feedback;marking;workload,high_workload;unclear_marking;poor_organization;weak_teaching;insufficient_support;content_too_hard,2,mixed,"只占30分的考试一开始设置巨额hurdle   课件是很简单直白但是所谓的简答题考的一点都不基础，必须是对现代C++有一定的了解然后去磕他的exercise和sample才能一知半解""   两道编程我是考场A了q2，做完之后q3只有半个小时了随便写写了最后拿了个位数的分数""   ass2和3用了ai扣分也巨严格，两个都是80多分""",,2026-07-07T13:58:30.593Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,1033,yes,no,2,no,assessment,,1,positive,简单就说下整个comp2521包含4个阶段，总共就是需要实现10多个核心函数，前两个阶段stage1-2还好主要就是对指针的练习，第三阶段引入符号链接后，可能需要对原有逻辑、结构进行一定的调整,,2026-07-07T10:19:15.338Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1036,yes,no,1,yes,course_organization,,0,positive,none,,2026-07-07T13:55:24.167Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,1042,yes,yes,2,no,assessment;exam;assignment;workload,high_workload;content_too_hard;content_too_much,1,mixed,assign2占比仍然是15%，但是难度会比assign1高不少。建议不要到最后才开始做，否则是做不完的，w10前后所有的ddl都堆到了一起。趁早开始！趁早开始！趁早开始！相信我，这四个字有可能避免你的挂科。,同时涉及asesment和final考试，final考试被称为期末,2026-07-07T10:19:14.618Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1045,yes,no,2,no,assessment;assignment;workload,,1,neutral,none,,2026-07-07T14:24:45.790Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1051,yes,no,2,yes,assessment;assignment;lecture;tutorial,,0,neutral,none,,2026-07-07T14:24:45.947Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1058,yes,no,2,no,assessment;assignment;workload,content_too_much;Too much work,2,negative,作业量巨大   对于不了解Web洞的同学来说比较困难,,2026-07-07T14:24:46.086Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,1063,yes,yes,3,no,assessment;course_organization;teaching_quality;resource_quality,none,0,positive,none,,2026-07-08T08:04:19.022Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1065,yes,yes,3,no,assessment;assignment;workload;group_work;course_organization,harsh_grading;group_work_risk;content_too_much;Too much work,1,neutral,对组员要求较高   要摸清楚每个tutor的评分点在哪里。不然很容易写了很多但是低分,,2026-07-07T14:24:56.774Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1072,yes,yes,2,no,assessment;exam;assignment;marking,,0,neutral,none,,2026-07-07T14:24:57.368Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1080,yes,yes,2,no,assessment;assignment;Stuff,unclear_marking;Too much work,1,neutral,教授要求比较死板   assignment要选好组员，tutor最好去上,,2026-07-07T14:25:16.373Z
+Yuanhang Yan,COMP2511,Software Design and Architecture,1102,yes,no,2,yes,assessment;exam;assignment;quiz;group_work;career_relevance,group_work_risk;content_too_hard,1,neutral,对Java能力和软件设计能力要求比较高  隐藏测试和代码细节会比较折磨，需要仔细打磨实现,,2026-07-07T10:42:58.383Z
+Yuanhang Yan,COMP1511,Programming Fundamentals,1109,yes,no,2,yes,assessment,,0,positive,style和测试细节需要认真处理,,2026-07-07T12:22:22.305Z
+Yuanhang Yan,COMP2521,Data Structures and Algorithms,1110,yes,no,2,yes,assessment,prerequisite_gap,1,neutral,知识量和coding量都比较大 知识量和coding量都比较大 知识量和coding量都比较大,,2026-07-07T10:18:30.107Z
+Yuanhang Yan,COMP6443,Web Application Security and Testing,1113,no,no,2,yes,assessment;assignment;group_work,none,1,neutral,none,,2026-07-07T14:22:57.704Z
+Yuanhang Yan,COMP3411,Artificial Intelligence,1119,unclear,yes,2,yes,assessment;assignment;teaching_quality;resource_quality,none,1,neutral,整体仍然不算简单，报告里的比较、讨论和证明也要认真写,,2026-07-08T08:04:18.856Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,1130,yes,no,1,yes,assessment,none,1,neutral,none,,2026-07-08T09:45:19.698Z
+Yuanhang Yan,COMP4920,Professional Issues and Ethics in Information Technology,1136,yes,yes,2,no,assessment;exam;assignment;marking;course_organization,none,2,neutral,final是hurdle task，必须达到competent相关标准，否则会影响整门课通过,,2026-07-08T08:18:34.046Z
+Yuanhang Yan,COMP9517,Computer Vision,1146,unclear,no,1,no,exam,double_pass_or_hurdle,0,positive,近期我看到这类课加了double pass，不能再完全按老印象判断,,2026-07-07T12:37:58.263Z
+Yuanhang Yan,COMP9517,Computer Vision,1199,yes,no,1,yes,exam,,0,positive,期末都是选择题！但是我只对了一半！,,2026-07-07T12:37:24.132Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1200,yes,no,1,yes,assessment;exam;teaching_quality,unclear_marking;poor_organization,0,positive,重复评论,,2026-07-07T13:53:49.027Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,1215,yes,yes,3,no,assessment;exam,high_workload,2,negative,20来分没时间写,,2026-07-08T09:45:19.489Z
+Yuanhang Yan,COMP9020,Foundations of Computer Science,1216,yes,yes,3,no,assessment;exam,high_workload;content_too_hard;Too much work,2,mixed,期末很恐怖，我也是写了一半都不到,,2026-07-08T09:45:18.956Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1221,yes,yes,3,no,assessment;exam;assignment;project;quiz;feedback;marking;workload;course_organization;teaching_quality;resource_quality;career_relevance,high_workload;unclear_marking;poor_organization;content_too_hard,1,mixed,重复评论,,2026-07-07T13:53:48.885Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1222,yes,yes,2,no,assessment;exam;assignment;quiz;feedback;marking;teaching_quality;resource_quality,exam_sample_mismatch;high_workload;unclear_marking;harsh_grading;poor_organization;insufficient_support;content_too_hard,2,negative,重复评论,,2026-07-07T13:53:48.739Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1223,yes,,,,,,,neutral,重复评论,,2026-07-07T13:53:48.586Z
+Yuanhang Yan,COMP6771,Advanced C++ Programming,1224,,,,,,,,,重复评论,,2026-07-07T13:53:48.429Z

@@ -1,0 +1,57 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+Miris sjy,COMP6080,Web Front-End Programming,33,no,no,1,yes,assessment;exam;group_work,unclear_marking;harsh_grading,1,negative,压分比较严重，期末还是手写代码。,技术难度高，覆盖面广有深度,2026-07-10T03:59:54.691Z
+Miris sjy,COMP6080,Web Front-End Programming,93,yes,no,2,yes,assessment,high_workload,0,neutral,天天都在赶作业,,2026-07-07T11:49:14.312Z
+Miris sjy,COMP6080,Web Front-End Programming,95,yes,yes,3,no,assignment,high_workload,0,positive,但 workload 真的重，assignment 一个接一个,,2026-07-07T11:49:14.472Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,123,,no,0,yes,assessment;assignment,high_workload,0,mixed,,,2026-07-10T04:01:01.399Z
+Miris sjy,COMP6080,Web Front-End Programming,125,unclear,no,1,yes,assignment,high_workload,0,mixed,作业量太大了,,2026-07-07T11:49:14.642Z
+Miris sjy,COMP6080,Web Front-End Programming,127,unclear,yes,1,yes,assessment,high_workload;low_practical_value,3,negative,ai这么强，前端还有学的意义吗？,,2026-07-07T11:49:14.816Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,129,unclear,yes,1,yes,assessment;teaching_quality,none,0,positive,好拿分,,2026-07-10T04:01:44.287Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,131,unclear,yes,1,yes,assessment;assignment,none,0,positive,内容还挺实用的,,2026-07-10T04:02:17.856Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,133,unclear,yes,1,yes,assessment,none,0,neutral,花点时间理解，但回报还不错,,2026-07-10T04:24:21.596Z
+Miris sjy,COMP6080,Web Front-End Programming,149,no,yes,1,yes,assessment;assignment,high_workload,1,neutral,全是ass,,2026-07-07T11:49:14.995Z
+Miris sjy,COMP6080,Web Front-End Programming,151,yes,yes,3,no,assessment;assignment;teaching_quality,high_workload,0,mixed,你一边骂 workload，一边又承认这课确实教得有用。,,2026-07-07T11:49:15.179Z
+Miris sjy,COMP6080,Web Front-End Programming,153,unclear,no,0,yes,support;career_relevance,low_practical_value,3,negative,前端还有活路吗,,2026-07-07T11:49:15.363Z
+Miris sjy,COMP6080,Web Front-End Programming,155,unclear,no,0,yes,resource_quality;support,none,0,neutral,none,,2026-07-07T11:49:15.565Z
+Miris sjy,COMP6080,Web Front-End Programming,157,yes,no,1,yes,group_work,group_work_risk,0,neutral,很吃小组队友,,2026-07-07T11:49:15.757Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,185,yes,yes,1,yes,assessment;assignment,high_workload,1,mixed,写作业写到崩溃,,2026-07-10T04:24:57.029Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,187,yes,yes,1,no,assessment;assignment;lab,none,0,positive,assignment分值挺高的，lab基本照着做就能拿满,,2026-07-10T04:26:11.388Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,189,unclear,yes,1,yes,assignment,harsh_grading,0,neutral,作业要求比较严格,,2026-07-10T04:26:54.366Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,191,unclear,no,1,yes,assessment,none,0,positive,,,2026-07-10T04:27:22.299Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,193,unclear,no,0,yes,assessment,none,0,positive,,,2026-07-10T04:27:42.932Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,268,yes,yes,,,exam,none,0,positive,25T3依然是线上final,,2026-07-10T04:28:36.237Z
+Miris sjy,COMP6080,Web Front-End Programming,275,yes,yes,3,no,assessment;assignment;course_organization;teaching_quality,unclear_marking,0,mixed,主包遇到的tutor都很好    打分的话挺看运气的,,2026-07-07T11:49:15.974Z
+Miris sjy,COMP6080,Web Front-End Programming,289,yes,yes,3,no,assessment;teaching_quality,harsh_grading;weak_teaching,2,negative,相当大一部分人在考试中收到了不正常的低分，0分，亦或者是unreleased,,2026-07-07T11:49:16.200Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,307,yes,yes,1,yes,assessment;assignment,none,0,positive,平时分作业交了就全是满分,,2026-07-10T04:29:35.196Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,348,yes,,1,yes,assessment;teaching_quality,none,,positive,,,2026-07-10T04:30:26.413Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,351,yes,yes,3,no,assessment;exam;assignment,none,0,positive,如果你目标是Pass，期末压力很小，平时分拿稳了，Final随便考考都能过。,,2026-07-10T04:31:34.838Z
+Miris sjy,COMP6080,Web Front-End Programming,442,yes,yes,2,no,assessment,positive_evidence,0,positive,made me properly see the value of my code.,,2026-07-07T11:49:16.392Z
+Miris sjy,COMP6080,Web Front-End Programming,443,yes,yes,2,no,assignment,high_workload,0,mixed,"long nights, debugging, strange spec requirements, and many different ways to solve things",,2026-07-07T11:49:23.886Z
+Miris sjy,COMP6080,Web Front-End Programming,457,yes,,3,no,assignment,high_workload;harsh_grading;poor_organization,,neutral,作业事情很多，提交规则也很折磨   tutor打分和沟通体验会很影响心态,,2026-07-07T11:49:35.141Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,606,yes,yes,2,yes,assessment,none,0,positive,不学也能拿到很高的分数,,2026-07-10T04:32:30.728Z
+Miris sjy,COMP6080,Web Front-End Programming,608,yes,yes,3,no,assessment;assignment;teaching_quality,high_workload;content_too_hard,2,mixed,巨量时间投入，完全不值得。,,2026-07-07T12:00:08.110Z
+Miris sjy,COMP6080,Web Front-End Programming,949,yes,yes,3,no,assessment;exam;assignment,delayed_feedback;harsh_grading;double_pass_or_hurdle,1,negative,发邮件给她，等了三周，在Hayden的帮助下，才回复我😭。然后给了我三分之一的分数，说我的代码运行不了,,2026-07-07T12:02:21.074Z
+Miris sjy,COMP6080,Web Front-End Programming,957,yes,yes,1,yes,assignment,unclear_marking;harsh_grading,2,negative,四个assessment申请了三个,,2026-07-07T12:02:21.453Z
+Miris sjy,COMP6080,Web Front-End Programming,966,yes,no,0,yes,assignment,unclear_marking;harsh_grading,1,negative,,,2026-07-07T12:02:22.022Z
+Miris sjy,COMP6080,Web Front-End Programming,974,yes,yes,0,yes,exam,none,0,neutral,把那些导航栏写出来就有十几分了,,2026-07-07T12:05:25.261Z
+Miris sjy,COMP6080,Web Front-End Programming,982,unclear,no,0,yes,exam,unclear_marking,1,negative,,,2026-07-07T12:06:23.841Z
+Miris sjy,COMP6080,Web Front-End Programming,991,yes,yes,1,yes,exam,unclear_marking;harsh_grading,1,negative,直接0然后uf给我气坏了,,2026-07-07T12:07:00.282Z
+Miris sjy,COMP6080,Web Front-End Programming,1001,no,yes,1,yes,assessment,content_too_shallow,1,neutral,水课,,2026-07-07T12:08:12.487Z
+Miris sjy,COMP6080,Web Front-End Programming,1009,unclear,no,1,yes,assignment,high_workload,0,neutral,,,2026-07-07T12:08:39.948Z
+Miris sjy,COMP6080,Web Front-End Programming,1018,yes,yes,1,yes,assessment,high_workload;content_too_hard,1,mixed,纯干货课 实习和现在工作全靠6080,,2026-07-07T12:09:35.941Z
+Miris sjy,COMP6080,Web Front-End Programming,1027,unclear,no,0,yes,assessment,high_workload,2,negative,,,2026-07-07T12:10:29.254Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1029,yes,yes,2,no,exam,none,0,positive,,,2026-07-10T04:33:11.231Z
+Miris sjy,COMP6080,Web Front-End Programming,1035,yes,no,0,yes,assessment,none,0,neutral,,,2026-07-07T12:10:50.520Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1037,yes,no,1,yes,assignment,none,0,neutral,,,2026-07-10T04:34:29.186Z
+Miris sjy,COMP6080,Web Front-End Programming,1044,yes,yes,1,yes,assessment,other,1,neutral,邮件跟课程网站成绩不一样,,2026-07-07T12:11:32.026Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1046,yes,yes,2,no,exam;assignment,other,0,neutral,期末题量是真的大,,2026-07-10T04:35:37.499Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1059,unclear,no,1,yes,exam,none,0,neutral,线上考试是在家考。,,2026-07-10T04:36:11.858Z
+Miris sjy,COMP6080,Web Front-End Programming,1064,yes,yes,1,yes,assessment,none,0,positive,涨分了，从82变84,,2026-07-07T12:12:36.780Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1066,yes,yes,2,no,exam;assignment;teaching_quality,none,0,positive,还好啦 这学期挺多人90+的,,2026-07-10T04:37:03.935Z
+Miris sjy,COMP6080,Web Front-End Programming,1071,yes,no,0,yes,exam,unclear_marking;harsh_grading,1,negative,,,2026-07-07T12:13:31.830Z
+Miris sjy,COMP6080,Web Front-End Programming,1079,yes,yes,3,no,assessment;assignment,none,0,positive,遇到的tutor都很好  给分·都很高,,2026-07-07T12:14:28.206Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1081,yes,yes,3,no,lab,none,0,neutral,很适合初学者的样子，进度也不快,,2026-07-10T04:37:48.955Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1087,yes,yes,3,no,assessment;exam;assignment,none,0,positive,assn2 相对简单；final 比较 generous,,2026-07-10T04:39:58.072Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1097,yes,,3,no,assessment;exam;marking,none,0,positive,wam booster,,2026-07-10T04:40:44.452Z
+Miris sjy,COMP6080,Web Front-End Programming,1151,yes,yes,2,no,assessment;assignment,group_work_risk,0,neutral,最终分数会看个人贡献，不建议只依赖组队。,,2026-07-07T12:15:07.773Z
+Miris sjy,COMP6080,Web Front-End Programming,1205,yes,yes,3,no,assessment,other,0,neutral,,,2026-07-07T12:15:49.073Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1206,yes,yes,3,no,assessment;exam;assignment,none,0,positive,很大程度上的是比较rust对于其他语言的优势,,2026-07-10T04:42:12.097Z

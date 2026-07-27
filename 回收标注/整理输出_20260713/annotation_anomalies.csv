@@ -1,0 +1,449 @@
+﻿type,course_code,comment_id,annotator_id,source_file,detail
+incomplete_review_annotation,COMP6080,33,FY liu,review_annotations_FY_liu (2)(1).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP4920,122,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP4920,124,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP4920,126,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP9444,135,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP9444,139,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,309,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,335,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,336,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP3411,341,FY liu,review_annotations_FY_liu (2)(1).csv,missing: evidence_span
+incomplete_review_annotation,COMP3411,387,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP9444,394,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP4920,396,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP4920,424,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP4920,425,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP3411,438,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP3411,439,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels;evidence_span
+incomplete_review_annotation,COMP9444,461,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP4920,567,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,1023,FY liu,review_annotations_FY_liu (2)(1).csv,missing: evidence_span
+incomplete_review_annotation,COMP3411,1063,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP3411,1119,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP4920,1136,FY liu,review_annotations_FY_liu (2)(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP6080,33,hanyang,review_annotations_hanyang(1).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP9311,58,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9311,61,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9727,213,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9311,272,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9511,365,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9311,603,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMM1190,812,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMM1190,831,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9334,963,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9727,981,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,CDEV3500,1101,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP9311,1107,hanyang,review_annotations_hanyang(1).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,15,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2521,16,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2521,18,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6080,33,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP4920,126,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,134,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,135,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,136,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,138,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2511,140,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,249,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: specificity_0_3;risk_labels
+incomplete_review_annotation,COMP1511,250,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,280,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,283,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9444,309,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,316,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,337,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels
+incomplete_review_annotation,COMP9517,342,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,343,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment
+incomplete_review_annotation,COMP2521,384,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP4920,396,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,412,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,413,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2521,420,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,464,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,510,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2511,520,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2511,521,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP4920,567,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,605,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,614,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;sentiment
+incomplete_review_annotation,COMP2511,616,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,718,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,FINS3633,749,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,980,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,989,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,998,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6771,1003,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP2521,1033,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6771,1036,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6443,1045,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6443,1051,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6443,1072,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP1511,1109,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP9517,1199,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: risk_labels
+incomplete_review_annotation,COMP6771,1223,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels
+incomplete_review_annotation,COMP6771,1224,Yuanhang Yan,review_annotations_Yuanhang_Yan(3).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment
+incomplete_review_annotation,COMP1511,11,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1511,15,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,123,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;evidence_span
+incomplete_review_annotation,COMP6713,169,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,173,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,191,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,193,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,268,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: specificity_0_3;low_evidence_general
+incomplete_review_annotation,COMP6713,276,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,348,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence;evidence_span
+incomplete_review_annotation,COMP6080,457,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6713,959,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,966,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,968,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,982,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,983,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,992,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1002,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1009,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1027,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1029,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1035,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1037,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1071,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1086,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1096,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1097,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6080,1205,Miris sjy,6731\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,123,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;evidence_span
+incomplete_review_annotation,COMP6991,191,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,193,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,268,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: specificity_0_3;low_evidence_general
+incomplete_review_annotation,COMP6991,348,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence;evidence_span
+incomplete_review_annotation,COMP6080,457,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6080,966,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,982,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1009,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1027,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1029,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1035,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1037,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1071,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1097,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6080,1205,Miris sjy,6991\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP1511,11,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1511,15,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,35,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,115,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,123,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;evidence_span
+incomplete_review_annotation,COMP6713,169,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,173,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6771,190,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,191,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,193,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,268,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: specificity_0_3;low_evidence_general
+incomplete_review_annotation,COMP6713,276,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,315,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6991,348,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence;evidence_span
+incomplete_review_annotation,COMP6080,457,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP9044,609,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,610,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,959,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,966,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,968,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,969,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,979,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,982,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,983,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,985,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,992,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,997,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1002,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,1004,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,1007,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1009,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,1012,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,1015,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,1021,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1027,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1029,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1035,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1037,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1071,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1086,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1096,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1097,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP9044,1138,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,1139,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6080,1205,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,1225,Miris sjy,9044\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP1511,11,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1511,15,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,35,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,115,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,123,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;evidence_span
+incomplete_review_annotation,COMP6713,169,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,173,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6771,190,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,191,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,193,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,268,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: specificity_0_3;low_evidence_general
+incomplete_review_annotation,COMP6713,276,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,315,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6991,348,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence;evidence_span
+incomplete_review_annotation,COMP6080,457,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP9044,609,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9044,610,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,959,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,966,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,968,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,979,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,982,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,983,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,992,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,997,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1002,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,1007,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1009,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP9417,1015,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1027,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1029,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1035,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1037,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6080,1071,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1086,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,1096,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP6991,1097,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP9417,1139,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: contains_concrete_evidence
+incomplete_review_annotation,COMP6080,1205,Miris sjy,9417\review_annotations_Miris_sjy (2).csv,missing: evidence_span
+incomplete_review_annotation,COMP3311,17,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6080,33,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,123,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,169,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,COMM1150\review_annotations_kreit.csv,missing: risk_labels
+incomplete_review_annotation,COMP3311,391,kreit,COMM1150\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3311,17,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6080,33,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,123,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,169,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,COMP1521\review_annotations_kreit.csv,missing: risk_labels
+incomplete_review_annotation,COMP1521,344,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;sentiment
+incomplete_review_annotation,COMP1521,370,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3311,391,kreit,COMP1521\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1521,511,kreit,COMP1521\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3121,525,kreit,COMP1521\review_annotations_kreit.csv,missing: contains_concrete_evidence;evidence_span
+incomplete_review_annotation,COMP3311,17,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6080,33,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,123,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,169,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,COMP3121\review_annotations_kreit.csv,missing: risk_labels
+incomplete_review_annotation,COMP1521,344,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;sentiment
+incomplete_review_annotation,COMP1521,370,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3311,391,kreit,COMP3121\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1521,511,kreit,COMP3121\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3121,1118,kreit,COMP3121\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3121,1194,kreit,COMP3121\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3311,17,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,32,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6080,33,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,123,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,169,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,COMP3222\review_annotations_kreit.csv,missing: risk_labels
+incomplete_review_annotation,COMP1521,344,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;sentiment
+incomplete_review_annotation,COMP1521,370,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3311,391,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1521,511,kreit,COMP3222\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3222,1061,kreit,COMP3222\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3121,1118,kreit,COMP3222\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3121,1194,kreit,COMP3222\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP6713,32,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6080,33,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6991,123,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP6713,169,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,COMP3311\review_annotations_kreit.csv,missing: risk_labels
+incomplete_review_annotation,COMP1521,344,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;sentiment
+incomplete_review_annotation,COMP1521,370,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP1521,511,kreit,COMP3311\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3222,1061,kreit,COMP3311\review_annotations_kreit.csv,missing: first_hand_experience;contains_concrete_evidence;specificity_0_3;low_evidence_general;risk_labels;sentiment;evidence_span
+incomplete_review_annotation,COMP3121,1118,kreit,COMP3311\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,COMP3121,1194,kreit,COMP3311\review_annotations_kreit.csv,missing: evidence_span
+incomplete_review_annotation,GSOE9820,178,kreit,GSOE9820\review_annotations_kreit.csv,missing: risk_labels
+duplicate_review_same_annotator_comment,COMP1511,11,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP1511,15,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6713,32,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,33,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,93,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,95,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,123,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,125,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,127,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,129,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,131,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,133,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,149,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,151,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,153,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,155,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,157,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,169,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6713,171,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6713,173,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6991,185,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,187,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,189,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,191,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,193,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,240,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6991,268,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,275,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,276,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6713,282,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,289,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,307,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,322,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6991,348,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,351,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,442,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,443,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,457,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,606,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,608,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,949,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,951,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,957,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,959,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,966,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,968,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,974,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,976,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,982,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,983,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,991,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,992,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,1001,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,1002,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,1009,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,1010,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,1018,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,1019,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6080,1027,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1029,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1035,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1037,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1044,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1046,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1059,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1064,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1066,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1071,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1079,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1081,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,1086,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6991,1087,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6713,1096,Miris sjy,,count=3
+duplicate_review_same_annotator_comment,COMP6991,1097,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1151,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6080,1205,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP6991,1206,Miris sjy,,count=4
+duplicate_review_same_annotator_comment,COMP9417,35,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,111,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,113,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,115,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP6771,190,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9044,208,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9044,210,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,278,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,281,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,315,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,338,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,350,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,577,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,578,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,579,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,598,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9044,609,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9044,610,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,979,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,988,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,997,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,1007,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,1015,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP9417,1139,Miris sjy,,count=2
+duplicate_review_same_annotator_comment,COMP3311,17,kreit,,count=5
+duplicate_review_same_annotator_comment,COMP6713,32,kreit,,count=5
+duplicate_review_same_annotator_comment,COMP6080,33,kreit,,count=5
+duplicate_review_same_annotator_comment,GSOE9820,60,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,62,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,64,kreit,,count=6
+duplicate_review_same_annotator_comment,COMP6991,123,kreit,,count=5
+duplicate_review_same_annotator_comment,COMP6713,169,kreit,,count=5
+duplicate_review_same_annotator_comment,GSOE9820,172,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,174,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,176,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,178,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,325,kreit,,count=6
+duplicate_review_same_annotator_comment,COMP3311,391,kreit,,count=5
+duplicate_review_same_annotator_comment,GSOE9820,601,kreit,,count=6
+duplicate_review_same_annotator_comment,COMM1150,830,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,837,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,842,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,848,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,854,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,861,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,865,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,902,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,941,kreit,,count=5
+duplicate_review_same_annotator_comment,COMM1150,1196,kreit,,count=5
+duplicate_review_same_annotator_comment,GSOE9820,1197,kreit,,count=6
+duplicate_review_same_annotator_comment,GSOE9820,1208,kreit,,count=6
+duplicate_review_same_annotator_comment,COMP3121,9,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,37,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,216,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,329,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,344,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,370,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,414,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,415,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,422,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,423,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,465,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,466,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,511,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,512,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,513,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,525,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP1521,1117,kreit,,count=4
+duplicate_review_same_annotator_comment,COMP3121,1026,kreit,,count=3
+duplicate_review_same_annotator_comment,COMP3121,1118,kreit,,count=3
+duplicate_review_same_annotator_comment,COMP3121,1194,kreit,,count=3
+duplicate_review_same_annotator_comment,COMP3222,226,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,228,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,271,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,553,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,554,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,555,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,1049,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,1054,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,1061,kreit,,count=2
+duplicate_review_same_annotator_comment,COMP3222,1195,kreit,,count=2
+incomplete_gold_risk,COMP9311,,hanyang,course_gold_risks_hanyang(1).csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9011,,hanyang,course_gold_risks_hanyang(1).csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP1511,,Yuanhang Yan,course_gold_risks_Yuanhang_Yan(2).csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP6713,,Miris sjy,6731\course_gold_risks_Miris_sjy (2).csv,missing: supporting_comment_ids;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP6713,,Miris sjy,9044\course_gold_risks_Miris_sjy (2).csv,missing: supporting_comment_ids;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP9417,,Miris sjy,9044\course_gold_risks_Miris_sjy (2).csv,missing: supporting_comment_ids;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP6713,,Miris sjy,9417\course_gold_risks_Miris_sjy (2).csv,missing: supporting_comment_ids;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP9417,,Miris sjy,9417\course_gold_risks_Miris_sjy (2).csv,missing: supporting_comment_ids;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,COMM1150\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMM1150,,kreit,COMM1150\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,COMP1521\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMM1150,,kreit,COMP1521\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,COMP3121\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMM1150,,kreit,COMP3121\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,COMP3222\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMM1150,,kreit,COMP3222\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,COMP3311\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMM1150,,kreit,COMP3311\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,COMP3311,,kreit,COMP3311\course_gold_risks_kreit.csv,missing: risk_severity;is_low_frequency_risk;is_critical_risk
+incomplete_gold_risk,GSOE9820,,kreit,GSOE9820\course_gold_risks_kreit.csv,missing: is_low_frequency_risk;is_critical_risk

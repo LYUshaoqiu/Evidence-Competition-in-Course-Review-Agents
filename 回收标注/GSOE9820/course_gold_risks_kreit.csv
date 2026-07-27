@@ -1,0 +1,2 @@
+﻿annotator_id,course_code,course_title_en,gold_risk_id,risk_label,risk_description,risk_severity,supporting_comment_ids,supporting_evidence_ids,support_count,is_low_frequency_risk,is_critical_risk
+kreit,GSOE9820,Engineering Project Management,GSOE9820-R001,小组作业,project以小组作业为主，占总分比例高,medium,60，62，64，172，176，601，1208,GSOE9820-E006 ，GSOE9820-E003,7,,

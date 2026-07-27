@@ -1,0 +1,50 @@
+﻿????: 2026-07-14T15:15:48
+?? CSV ???: 42
+?? review_annotations ????: 959; ???: 464
+?? evidence_units ????: 378; ???: 258
+?? course_gold_risks ????: 98; ???: 65
+
+38???????:
+- complete_review_and_gold_risk: 8
+- partial_review_annotation: 25
+- not_started: 3
+- review_complete_gold_risk_missing_or_incomplete: 2
+
+???? annotator ??:
+- Miris sjy: 349
+- kreit: 251
+- hanyang: 183
+- Yuanhang Yan: 145
+- FY liu: 31
+
+?????:
+- CDEV3500 (8 comments): partial_review_annotation; complete_comments=7; gold_risks=2; missing=0
+- COMM1190 (8 comments): partial_review_annotation; complete_comments=6; gold_risks=2; missing=0
+- COMP1511 (15 comments): partial_review_annotation; complete_comments=4; gold_risks=2; missing=0
+- COMP1521 (10 comments): partial_review_annotation; complete_comments=7; gold_risks=4; missing=0
+- COMP1531 (11 comments): not_started; complete_comments=0; gold_risks=0; missing=11
+- COMP2041 (11 comments): partial_review_annotation; complete_comments=10; gold_risks=1; missing=0
+- COMP2511 (13 comments): partial_review_annotation; complete_comments=9; gold_risks=3; missing=0
+- COMP2521 (13 comments): partial_review_annotation; complete_comments=8; gold_risks=5; missing=0
+- COMP3121 (10 comments): partial_review_annotation; complete_comments=8; gold_risks=6; missing=0
+- COMP3222 (10 comments): partial_review_annotation; complete_comments=9; gold_risks=2; missing=0
+- COMP3311 (10 comments): review_complete_gold_risk_missing_or_incomplete; complete_comments=10; gold_risks=0; missing=0
+- COMP4920 (10 comments): partial_review_annotation; complete_comments=7; gold_risks=3; missing=0
+- COMP6080 (33 comments): partial_review_annotation; complete_comments=25; gold_risks=0; missing=0
+- COMP6443 (13 comments): partial_review_annotation; complete_comments=10; gold_risks=3; missing=0
+- COMP6713 (19 comments): partial_review_annotation; complete_comments=8; gold_risks=0; missing=0
+- COMP6771 (16 comments): partial_review_annotation; complete_comments=12; gold_risks=5; missing=0
+- COMP6991 (23 comments): partial_review_annotation; complete_comments=15; gold_risks=0; missing=0
+- COMP9044 (18 comments): partial_review_annotation; complete_comments=9; gold_risks=0; missing=0
+- COMP9311 (8 comments): partial_review_annotation; complete_comments=3; gold_risks=0; missing=0
+- COMP9313 (13 comments): not_started; complete_comments=0; gold_risks=0; missing=13
+- COMP9331 (12 comments): not_started; complete_comments=0; gold_risks=0; missing=12
+- COMP9334 (8 comments): partial_review_annotation; complete_comments=7; gold_risks=2; missing=0
+- COMP9417 (19 comments): partial_review_annotation; complete_comments=11; gold_risks=0; missing=0
+- COMP9444 (10 comments): partial_review_annotation; complete_comments=8; gold_risks=3; missing=0
+- COMP9511 (8 comments): partial_review_annotation; complete_comments=7; gold_risks=2; missing=0
+- COMP9517 (16 comments): partial_review_annotation; complete_comments=3; gold_risks=3; missing=0
+- COMP9727 (8 comments): partial_review_annotation; complete_comments=6; gold_risks=2; missing=0
+- FINS3633 (9 comments): partial_review_annotation; complete_comments=8; gold_risks=2; missing=0
+- GSOE9011 (9 comments): review_complete_gold_risk_missing_or_incomplete; complete_comments=9; gold_risks=0; missing=0
+- GSOE9820 (11 comments): partial_review_annotation; complete_comments=10; gold_risks=0; missing=0

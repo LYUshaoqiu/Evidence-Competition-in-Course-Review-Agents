@@ -1,0 +1,40 @@
+﻿file,kind,encoding,rows
+course_gold_risks_FY_liu (1)(1).csv,risk,utf-8-sig,1
+course_gold_risks_hanyang(1).csv,risk,utf-8-sig,9
+course_gold_risks_Yuanhang_Yan(2).csv,risk,utf-8-sig,42
+evidence_units_FY_liu (2)(1).csv,evidence,utf-8-sig,2
+evidence_units_hanyang(1).csv,evidence,utf-8-sig,74
+evidence_units_Yuanhang_Yan(2).csv,evidence,utf-8-sig,138
+review_annotations_FY_liu (2)(1).csv,review,utf-8-sig,31
+review_annotations_hanyang(1).csv,review,utf-8-sig,75
+review_annotations_Yuanhang_Yan(3).csv,review,utf-8-sig,145
+6731\course_gold_risks_Miris_sjy (2).csv,risk,utf-8-sig,1
+6731\evidence_units_Miris_sjy (2).csv,evidence,utf-8-sig,0
+6731\review_annotations_Miris_sjy (2).csv,review,utf-8-sig,77
+6991\course_gold_risks_Miris_sjy (2).csv,risk,utf-8-sig,0
+6991\evidence_units_Miris_sjy (2).csv,evidence,utf-8-sig,0
+6991\review_annotations_Miris_sjy (2).csv,review,utf-8-sig,56
+9044\course_gold_risks_Miris_sjy (2).csv,risk,utf-8-sig,2
+9044\evidence_units_Miris_sjy (2).csv,evidence,utf-8-sig,0
+9044\review_annotations_Miris_sjy (2).csv,review,utf-8-sig,115
+9417\course_gold_risks_Miris_sjy (2).csv,risk,utf-8-sig,2
+9417\evidence_units_Miris_sjy (2).csv,evidence,utf-8-sig,0
+9417\review_annotations_Miris_sjy (2).csv,review,utf-8-sig,101
+COMM1150\course_gold_risks_kreit.csv,risk,utf-8-sig,3
+COMM1150\evidence_units_kreit.csv,evidence,utf-8-sig,9
+COMM1150\review_annotations_kreit.csv,review,utf-8-sig,27
+COMP1521\course_gold_risks_kreit.csv,risk,utf-8-sig,4
+COMP1521\evidence_units_kreit.csv,evidence,utf-8-sig,10
+COMP1521\review_annotations_kreit.csv,review,utf-8-sig,44
+COMP3121\course_gold_risks_kreit.csv,risk,utf-8-sig,6
+COMP3121\evidence_units_kreit.csv,evidence,utf-8-sig,10
+COMP3121\review_annotations_kreit.csv,review,utf-8-sig,47
+COMP3222\course_gold_risks_kreit.csv,risk,utf-8-sig,7
+COMP3222\evidence_units_kreit.csv,evidence,utf-8-sig,11
+COMP3222\review_annotations_kreit.csv,review,utf-8-sig,57
+COMP3311\course_gold_risks_kreit.csv,risk,utf-8-sig,8
+COMP3311\evidence_units_kreit.csv,evidence,utf-8-sig,11
+COMP3311\review_annotations_kreit.csv,review,utf-8-sig,65
+GSOE9820\course_gold_risks_kreit.csv,risk,utf-8-sig,1
+GSOE9820\evidence_units_kreit.csv,evidence,utf-8-sig,6
+GSOE9820\review_annotations_kreit.csv,review,utf-8-sig,11

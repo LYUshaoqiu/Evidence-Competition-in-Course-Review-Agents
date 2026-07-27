@@ -1,0 +1,2 @@
+﻿annotator_id,course_code,course_title_en,gold_risk_id,risk_label,risk_description,risk_severity,supporting_comment_ids,supporting_evidence_ids,support_count,is_low_frequency_risk,is_critical_risk
+FY liu,COMP4920,Professional Issues and Ethics in Information Technology,COMP4920-R001,content_too_shallow / 内容过浅,COMP4920 is not the kind of course most CompSci students are excited to take. It focuses on ethical issues in IT,medium,424,,1,no,no

@@ -1,0 +1,2 @@
+﻿annotator_id,course_code,course_title_en,gold_risk_id,risk_label,risk_description,risk_severity,supporting_comment_ids,supporting_evidence_ids,support_count,is_low_frequency_risk,is_critical_risk
+Miris sjy,COMP6713,Natural Language Processing,COMP6713-R001,final和sample/quiz完全不一样，给的hint基本不搭边。,考试难，和例题不搭边,medium,,,,,

@@ -1,0 +1,3 @@
+﻿annotator_id,course_code,comment_id,evidence_id,evidence_text,aspect_label,risk_label,risk_severity,is_decision_relevant
+FY liu,COMP4920,12,COMP4920-E001,COMP4920 是一门偏职业素养与技术伦理的课程，重点不在编程实现，而在于讨论计算机专业中的伦理判断、责任意识以及技术应用带来的社会影响。,career_relevance / 职业相关性,,medium,yes
+FY liu,COMP4920,12,COMP4920-E002,这门课的特点是思辨性强、写作和论证要求比较高，比较适合已经学过多门技术课、希望从“如何做系统”进一步思考“为什么这样做、这样做是否负责”的学生。它的价值不在于提升编码能力，而在于帮助学生建立更完整的专业视角。,assessment / 考核整体,,medium,yes

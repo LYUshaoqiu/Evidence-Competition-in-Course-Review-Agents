@@ -1,0 +1,108 @@
+﻿annotator_id,course_code,comment_id,evidence_id,evidence_text,aspect_label,risk_label,risk_severity,is_decision_relevant
+hanyang,COMP9727,209,COMP9727-E001,比想象中折磨,project根本不是“随便做做”那种,,,yes
+hanyang,COMP9727,211,COMP9727-E002,project占比很高，不是那种给你现成框架填空的。debug能搞很久,project,,medium,no
+hanyang,COMP9727,213,COMP9727-E003,难虽然难，但有意义,,,medium,
+hanyang,COMP9727,360,COMP9727-E004,没有期末能选的,没有期末能选的,,low,no
+hanyang,COMP9727,361,COMP9727-E005,asst 30%，design 20%，project 30%，report 20%,课程的分数架构,,medium,no
+hanyang,COMP9727,362,COMP9727-E006,搜广推项目，值得做的，大厂的很多业务都有搜广推,职业相关性,,low,yes
+hanyang,COMP9727,981,COMP9727-E007,平时分给得挺高，但是期末比较难,期末比较难,,medium,no
+hanyang,COMP9727,990,COMP9727-E008,Ass1 30%，4000本书的数据,project,,medium,no
+hanyang,COMP9511,215,COMP9511-E001,每周都有东西要交,作业量,,low,no
+hanyang,COMP9511,217,COMP9511-E002,"assignment很多而且很碎,每周都有小作业",作业,,medium,no
+hanyang,COMP9511,219,COMP9511-E003,作业是真的多，一周一个小任务,high workload,,medium,no
+hanyang,COMP9511,273,COMP9511-E004,每周都有小作业，ass2团队合作用figma做东西，期末:一定要刷一下往年真题,exam，assignment，group work,,low,no
+hanyang,COMP9511,363,COMP9511-E005,作业稍微多点，double pass也不用担心，期末肯定稳过,exam， assessment,,low,no
+hanyang,COMP9511,364,COMP9511-E006,平时分给分挺低的，每周都有小作业，final全是选择题,workload，exam,,low,no
+hanyang,COMP9511,365,COMP9511-E007,期末改为线下考试，增加dp(final≥50%),exam,,low,no
+hanyang,COMP9511,366,COMP9511-E008,没有代码，3-4人组队，weeky作业(才占比10%)很多,"group work, weekly work",,low,no
+hanyang,COMP9334,290,COMP9334-E001,平时分给分非常友好，想过很容易的课，但是刷高分要平时好好学,exam,,low,no
+hanyang,COMP9334,455,COMP9334-E002,平时分50基本可以拿满，考试题在有限时间内可以说非常变态,exam,,low,no
+hanyang,COMP9334,456,COMP9334-E003,想pass确实很稳，想HD就不太推荐,exam,,low,no
+hanyang,COMP9334,597,COMP9334-E004,没有double pass，final 题型变化不大，整体来说workload适中，想要pass或者拿高分都不太难,exam,,low,no
+hanyang,COMP9334,955,COMP9334-E005,平时分给分非常友好，但期末回吞卷比较明显,exam,,,no
+hanyang,COMP9334,963,COMP9334-E006,none,none,,,
+hanyang,COMP9334,1091,COMP9334-E007,allin八股也飘过,exam,,low,no
+hanyang,COMP9334,1100,COMP9334-E008,对知识概念理解了的话，选择题不难，死记硬背不太行,exam,,low,no
+hanyang,COMP9311,58,COMP9311-E001,none,none,,,
+hanyang,COMP9311,61,COMP9311-E002,none,none,,,
+hanyang,COMP9311,63,COMP9311-E003,final 就开始拐弯,exam,,medium,no
+hanyang,COMP9311,272,COMP9311-E004,平时认真做还是比较好拿分，final题型很固定,exam，assignment,,low,no
+hanyang,COMP9311,288,COMP9311-E005,final的题型固定，但不好拿分,exam,,low,no
+hanyang,COMP9311,603,COMP9311-E006,作业纯codex，期末把sample exam自己做完，最后70飘过,exam,,low,no
+hanyang,COMP9311,1005,COMP9311-E007,2个Assignment和1个Project基本也不会花很久，期末题量是真的大啊完全写不完,exam，assignment,,low,no
+hanyang,COMP9311,1107,COMP9311-E008,总分至少50,exam,,low,no
+hanyang,COMM1190,733,COMM1190-E001,转换成numeric格式，大小写错误，没有library需要的数据包，检查方法,assessment,,,
+hanyang,COMM1190,740,COMM1190-E002,A1（30%）- 个人战（Week 5 Due），A2（25%）- 组队坑（Week 8 Due）,assignment,,medium,no
+hanyang,COMM1190,812,COMM1190-E003,quiz上好像写了可以看lecture notes,quiz,,low,no
+hanyang,COMM1190,824,COMM1190-E005,lecture和tutorial都断层的,course design,,medium,yes
+hanyang,COMM1190,818,COMM1190-E005,课程设计的不好,course design,,medium,yes
+hanyang,COMM1190,831,COMM1190-E006,boc必修，第一个individual repo，group work，online exam,assignment，exam,,medium,no
+hanyang,COMM1190,911,COMM1190-E007,R coding quiz偏实操,quiz,,medium,no
+hanyang,COMM1190,920,COMM1190-E008,注意R代码提交、文件格式和迟交处罚,quiz,,medium,no
+hanyang,CDEV3500,947,CDEV3500-E001,intensive mode，从早九上到晚五，连续上两周,课程结构,,medium,no
+hanyang,CDEV3500,956,CDEV3500-E002,Eitan和Lucy都是很好的老师,lecturer,,low,no
+hanyang,CDEV3500,965,CDEV3500-E003,理解有奇怪口音的英,course structure,,low,no
+hanyang,CDEV3500,973,CDEV3500-E005,两周混六个学分，赚麻了,course structure,,low,no
+hanyang,CDEV3500,1076,CDEV3500-E005,两周混六个学分，赚麻了,course structure,,low,no
+hanyang,CDEV3500,1084,CDEV3500-E006,还是essay和pre；给分还是好一些,assessment structure，marking,,low,
+hanyang,CDEV3500,1092,CDEV3500-E007,需要学生提前在新南WIL官网上提交申请并且通过面试才可以enroll,course structure，apply method,,low,no
+hanyang,CDEV3500,1101,CDEV3500-E008,给分还不错，不发奖学金，非一手信息,course apply,,low,no
+hanyang,ACCT2542,358,ACCT2542-E001,整个会计专业最难的课，期中考试平均分48,exam,,high,yes
+hanyang,ACCT2542,715,ACCT2542-E002,2542最难吧,content_too_hard,,high,yes
+hanyang,ACCT2542,731,ACCT2542-E003,学生的人均崩溃程度和2542差不多,content_too_hard,,high,yes
+hanyang,ACCT2542,738,ACCT2542-E004,ACCT2542最容易挂的原因,content_too_hard,,high,yes
+hanyang,ACCT2542,858,ACCT2542-E005,2542非常难,conten_too_hard,,high,
+hanyang,ACCT2542,869,ACCT2542-E006,那很难了,content_too_hard,,high,yes
+hanyang,ACCT2542,926,ACCT2542-E007,容易因为分析不够深被扣分,conten_too_hard,,high,yes
+hanyang,ACCT2542,933,ACCT2542-E008,最容易掉分的通常不是计算，而是分析不够深、结构混乱、没有对齐题目要求,content_too_hard,,high,yes
+hanyang,MATH5836,116,MATH5836-E001,double pass真的烦,exam,,medium,no
+hanyang,MATH5836,118,MATH5836-E002,老师讲课还可以,lecturer,,low,no
+hanyang,MATH5836,120,MATH5836-E003,这门课不算特别难，基础一般的话，会感觉有点吃力,course structure,,low,no
+hanyang,MATH5836,506,MATH5836-E004,期末考难但开卷考原题，所有材料开放，平时分给的满满，还允许ai写，有dp，有考勤,assessment，exam,,low,no
+hanyang,MATH5836,507,MATH5836-E005,每周lab算出勤，两个组队作业，期末55%+dp（好像出事后取消了）,quiz，lab，group work，final,,medium,yes
+hanyang,MATH5836,1032,MATH5836-E006,老师好像经常换,lecturer,,medium,no
+hanyang,MATH5836,1041,MATH5836-E007,这学期换成sarat moka了,lecturer‘,,low,no
+hanyang,MATH5836,1053,MATH5836-E008,期末是两小时上机考试，有选择题、论述题和编程题。,exam,,low,no
+hanyang,MATH5836,1147,MATH5836-E009,通过标准总分需要至少50，final至少28分，并且7/9的lab出勤是强制性的,exam，lab,,medium,no
+hanyang,GSOE9011,66,GSOE9011-E001,老师给feedback是挺多，组队的话还要协调进度,assessment，group work,,low,no
+hanyang,GSOE9011,77,GSOE9011-E002,是那种写着写着会崩溃的,assessment,,medium,
+hanyang,GSOE9011,79,GSOE9011-E003,从proposal到final report再到presentation，一路没停过。老师改得很细,assessment,,medium,no
+hanyang,GSOE9011,295,GSOE9011-E004,给分感觉一般,assessment，proposal,,medium,no
+hanyang,GSOE9011,318,GSOE9011-E005,不卡dn和hd的课，不用真的去刷每个视频，把 quiz 刷满分，在 Forum 提一个问题即可，助教TA们给分波动大，标准不一致,assessment,,low,no
+hanyang,GSOE9011,339,GSOE9011-E006,每周的quiz可无限次做，每周在论坛发言记一分，前期有个提交cv的作业10分，小组是填问卷老师分配的，proposal和最终一个video,assessment,,medium,no
+hanyang,GSOE9011,999,GSOE9011-E007,不过遇到严格的tutor那也就只能这样了,marking,,medium,no
+hanyang,GSOE9011,1154,GSOE9011-E008,总分至少50，需要参加或完成至少80%的学习活动和作业,double pass,,low,no
+hanyang,GSOE9011,1193,GSOE9011-E009,几乎不怎么需要花时间，只要你的小组队员们都相对比较给力，我觉得80分以上是非常轻松的。,group work,,low,no
+hanyang,COMP9321,277,COMP9321-E001,三个ass都是一晚弄完，期末复习了一下套路题勉强卡个DN,assignment，exam,,low,no
+hanyang,COMP9321,354,COMP9321-E002,作业耗时过程期末都是简答题，但是从没有dp和不会挂来说是合格的,assignment，exam,,low,no
+hanyang,COMP9321,615,COMP9321-E003,工作量比较大有3个assignment，assignment给分不太高，尤其是第三个，评分标准很抽象，本学期依旧期末变异为线下考试了，时间比较紧张，题量不小,assignment，final,,low,no
+hanyang,COMP9321,1039,COMP9321-E004,..75 DN,assessment,,low,no
+hanyang,COMP9321,1047,COMP9321-E005,三个ass都是一晚弄完，期末复习了一下套路题勉强卡个DN,assignment，exam,,low,
+hanyang,COMP9321,1068,COMP9321-E006,none,assessment,,low,no
+hanyang,COMP9321,1075,COMP9321-E007,9321的作业实在是太痛苦了,assignment,,medium,no
+hanyang,COMP9321,1083,COMP9321-E008,第一学期就给我上强度,assessment,,medium,no
+hanyang,COMP9321,1090,COMP9321-E009,曾经的水课，都是被调进来的...,assessment,,medium,yes
+hanyang,COMP9321,1099,COMP9321-E010,究竟要避雷9321了,assessment,,medium,yes
+hanyang,COMP9321,1123,COMP9321-E011,主要顾虑是可能需要进waitlist。整体口碑信号偏正面,none,,low,no
+hanyang,COMP9021,28,COMP9021-E001,它是那种“学的时候痛苦，但学完很有用”的课，不是轻松课，但作为IT基础课，质量是在线的。,none,,low,no
+hanyang,COMP9021,42,COMP9021-E002,期末真不水,exam,,medium,no
+hanyang,COMP9021,44,COMP9021-E003,none,none,,low,no
+hanyang,COMP9021,46,COMP9021-E004,9021 这门课老师是加分项,teaching quality,,low,no
+hanyang,COMP9021,48,COMP9021-E005,"考试部分和作业风格体验差,但期末考试部分不太考那些",assignment，exam,,medium,no
+hanyang,COMP9021,50,COMP9021-E006,老师讲得很细，内容也能延伸得很深。还有人说到 notes 资料写得很详细，每个算法问题拆得都比较清楚，后面作业和考试压力一来，还是很容易心态爆炸。,assignment，exam,,medium,no
+hanyang,COMP9021,52,COMP9021-E007,none,none,,low,no
+hanyang,COMP9021,285,COMP9021-E008,平时的quzi难度不大，assignment则需要花上一两天,quiz，assignment，exam,,low,no
+hanyang,COMP9021,596,COMP9021-E009,Quiz跟Ass即便底子普通，善用AI讨论也能稳拿八成，final开学初先把原题搜集好,quiz，assignment，exam,,low,no
+hanyang,COMP9021,604,COMP9021-E010,"作业纯ai辅助,95分，最后一周才开始复习),结果考试其实还好,8道题做出来5道题,最后75飘过.",assignment，exam,,low,no
+hanyang,COMP9021,1202,COMP9021-E011,考试不难，两个ass认真做也很好拿分,assignment，exam,,low,no
+hanyang,COMP2041,1,COMP2041-E001,作业量较多，期末考试的代码题会混合着考两种语言,assessment,,medium,no
+hanyang,COMP2041,146,COMP2041-E002,作业量不多，final 要好好准备,assignment，exam,,low,yes
+hanyang,COMP2041,148,COMP2041-E003,期末好好刷题，我这次做到原题了,exam,,low,no
+hanyang,COMP2041,230,COMP2041-E004,作业量很大，作业难度也很大，真正学东西还要看Tutorial,assignment,,high,yes
+hanyang,COMP2041,270,COMP2041-E005,none,,,low,no
+hanyang,COMP2041,433,COMP2041-E006,none,,,low,no
+hanyang,COMP2041,434,COMP2041-E007,The difficulty also came less from the content itself and more from the pressure of the final.,exam,,medium,no
+hanyang,COMP2041,517,COMP2041-E008,东西比较杂，整体难度不高但是量不小,assignment,,low,no
+hanyang,COMP2041,518,COMP2041-E009,主讲shell python等，每周lab和quiz都可以线上完成，上机考试要写出并运行检测,lab， quiz，exam,,medium,no
+hanyang,COMP2041,595,COMP2041-E010,每周lab加weekly test，还有两个大assignment，一个shell一个python，期末有hurdle，卷面100分要拿到40分。,assessment,,medium,no
+hanyang,COMP2041,1141,COMP2041-E011,期末复习材料里能看到考试是3小时加10分钟阅读，题量较大，既有实践题也有板块题。,exam,,medium,no

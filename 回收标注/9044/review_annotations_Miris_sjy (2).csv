@@ -1,0 +1,117 @@
+﻿annotator_id,course_code,course_title_en,comment_id,first_hand_experience,contains_concrete_evidence,specificity_0_3,low_evidence_general,aspect_labels,risk_labels,risk_severity_0_3,sentiment,evidence_span,notes,updated_at
+Miris sjy,COMP1511,Programming Fundamentals,11,,,,,,,,,,,2026-07-10T05:38:24.246Z
+Miris sjy,COMP1511,Programming Fundamentals,15,,,,,,,,,,,2026-07-10T05:38:44.919Z
+Miris sjy,COMP6713,Natural Language Processing,32,unclear,no,0,yes,assessment,none,0,neutral,,,2026-07-10T06:10:47.454Z
+Miris sjy,COMP6080,Web Front-End Programming,33,no,no,1,yes,assessment;exam;group_work,unclear_marking;harsh_grading,1,negative,压分比较严重，期末还是手写代码。,技术难度高，覆盖面广有深度,2026-07-10T03:59:54.691Z
+Miris sjy,COMP9417,Machine Learning,35,yes,no,1,no,assessment,none,0,positive,,,2026-07-10T11:55:47.082Z
+Miris sjy,COMP6080,Web Front-End Programming,93,yes,no,2,yes,assessment,high_workload,0,neutral,天天都在赶作业,,2026-07-07T11:49:14.312Z
+Miris sjy,COMP6080,Web Front-End Programming,95,yes,yes,3,no,assignment,high_workload,0,positive,但 workload 真的重，assignment 一个接一个,,2026-07-07T11:49:14.472Z
+Miris sjy,COMP9417,Machine Learning,111,yes,yes,2,yes,assessment;project;quiz,high_workload,1,neutral,几乎每周都有任务，不是quiz就是作业，有时候还要写report,,2026-07-10T06:45:36.602Z
+Miris sjy,COMP9417,Machine Learning,113,yes,yes,1,no,project;group_work,group_work_risk,0,neutral,project很吃队友,,2026-07-10T06:53:10.300Z
+Miris sjy,COMP9417,Machine Learning,115,unclear,no,1,yes,assessment;resource_quality,none,0,positive,,,2026-07-10T06:54:47.421Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,123,,no,0,yes,assessment;assignment,high_workload,0,mixed,,,2026-07-10T05:38:46.709Z
+Miris sjy,COMP6080,Web Front-End Programming,125,unclear,no,1,yes,assignment,high_workload,0,mixed,作业量太大了,,2026-07-07T11:49:14.642Z
+Miris sjy,COMP6080,Web Front-End Programming,127,unclear,yes,1,yes,assessment,high_workload;low_practical_value,3,negative,ai这么强，前端还有学的意义吗？,,2026-07-07T11:49:14.816Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,129,unclear,yes,1,yes,assessment;teaching_quality,none,0,positive,好拿分,,2026-07-10T04:01:44.287Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,131,unclear,yes,1,yes,assessment;assignment,none,0,positive,内容还挺实用的,,2026-07-10T04:02:17.856Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,133,unclear,yes,1,yes,assessment,none,0,neutral,花点时间理解，但回报还不错,,2026-07-10T04:24:21.596Z
+Miris sjy,COMP6080,Web Front-End Programming,149,no,yes,1,yes,assessment;assignment,high_workload,1,neutral,全是ass,,2026-07-07T11:49:14.995Z
+Miris sjy,COMP6080,Web Front-End Programming,151,yes,yes,3,no,assessment;assignment;teaching_quality,high_workload,0,mixed,你一边骂 workload，一边又承认这课确实教得有用。,,2026-07-07T11:49:15.179Z
+Miris sjy,COMP6080,Web Front-End Programming,153,unclear,no,0,yes,support;career_relevance,low_practical_value,3,negative,前端还有活路吗,,2026-07-07T11:49:15.363Z
+Miris sjy,COMP6080,Web Front-End Programming,155,unclear,no,0,yes,resource_quality;support,none,0,neutral,none,,2026-07-07T11:49:15.565Z
+Miris sjy,COMP6080,Web Front-End Programming,157,yes,no,1,yes,group_work,group_work_risk,0,neutral,很吃小组队友,,2026-07-07T11:49:15.757Z
+Miris sjy,COMP6713,Natural Language Processing,169,unclear,no,1,yes,assessment,none,0,positive,,,2026-07-10T05:54:07.010Z
+Miris sjy,COMP6713,Natural Language Processing,171,yes,yes,1,no,assessment;marking;group_work,unclear_marking;harsh_grading,1,mixed,老师实在太抽象了，开局直接扣20%小组分,,2026-07-10T05:56:43.504Z
+Miris sjy,COMP6713,Natural Language Processing,173,yes,no,1,yes,assessment,none,0,positive,,,2026-07-10T05:57:08.830Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,185,yes,yes,1,yes,assessment;assignment,high_workload,1,mixed,写作业写到崩溃,,2026-07-10T04:24:57.029Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,187,yes,yes,1,no,assessment;assignment;lab,none,0,positive,assignment分值挺高的，lab基本照着做就能拿满,,2026-07-10T04:26:11.388Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,189,unclear,yes,1,yes,assignment,harsh_grading,0,neutral,作业要求比较严格,,2026-07-10T04:26:54.366Z
+Miris sjy,COMP6771,Advanced C++ Programming,190,,,,,,,,,,,2026-07-10T11:46:15.154Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,191,unclear,no,1,yes,assessment,none,0,positive,,,2026-07-10T04:27:22.299Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,193,unclear,no,0,yes,assessment,none,0,positive,,,2026-07-10T04:27:42.932Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,208,unclear,yes,0,yes,assessment,content_too_hard,1,neutral,基础一般处刑,,2026-07-10T11:55:48.061Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,210,unclear,yes,1,yes,assessment,content_too_hard,2,negative,推荐大家修 9044，尤其是那种觉得自己平时太闲、特别想给生活增加一点琐碎痛苦的人。,,2026-07-10T11:55:50.021Z
+Miris sjy,COMP6713,Natural Language Processing,240,yes,yes,2,no,assessment;exam,exam_sample_mismatch,2,mixed,复习一星期，结果期末考试一个没考到,,2026-07-10T05:58:07.922Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,268,yes,yes,,,exam,none,0,positive,25T3依然是线上final,,2026-07-10T04:28:36.237Z
+Miris sjy,COMP6080,Web Front-End Programming,275,yes,yes,3,no,assessment;assignment;course_organization;teaching_quality,unclear_marking,0,mixed,主包遇到的tutor都很好    打分的话挺看运气的,,2026-07-07T11:49:15.974Z
+Miris sjy,COMP6713,Natural Language Processing,276,yes,no,2,yes,assessment;exam,none,1,neutral,,,2026-07-10T05:59:17.564Z
+Miris sjy,COMP9417,Machine Learning,278,yes,yes,3,no,exam;assignment;project,exam_sample_mismatch;double_pass_or_hurdle,0,neutral,和平时给的sampleexam毫无关系,,2026-07-10T11:17:02.228Z
+Miris sjy,COMP9417,Machine Learning,281,yes,yes,3,no,exam;assignment;project,double_pass_or_hurdle,1,neutral,t1是final全选择，其他学期final有推导不建议选。,,2026-07-10T11:18:39.208Z
+Miris sjy,COMP6713,Natural Language Processing,282,yes,yes,3,no,assessment;assignment;project;group_work,harsh_grading,2,negative,作业和final给分很烂,,2026-07-10T06:00:29.690Z
+Miris sjy,COMP6080,Web Front-End Programming,289,yes,yes,3,no,assessment;teaching_quality,harsh_grading;weak_teaching,2,negative,相当大一部分人在考试中收到了不正常的低分，0分，亦或者是unreleased,,2026-07-07T11:49:16.200Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,307,yes,yes,1,yes,assessment;assignment,none,0,positive,平时分作业交了就全是满分,,2026-07-10T04:29:35.196Z
+Miris sjy,COMP9417,Machine Learning,315,yes,,2,no,assessment;exam,content_too_hard,,neutral,期末巨难，巨难，巨难。,,2026-07-10T11:19:35.993Z
+Miris sjy,COMP6713,Natural Language Processing,322,yes,yes,3,no,exam,exam_sample_mismatch;harsh_grading,3,negative,final和sample/quiz完全不一样，给的hint基本不搭边。,,2026-07-10T06:02:03.704Z
+Miris sjy,COMP9417,Machine Learning,338,yes,yes,3,no,assessment;project;marking,content_too_hard,1,mixed,"知识点巨多还杂，HW还中规中矩
+期末题很恶心",,2026-07-10T11:25:47.252Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,348,yes,,1,yes,assessment;teaching_quality,none,,positive,,,2026-07-10T04:30:26.413Z
+Miris sjy,COMP9417,Machine Learning,350,yes,yes,3,no,assessment;exam,content_too_hard,0,positive,数学不好的慎选！,,2026-07-10T11:26:50.182Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,351,yes,yes,3,no,assessment;exam;assignment,none,0,positive,如果你目标是Pass，期末压力很小，平时分拿稳了，Final随便考考都能过。,,2026-07-10T04:31:34.838Z
+Miris sjy,COMP6080,Web Front-End Programming,442,yes,yes,2,no,assessment,positive_evidence,0,positive,made me properly see the value of my code.,,2026-07-07T11:49:16.392Z
+Miris sjy,COMP6080,Web Front-End Programming,443,yes,yes,2,no,assignment,high_workload,0,mixed,"long nights, debugging, strange spec requirements, and many different ways to solve things",,2026-07-07T11:49:23.886Z
+Miris sjy,COMP6080,Web Front-End Programming,457,yes,,3,no,assignment,high_workload;harsh_grading;poor_organization,,neutral,作业事情很多，提交规则也很折磨   tutor打分和沟通体验会很影响心态,,2026-07-07T11:49:35.141Z
+Miris sjy,COMP9417,Machine Learning,577,yes,yes,1,no,assessment,content_too_hard,1,neutral,至少学过数学系2099/2069/2859/2601/2901/2111/2011/2018/2019中的一门或几门再来上吧,,2026-07-10T11:27:37.333Z
+Miris sjy,COMP9417,Machine Learning,578,yes,yes,3,no,assessment;exam;assignment,none,0,neutral,没有dp挺友好的,,2026-07-10T11:28:52.734Z
+Miris sjy,COMP9417,Machine Learning,579,yes,yes,2,no,assessment;teaching_quality,poor_organization;weak_teaching,1,neutral,课程设计也根本没有感到教学，只有9周。在9周塞了西瓜书2/3的内容,,2026-07-10T11:29:52.946Z
+Miris sjy,COMP9417,Machine Learning,598,yes,yes,3,no,assessment;exam;group_work,exam_sample_mismatch,0,neutral,sample相关的题目很少，很多题目完全没见过,,2026-07-10T11:30:35.841Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,606,yes,yes,2,yes,assessment,none,0,positive,不学也能拿到很高的分数,,2026-07-10T04:32:30.728Z
+Miris sjy,COMP6080,Web Front-End Programming,608,yes,yes,3,no,assessment;assignment;teaching_quality,high_workload;content_too_hard,2,mixed,巨量时间投入，完全不值得。,,2026-07-07T12:00:08.110Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,609,yes,no,2,no,assessment;exam,unclear_marking;content_too_hard,1,neutral,,,2026-07-10T11:55:50.295Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,610,yes,yes,3,no,assessment;exam;assignment;quiz;lab,none,0,positive,,,2026-07-10T11:55:55.063Z
+Miris sjy,COMP6080,Web Front-End Programming,949,yes,yes,3,no,assessment;exam;assignment,delayed_feedback;harsh_grading;double_pass_or_hurdle,1,negative,发邮件给她，等了三周，在Hayden的帮助下，才回复我😭。然后给了我三分之一的分数，说我的代码运行不了,,2026-07-07T12:02:21.074Z
+Miris sjy,COMP6713,Natural Language Processing,951,yes,yes,1,no,exam,exam_sample_mismatch,2,negative,final和sample/quiz完全不一样，给的hint基本不搭边。,,2026-07-10T06:04:19.878Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,952,yes,no,3,no,assessment;exam,double_pass_or_hurdle;content_too_hard,1,mixed,期末上机写代码这个就不好过,,2026-07-10T11:56:55.683Z
+Miris sjy,COMP6080,Web Front-End Programming,957,yes,yes,1,yes,assignment,unclear_marking;harsh_grading,2,negative,四个assessment申请了三个,,2026-07-07T12:02:21.453Z
+Miris sjy,COMP6713,Natural Language Processing,959,unclear,no,1,yes,exam,content_too_hard,1,negative,,,2026-07-10T06:04:55.204Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,960,yes,yes,3,no,assessment;exam,exam_sample_mismatch;double_pass_or_hurdle;content_too_hard,1,neutral,真正难的是考试，考的是你的耐力和思维（写着写着可能就晕了）考试的那个电脑键盘和鼠标都不好用，测试也必须手打,,2026-07-10T11:57:53.034Z
+Miris sjy,COMP6080,Web Front-End Programming,966,yes,no,0,yes,assignment,unclear_marking;harsh_grading,1,negative,,,2026-07-07T12:02:22.022Z
+Miris sjy,COMP6713,Natural Language Processing,968,yes,no,1,yes,exam,exam_sample_mismatch,1,negative,,,2026-07-10T06:05:17.515Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,969,yes,no,0,yes,assessment,high_workload,1,negative,,,2026-07-10T11:58:21.114Z
+Miris sjy,COMP6080,Web Front-End Programming,974,yes,yes,0,yes,exam,none,0,neutral,把那些导航栏写出来就有十几分了,,2026-07-07T12:05:25.261Z
+Miris sjy,COMP6713,Natural Language Processing,976,yes,yes,2,no,exam,exam_sample_mismatch;double_pass_or_hurdle,1,negative,有些公式都没细讲就出题目了,,2026-07-10T06:06:03.817Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,977,yes,yes,1,no,exam,double_pass_or_hurdle,1,negative,12道题3小时，大概写5道左右才算dp,,2026-07-10T11:59:04.765Z
+Miris sjy,COMP9417,Machine Learning,979,yes,no,0,yes,assessment,none,0,neutral,,,2026-07-10T11:30:58.880Z
+Miris sjy,COMP6080,Web Front-End Programming,982,unclear,no,0,yes,exam,unclear_marking,1,negative,,,2026-07-07T12:06:23.841Z
+Miris sjy,COMP6713,Natural Language Processing,983,yes,no,1,yes,exam,exam_sample_mismatch;assessment_bunching,1,negative,,,2026-07-10T06:06:33.380Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,985,yes,no,1,no,assessment;exam,none,0,neutral,,,2026-07-10T11:59:36.712Z
+Miris sjy,COMP9417,Machine Learning,988,yes,yes,3,no,assessment;group_work,exam_sample_mismatch,0,neutral,学到的知识很有用,,2026-07-10T11:32:04.049Z
+Miris sjy,COMP6080,Web Front-End Programming,991,yes,yes,1,yes,exam,unclear_marking;harsh_grading,1,negative,直接0然后uf给我气坏了,,2026-07-07T12:07:00.282Z
+Miris sjy,COMP6713,Natural Language Processing,992,yes,no,1,yes,assessment,none,0,neutral,,,2026-07-10T06:06:54.925Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,994,yes,yes,1,yes,assessment;exam;workload,high_workload;content_too_hard,1,mixed,代码量巨大……而且期末难度持续上涨,,2026-07-10T12:01:32.191Z
+Miris sjy,COMP9417,Machine Learning,997,yes,no,1,yes,exam,none,0,neutral,,,2026-07-10T11:32:28.106Z
+Miris sjy,COMP6080,Web Front-End Programming,1001,no,yes,1,yes,assessment,content_too_shallow,1,neutral,水课,,2026-07-07T12:08:12.487Z
+Miris sjy,COMP6713,Natural Language Processing,1002,unclear,no,0,yes,assessment,none,0,negative,,,2026-07-10T06:07:17.811Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1004,yes,no,1,yes,assessment,prerequisite_gap,1,mixed,,,2026-07-10T12:02:09.929Z
+Miris sjy,COMP9417,Machine Learning,1007,unclear,no,1,yes,assessment,none,0,neutral,,,2026-07-10T11:32:53.879Z
+Miris sjy,COMP6080,Web Front-End Programming,1009,unclear,no,1,yes,assignment,high_workload,0,neutral,,,2026-07-07T12:08:39.948Z
+Miris sjy,COMP6713,Natural Language Processing,1010,yes,yes,1,yes,assessment;exam,assessment_bunching,1,neutral,平时分给得挺高，但是期末体验比较难。,,2026-07-10T06:08:07.400Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1012,yes,no,1,yes,assessment,none,0,positive,,,2026-07-10T12:02:34.222Z
+Miris sjy,COMP9417,Machine Learning,1015,yes,no,2,no,assessment;teaching_quality,none,0,neutral,,,2026-07-10T11:33:21.001Z
+Miris sjy,COMP6080,Web Front-End Programming,1018,yes,yes,1,yes,assessment,high_workload;content_too_hard,1,mixed,纯干货课 实习和现在工作全靠6080,,2026-07-07T12:09:35.941Z
+Miris sjy,COMP6713,Natural Language Processing,1019,yes,yes,3,no,assessment;exam;assignment;project;quiz,harsh_grading,1,mixed,花了不少时间学这门课加上本身有一定llm基础结果DN都没上,,2026-07-10T06:08:59.217Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1021,yes,no,2,no,assessment,none,0,positive,,,2026-07-10T12:03:17.091Z
+Miris sjy,COMP6080,Web Front-End Programming,1027,unclear,no,0,yes,assessment,high_workload,2,negative,,,2026-07-07T12:10:29.254Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1029,yes,yes,2,no,exam,none,0,positive,,,2026-07-10T04:33:11.231Z
+Miris sjy,COMP6080,Web Front-End Programming,1035,yes,no,0,yes,assessment,none,0,neutral,,,2026-07-07T12:10:50.520Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1037,yes,no,1,yes,assignment,none,0,neutral,,,2026-07-10T04:34:29.186Z
+Miris sjy,COMP6080,Web Front-End Programming,1044,yes,yes,1,yes,assessment,other,1,neutral,邮件跟课程网站成绩不一样,,2026-07-07T12:11:32.026Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1046,yes,yes,2,no,exam;assignment,other,0,neutral,期末题量是真的大,,2026-07-10T04:35:37.499Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1059,unclear,no,1,yes,exam,none,0,neutral,线上考试是在家考。,,2026-07-10T04:36:11.858Z
+Miris sjy,COMP6080,Web Front-End Programming,1064,yes,yes,1,yes,assessment,none,0,positive,涨分了，从82变84,,2026-07-07T12:12:36.780Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1066,yes,yes,2,no,exam;assignment;teaching_quality,none,0,positive,还好啦 这学期挺多人90+的,,2026-07-10T04:37:03.935Z
+Miris sjy,COMP6080,Web Front-End Programming,1071,yes,no,0,yes,exam,unclear_marking;harsh_grading,1,negative,,,2026-07-07T12:13:31.830Z
+Miris sjy,COMP6080,Web Front-End Programming,1079,yes,yes,3,no,assessment;assignment,none,0,positive,遇到的tutor都很好  给分·都很高,,2026-07-07T12:14:28.206Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1081,yes,yes,3,no,lab,none,0,neutral,很适合初学者的样子，进度也不快,,2026-07-10T04:37:48.955Z
+Miris sjy,COMP6713,Natural Language Processing,1086,yes,no,0,yes,exam,none,0,neutral,,,2026-07-10T06:09:24.834Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1087,yes,yes,3,no,assessment;exam;assignment,none,0,positive,assn2 相对简单；final 比较 generous,,2026-07-10T04:39:58.072Z
+Miris sjy,COMP6713,Natural Language Processing,1096,unclear,no,1,yes,exam,content_too_hard,1,negative,,,2026-07-10T06:10:46.188Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1097,yes,,3,no,assessment;exam;marking,none,0,positive,wam booster,,2026-07-10T04:40:44.452Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1138,yes,no,2,no,assessment,none,0,positive,,,2026-07-10T12:04:04.358Z
+Miris sjy,COMP9417,Machine Learning,1139,yes,,2,no,assessment,content_too_hard,,neutral,不少同学scale后才pass；如果概念理解不到位，作业和考试都会比较痛苦。,,2026-07-10T11:34:04.023Z
+Miris sjy,COMP6080,Web Front-End Programming,1151,yes,yes,2,no,assessment;assignment,group_work_risk,0,neutral,最终分数会看个人贡献，不建议只依赖组队。,,2026-07-07T12:15:07.773Z
+Miris sjy,COMP6080,Web Front-End Programming,1205,yes,yes,3,no,assessment,other,0,neutral,,,2026-07-07T12:15:49.073Z
+Miris sjy,COMP6991,Solving Modern Programming Problems with Rust,1206,yes,yes,3,no,assessment;exam;assignment,none,0,positive,很大程度上的是比较rust对于其他语言的优势,,2026-07-10T04:42:59.137Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1225,yes,no,1,no,assignment,none,0,neutral,,,2026-07-10T12:04:44.281Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1226,yes,yes,2,no,exam,content_too_hard,1,negative,final不好过，最好自己写熟练，考试题量很大，必须很熟练.,,2026-07-10T12:05:54.451Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1227,yes,yes,2,no,exam,unclear_marking,1,negative,写了八题auto全过9/10写了一点点以为起码能拿70的结果6/8扣一堆分,,2026-07-10T12:06:32.367Z
+Miris sjy,COMP9044,Software Construction: Techniques and Tools,1228,yes,yes,3,no,assessment;exam;resource_quality,high_workload,0,neutral,非常实用的课，非常耗时的课,,2026-07-10T12:07:48.123Z
