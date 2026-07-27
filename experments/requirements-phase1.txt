@@ -1,0 +1,16 @@
+# API client, credential loading, retries
+openai>=1.0
+python-dotenv>=1.0
+tenacity>=8.2
+
+# Data, retrieval, analysis, and figures
+numpy>=2.0
+pandas>=2.2
+rank-bm25>=0.2.2
+scikit-learn>=1.5
+scipy>=1.13
+matplotlib>=3.9
+tqdm>=4.66
+
+# Verification
+pytest>=8.0
