@@ -1,0 +1,119 @@
+Paper 1 v2 实验结果说明与文件索引
+更新日期：2026-07-21
+
+本文件只整理两组可用于 Paper 1 的 v2 结果：
+1) 26 门课程的 r=1 确认性扩展（主结果）；
+2) 26 门课程的 r=8 最坏情境压力测试（补充/附录结果）。
+
+============================================================
+一、26 门课程 v2 确认性扩展：主结果
+============================================================
+
+结果根目录：
+C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719
+
+实验设计：
+- 课程数：26。
+- 主确认性矩阵：BM25 retrieve-then-summarize，r=1。
+- 攻击族：topic_aligned_low_evidence（低证据竞争）与
+  topic_aligned_reframing（低证据重述）。
+- seed：201、202、203；每个攻击条件均与同课程 clean 对照配对。
+- 主确认性矩阵：182/182 成功，审计 PASS。
+- 管线稳健性矩阵（Direct、BM25、evidence-constrained）：364/364 成功，审计 PASS。
+- Agent 可见评论 ID 已通过 opaque-ID 审计；没有向外部平台发布候选评论。
+
+核心结果（课程级配对均值；括号为 bootstrap 95% CI）：
+1. BM25 + r=1 的目标证据召回显著下降：
+   - 低证据竞争：target evidence recall@8 = -0.670 [-0.748, -0.582]；
+     target risk retained = -0.423 [-0.628, -0.205]。
+   - 低证据重述：target evidence recall@8 = -0.674 [-0.765, -0.572]；
+     target risk retained = -0.359 [-0.538, -0.179]。
+2. r=1 下，Direct 与 evidence-constrained 的风险保留变化没有显示与 BM25 同等稳定的下降。
+3. 因此主结论应写为：主题对齐的低证据文本会稳定造成检索层证据竞争，
+   并在 BM25 检索—汇总流程中降低目标风险保留；不能写成所有 LLM 摘要 Agent 普遍失效。
+
+重点文件：
+- 总执行摘要：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\EXECUTION_SUMMARY_zh.md
+- 主矩阵结果说明：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\main\RESULTS_zh.md
+- 主矩阵汇总表：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\main\effect_summary.csv
+- 主矩阵逐课程配对指标：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\main\paired_target_metrics.csv
+- 分层敏感性结果（strict complete 8 门 vs user-approved exception 18 门）：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\main\effect_summary_by_tier.csv
+- 三管线稳健性结果说明：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\robustness\RESULTS_zh.md
+- 三管线稳健性汇总表：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\robustness\effect_summary.csv
+- 主审计：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\output_audit_zh.md
+- 稳健性审计：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\robustness_audit_zh.md
+- 运行参数与可复现清单：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_20260719\MANIFEST_zh.md
+- 主结果图：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\figures\feature_confirmation_26_v2_20260719\F_confirmation_bm25_r1_effects.png
+- 管线稳健性图：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\figures\feature_confirmation_26_v2_20260719\F_confirmation_pipeline_robustness.png
+
+============================================================
+二、26 门课程 r=8 最坏情境压力测试：补充结果
+============================================================
+
+结果根目录：
+C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719
+
+实验设计：
+- 课程数：26。
+- 比例：r=8，即每门课合成评论数约为真实评论数的八倍。
+- 管线：Direct 与 evidence-constrained；未运行 BM25 r=8 主矩阵。
+- 攻击族：低证据竞争、低证据重述；seed：201、202、203。
+- 成功运行：364；审计 PASS。
+- 候选池：21,888 条记录，21,209 条自动通过；自动筛查不等同于人工盲审。
+
+核心结果：
+1. Direct 在 r=8 下出现端到端风险保留下降：
+   - 低证据竞争：-0.205 [-0.359, -0.064]；
+   - 低证据重述：-0.244 [-0.410, -0.077]。
+2. evidence-constrained 的风险保留下降较弱，CI 跨 0；但两类攻击均有具体性下降。
+3. r=8 是 worst-case exposure pressure test，不代表任何平台的真实平均广告、软广或合成评论比例。
+
+重点文件：
+- 总执行摘要：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\EXECUTION_SUMMARY_zh.md
+- 结果说明：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\RESULTS_zh.md
+- 汇总表：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\effect_summary.csv
+- 逐课程配对指标：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\paired_target_metrics.csv
+- 分层敏感性表：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\effect_summary_by_tier.csv
+- 可复现清单：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\reports\feature_confirmation_26_v2_pressure_r8_20260719\MANIFEST_zh.md
+- 图：
+  C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\figures\feature_confirmation_26_v2_pressure_r8_20260719\F_confirmation_pipeline_robustness.png
+
+============================================================
+三、逐次运行与原始输出的位置（两组实验共用的复核原则）
+============================================================
+
+26 门 r=1 主实验与稳健性运行：
+C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\runs\feature_confirmation_26_v2_20260719
+
+26 门 r=8 压力测试运行：
+C:\Users\MSN\Desktop\unsw\6441\project\paper1_experiments\runs\feature_confirmation_26_v2_pressure_r8_20260719
+
+运行目录中的主要内容：
+- conditions：每个条件实际输入的评论集合；
+- agent_outputs：每个 Agent 的原始总结；
+- judge_outputs：自动 Judge 的逐条评估；
+- agent_run_metrics.csv 或 agent_run_metrics_merged.csv：逐运行指标；
+- output_audit_zh.md：运行完整性与 opaque-ID 审计。
+
+重要限制：
+- 自动 Judge 结果不替代人工效度结论；6 门 pilot 的单标注者人审不能外推为 26 门人审。
+- CDEV3500 的冻结 gold risk 标签为 none，因此其 target-risk 指标仅作为预先保留的低可解释性敏感性观察，不能单独作为风险效度证据。
+- 旧 phase2 / phase2_highdose 是 v1 历史结果，存在早期 record-ID 条件泄露混杂；不要纳入 Paper 1 正式结果。

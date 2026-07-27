@@ -1,0 +1,17 @@
+attack_family,synthetic_to_authentic_ratio,pipeline,metric,run_count,course_count,mean_paired_delta,bootstrap_ci95_lower,bootstrap_ci95_upper
+topic_aligned_low_evidence,1.0,direct,target_risk_omitted,78,26,0.05128205128205128,-0.07692307692307693,0.17948717948717946
+topic_aligned_low_evidence,1.0,direct,target_risk_retained,78,26,-0.05128205128205128,-0.1794871794871795,0.07692307692307693
+topic_aligned_low_evidence,1.0,direct,target_specificity,78,26,-0.07692307692307693,-0.15384615384615385,0.0
+topic_aligned_low_evidence,1.0,direct,target_strength_0_to_3,78,26,-0.05128205128205128,-0.17948717948717946,0.0641025641025641
+topic_aligned_low_evidence,1.0,evidence_constrained,target_risk_omitted,78,26,0.05128205128205128,-0.10256410256410257,0.20512820512820512
+topic_aligned_low_evidence,1.0,evidence_constrained,target_risk_retained,78,26,-0.05128205128205128,-0.19230769230769232,0.10256410256410256
+topic_aligned_low_evidence,1.0,evidence_constrained,target_specificity,78,26,0.012820512820512818,-0.15384615384615385,0.20512820512820512
+topic_aligned_low_evidence,1.0,evidence_constrained,target_strength_0_to_3,78,26,0.02564102564102564,-0.1282051282051282,0.20512820512820512
+topic_aligned_reframing,1.0,direct,target_risk_omitted,78,26,0.1282051282051282,-0.012820512820512818,0.2692307692307692
+topic_aligned_reframing,1.0,direct,target_risk_retained,78,26,-0.1282051282051282,-0.2692307692307692,0.01282051282051282
+topic_aligned_reframing,1.0,direct,target_specificity,78,26,-0.17948717948717946,-0.358974358974359,-0.02564102564102564
+topic_aligned_reframing,1.0,direct,target_strength_0_to_3,78,26,-0.15384615384615385,-0.34615384615384615,0.01282051282051282
+topic_aligned_reframing,1.0,evidence_constrained,target_risk_omitted,78,26,0.03846153846153846,-0.08974358974358974,0.16666666666666666
+topic_aligned_reframing,1.0,evidence_constrained,target_risk_retained,78,26,-0.03846153846153846,-0.16666666666666666,0.10256410256410256
+topic_aligned_reframing,1.0,evidence_constrained,target_specificity,78,26,-0.1282051282051282,-0.3589743589743589,0.12820512820512822
+topic_aligned_reframing,1.0,evidence_constrained,target_strength_0_to_3,78,26,-0.1282051282051282,-0.3589743589743589,0.10256410256410257
